@@ -1,0 +1,45 @@
+Question: How should I structure my brand and product naming as I grow and add new offerings?
+Answer: Keep your core or umbrella brand name (e.g., 'Echidna') and use it for all product lines, such as ‘Echidna Treeguard’ for your current offering and additional descriptive product names for future offerings. As you expand, each product becomes a sub-brand under the main umbrella. This maintains clarity, simplicity, and brand consistency, while supporting a broader purpose as your product range grows.
+Key Insight: Always anchor your suite of products to your main brand identity; this makes scaling and communicating your purpose easier for you and your clients, without losing what makes your brand recognisable.
+
+---
+
+Question: Should I use a unique spelling for my brand name, or stick with the standard spelling to avoid confusion?
+Answer: Unique spellings (like using ‘K’ instead of ‘CH’ in ‘Echidna’) can stand out but can also cause ongoing confusion if people constantly misspell or ask about it. Stick with the conventional spelling if clarity and ease of sharing matter more, unless you are deeply attached to the custom spelling. It’s a practical decision—do what makes referrals and discovery easier for your business.
+Key Insight: The less you have to explain or spell out your brand, the easier you make it for customers to find and refer you.
+
+---
+
+Question: How do I improve and focus my purpose statement and tagline?
+Answer: Make your purpose statement short, emotional, and clear—ideally in one punchy sentence. Use ChatGPT to help condense and make it more emotive if needed. Taglines can be a little longer than a slogan, but should remain concise and focused on core benefits ('Helping farmers regenerate the land with tools built to last'). Use language that reflects your business and audience—if ‘Aussie’ or ‘rugged’ resonates, include it, but avoid sounding generic or overly technical. Test a few options, ask for feedback, and refine over time.
+Key Insight: Keep your messaging simple, emotive, and aligned with your audience’s language and values for maximum impact.
+
+---
+
+Question: What’s the best use of hidden landing pages for SEO and ads? Is it worth creating lots of them?
+Answer: Hidden landing pages (accessible via direct links and not from your main navigation) are best used for running ads, testing messaging, or tailoring to specific search terms and audiences. For organic search, instead of duplicating pages for every keyword, write targeted blog posts and update your main offer page. Start with a few landing pages and test with ads before expanding. Google's organic results emphasize freshness and activity, so regular updates and paid traffic work better than endlessly duplicating landing pages.
+Key Insight: Focus on strategic, selective landing pages and reinforce with fresh content and ads, rather than scattering effort across too many similar pages.
+
+---
+
+Question: What’s an effective, practical marketing plan for a growing business?
+Answer: Prioritise paid ads for tangible results (set a modest daily budget), and use organic social posts mainly for credibility (1–2 posts/week). Run regular giveaway campaigns and boost content that performs well. Google Ads can support your organic ranking and target additional segments—work with a freelance specialist for a small-scale, non-committal trial. Encourage Google reviews after every job (and use keywords in your replies). Don’t neglect community Facebook groups and consider physical brochures—but make them genuinely creative (use ChatGPT for ideas). Track your lead data weekly if possible, and blog as capacity allows (monthly is fine, weekly is great).
+Key Insight: Consistency and focus matter more than volume—balance your channels, track what works, and double down on actions that move the needle for your core business goals.
+
+---
+
+Question: How can I use brand archetypes and ChatGPT to ensure brand voice consistency?
+Answer: Use ChatGPT to identify your brand’s top archetypes by inputting your core values, tone, and audience. Ask it to generate a custom prompt containing these details. In ChatGPT Plus, create a new agent using this prompt—name it for your brand, and share it with your team for consistent on-brand content. Even with AI, always review and personalise outputs to fit your business voice. If you don’t have Plus, the custom agent feature might not be available, but you can still use the brand voice prompt manually.
+Key Insight: Building a dedicated AI agent for your brand streamlines content creation and keeps messaging consistent—just remember to humanise the output for authenticity.
+
+---
+
+Question: How do I get trusted referrals or listings for good marketing and ads specialists?
+Answer: Collect and share recommended contacts in a central member resource page for your community to easily find and access trusted service providers (marketers, ad specialists, etc.).
+Key Insight: A shared, curated referral list saves everyone time and helps match small business owners with proven, trusted experts.
+
+---
+
+Question: What’s the one thing I should do now to improve brand content with ChatGPT?
+Answer: If you have ChatGPT Plus, set up your brand agent immediately using your brand’s tone, values, and archetypes—don’t wait for the “perfect” moment. Start using it for content today and refine as you go.
+Key Insight: Taking ten minutes now to set up your brand agent pays off quickly, saving you energy and ensuring you stay consistent and professional as your brand grows.

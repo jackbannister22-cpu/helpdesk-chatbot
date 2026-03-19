@@ -1,0 +1,147 @@
+Christo: We'll be rolling through a bunch of questions that have been sent through. As always, there's no judgment on anything anybody says or shares. If you've got an idea for someone else, more brains are always better than one or two, so feel free to jump in if you have a thought or any of your own experience that will benefit someone else in relation to their question as well as we roll throughout. We'll get straight into it.
+
+Matt, you're first up. You've got a new product. Can you share more about this new product? Is this the eggs, chickens?
+
+Plumbing Business Owner: I'm just thinking about pricing strategy. We believe it'll be a superior product, but we don't necessarily need to price it any more than what the premium is already in the market. Premium eggs are pasture-raised eggs, and they're already sitting pretty high in terms of price. The only thing that's dearer than that is an organic pastured egg, which is sitting at around $15, $16 a dozen. Pastured are sitting at around $12 a dozen retail. Sometimes they're dearer than that.
+
+Christo: If anyone's wondering, we're talking about forest-raised chickens, the eggs—forest-raised chickens. Matt has an existing business and is launching this new product line: eggs from forest-raised chickens. Price definitely impacts the perception of the quality. Staying at a higher price will create a better perception that it's better. In general, for just about all products, it's harder to go up with price later than it is to come down a little bit. Going up can lose people or annoy people because it's almost like you've achieved the perception at the rate you came in with, and then you put the price up. They feel overcharged for something they believe is now worth less.
+
+It also depends on the customers you're selling to. Depending on where you're selling, you can sometimes use discounts. You can create a higher perception by coming in at the absolute top—$15, $16 even—and then go with an intro purchase trial, forest-raised eggs for $13. Suddenly, we're getting a deal, even though you're charging a dollar more than the standard you were thinking anyway. Obviously, that depends on the customer. If you're selling to an independent grocer, that might work; places like the big chains, they'll probably set their own pricing. But selling direct, that's usually how we'd sort it: price it high, then do intro offers to get it out there, like a first-time buyer offer to get traction. Where are you thinking of selling them?
+
+Plumbing Business Owner: With our pilot farm, we'll probably do a mixture of retail and wholesale. Wholesale would be to independent grocers and butchers. I do want to try some retail though, because I think having a mix is probably a good strategy. I’m also thinking about putting some vending machines into gyms with eggs.
+
+Christo: That would seem really specialized through the gyms. That's awesome, and I think it'll work with that kind of pricing approach. One pricing strategy is you come in high—let's say top $15 or $16 if you want a real high perception—and then the intro offer is the same rate as the others, or you match their current pricing for pilots or early sign-ups, even though your regular price is going to sit at the higher point. That way, there’s no risk to them, but a higher perception of value.
+
+Plumbing Business Owner: It probably depends on where we want to scale to, because $15 or $16 a dozen is high for most people. If you want to scale and not have a problem getting rid of them, then probably we need to be a bit lower. It all works economically, just pricing at a normal pasture rate. No real economic pressure to go higher, other than maximizing returns.
+
+Christo: It definitely creates the perception of quality when you stay higher on price. If organics were charging the same as standard, we wouldn’t view them as better. 
+
+Plumbing Business Owner: There's another business owner up the road who’s been charging $15 per dozen for five years, doing a subscription-type model with cafes. So it’s doable.
+
+Christo: Yes. It's easier to come down with price than to go up. If you put the price up later, it can upset people.
+
+Plumbing Business Owner: Thank you very much.
+
+Christo: No worries, you're welcome. Feel free to tweak it, adjust, and resubmit for future sessions or throw it in the online community so we can keep things rolling for you. Awesome work. It's exciting to hear. And I like the comment in the chat: if we're caring for the animals properly, that probably is the true price, and there are always customers willing to pay. 
+
+Plumbing Business Owner: To answer your question, they won't be organic. They'll definitely be free range and the best possible quality ecosystem for the birds. Organics would be hard for us, as organic feed is double the price and there are more requirements.
+
+Christo: There's no reason you can't create the perception with forest-raised. It sounds catchy and natural. I like it.
+
+Plumbing Business Owner: Cool.
+
+Christo: Awesome. Have you got existing wholesale channel partners?
+
+Plumbing Business Owner: Not yet, no. We won’t be going for the larger wholesalers for a while; probably not until after the pilot farm.
+
+Christo: Cool. Awesome work. And thanks for the comments in there as well—good feedback to keep things rolling. Next question.
+
+[Section break]
+
+Christo: Next question is for Jen. Jen submitted a Figma board for an updated homepage—basically a draft mockup for an updated homepage. If there's any more info you want to give, go for it.
+
+Retail Business Owner: We're pushing for small businesses—particularly in the building construction industry. We're looking to bring on about a 50% increase in the next 12 months so I can potentially sell the business. Our clients still say they don't know we were mortgage brokers, so that's why we've put that mortgage broking tile in yellow in the rotating banner. Other than that, it's a rebrand, a bit more modern. Problem: trying to talk to who our ideal client is.
+
+Christo: First of all, awesome work. It looks nicely branded—clean, with your brand colors. Maybe for everyone: what would you typically look at when you land on a website? Where do your eyes go, and what do you think the site does in the first two–three seconds? Anything you like, don't like, feedback, just pop it in the chat.
+
+For you, Jen: with a rotating banner, is there a certain one you prefer?
+
+Retail Business Owner: The first one is the one we currently have as a static—the little rocket ship one. The copy isn’t great, but we like the video; it’s a moving thing. For me, I need to get the loans showing because it's an easy market, and the businesses, the tax one, which is there now, is a secondary. We've got enough individual tax returns, so we’re pushing the first two.
+
+Christo: With a rotating banner, I always want to know, do you really need it? The most important part of your website is what we see before we scroll—above the fold. If I land here and I’m a fickle visitor, I might only see one banner frame, and if it's not the main thing you want, I scroll down and possibly miss what you actually do.
+
+The rotating is too fast. It needs to be at a pace that people can actually take in. If you can only show one, which would you pick? Or you could have one banner with three things on it—a simplified version where the main thing is clear, with the main three options.
+
+Retail Business Owner: The three buttons below the banner—there’s something off about them. They just look weird to us but we don’t know how to fix it. Maybe we could put the rocket ship video and then those three there, like the loans, the growth, and whatever.
+
+Christo: I don’t love that design either. The pink on the blue, the open space—it’s a bit childish, a bit too much contrast and energy. Maybe those should come up higher or be more subtle. The color clash is likely what's putting you off.
+
+Participant: The tone difference of the blue and pink is causing a ‘broken color’ effect—it vibrates visually and distracts from the message.
+
+Retail Business Owner: Exactly, but we couldn’t work out how to make them stand out differently.
+
+Christo: What might work is removing that whole section or reducing it so visitors can see more of the text further down: “Build a business that works, whether you’re just starting out or scaling to 7 figures,” etc. That’s engaging. Let visitors take a journey before diving into the calls to action. This blue section wastes valuable real estate; if it came up, it would look cleaner.
+
+Retail Business Owner: That’s helpful—it gets rid of my issue without doing much.
+
+Christo: Exactly. And it’s fine to take visitors on a journey rather than hit them with calls to action everywhere. For most businesses, a gradual build works better. Then coming down the page—photos of you and a real human story are great. For testimonials, you can emphasize a ‘headline’ or ‘pull quote’—highlight a key phrase at the top of each, or write a little summary of the results. Visually, add a graphic like five stars for fast skimming. If you have testimonials from your target industry, mention it there too.
+
+Retail Business Owner: Great idea. Will do.
+
+Christo: Are all your customers Australia-based?
+
+Retail Business Owner: Yes.
+
+Christo: Add a note somewhere about “helping Australian small businesses” or “real advice from our [location] office” to clarify. People want to know they’re on the right site, and local context builds trust.
+
+Retail Business Owner: We saw another site say “helping Newcastle small businesses but servicing Australia-wide”—that kind of thing.
+
+Christo: That’s good. Also, in the about menu, that’s usually to the right, just for consistency. On the About Us page, copy those three categories up top as well. Visitors want to connect with you and then have a clear path to purchase or inquire after reading your story.
+
+Retail Business Owner: Understood.
+
+Christo: For the footer, standard sections are good for SEO and navigation. You can consider adding brand values there for extra consistency.
+
+Retail Business Owner: I might add a video to the About page, me talking to people in the building and construction industry.
+
+Christo: That’s a good idea. You could put it in place of the static image for human connection.
+
+Retail Business Owner: The developers want to get the site live because our old one is terrible. Now that I’ve learned more, I see it doesn’t say who it’s for.
+
+Christo: Exactly. Feedback in the chat: logo is hard to recognize, hard to tell who you are at first. Those are good things to tweak as you go.
+
+Retail Business Owner: Thank you.
+
+Christo: No worries. Keep it rolling, adjust and resubmit as you go. Don’t feel you need massive changes—just small tweaks based on feedback. Nice work.
+
+[Section break]
+
+Christo: Next question is for Paul. Paul, feel free to share your main question.
+
+Not-for-Profit Director: I currently run a not-for-profit in the US. We mainly do training in teamwork, trust, and collaboration skills. We’re facing funding challenges, so I’m thinking about other revenue streams. I have experience in peer-based learning, project-based learning, participatory action research. I’m discussing with a school of government about a series of peer-based learning groups on questions like how public servants cultivate wisdom in an AI-driven world, the ethics of AI, etc. There’s interest, but my main question is: is it viable to build a whole business around peer-based learning groups for adults?
+
+Christo: There might be an element of selling them what they want, even if what they need is different. For market research, you could use Google Trends to see if people are searching for peer-based learning, especially for adults or corporates. Survey past customers or your database for feedback, describing workshops in a few different ways to see what’s most appealing. Search Google for competitors and see if there are ads—if businesses are advertising, there’s probably a market.
+
+Not-for-Profit Director: I see a lot of searches for peer learning in schools, but not as much for adults. That’s the big question.
+
+Christo: Try adjusting your search terms, like “peer learning for corporates/adults.” When people pay for ads, there’s usually a lead flow. Also, for naming or framing it: test out terms, like “developing collective wisdom,” or “transformative teamwork.” You need to get specific about the outcome in your hook—think of one or two lines that a prospective client gets immediately. Recap what the group achieves and for whom.
+
+Not-for-Profit Director: I could niche it down to just AI, but that’s not my only interest.
+
+Christo: A good approach is to start broader and then, if one hook works, use that, but you don’t have to put every egg in one basket. For the rest of your questions:
+
+- Focus for your Substack (or initial offering): keep it aligned thematically to your workshops, but it doesn’t have to be identical. Even if the book is about individual perspective and the offering is for teams, as long as the audiences correlate somewhat, you can make it work.
+- For personal branding: “peer learning innovator” and “perspective-taking expert” both work, but let’s first clarify your one-liner hook and refine the rest to match.
+- For primary audience: you may have a few types; you can segment your site or messaging as needed. That can come as you get more clarity.
+- For leveraging your book: use it as a tool with partners, media, and intro offers. Seed stories and examples in the book that show your work. Use the book for speaking and consulting leads—have a couple of keynote topics ready, a product menu, etc. We can deep-dive into this more.
+- For content, start with a few strong articles, blog posts, podcasts or videos, then work people through a journey—each piece leads to the next step up.
+- Visualize your offerings as a pyramid: bottom = most eyes/free offerings (articles, free content), then an opt-in or low-cost offer, then a paid intro, then premium service. This helps us plot the journeys and pricing.
+- For credibility, it’s fine to keep the association with the pro-social brand while building your personal brand—use both for a while.
+
+Not-for-Profit Director: Thank you. That’s a lot to think about.
+
+Christo: Absolutely. We can go deep on any of these in your upcoming program sessions, and as you refine, you can resubmit or bring back questions here.
+
+[Section break]
+
+Emma: We've used the same question in our business for a few years: should we refresh it or switch angles? Racking is the core.
+
+Christo: If racking brings the majority of revenue, it should stay your main focus on the website. The most common or lucrative offering is the one to feature. I like the warehouse image; it makes sense since you can show your product, unlike a purely service-based offering. Prioritize your bestsellers from left to right.
+
+Emma: I get questions about the empty warehouse. Is that a problem?
+
+Christo: Not really. It lets the visitor imagine filling it with your products. For the headline, if “looking for a reliable racking solution” still works, don’t change it needlessly. However, there’s no answer beneath—it could use a brief line like “Providing quality racking and office furniture for over 21 years in the Toowoomba area” (or your local area if applicable). Locality is important for your kind of product.
+
+Emma: Should we add reviews? 
+
+Christo: 100%. Google reviews displayed on the website are very helpful. There are plugins for WordPress, or you can screenshot and add your best ones directly. Prioritize reviews left to right by top product and then by type of customer—you want visitors to recognize their own needs in your testimonials.
+
+Emma: Should we change the image or keep it subtle behind the text?
+
+Christo: As long as it doesn’t overpower, and your text is still clear, you can keep it. Industrial works for your audience. 
+
+Emma: Got it. Thank you.
+
+Christo: If you make changes, feel free to resubmit for feedback before you go live. You don’t need to reinvent things if it’s working—just a few tweaks.
+
+That's the final question for today. Nice work, everyone. If you have further tweaks or questions, keep them coming for future sessions.

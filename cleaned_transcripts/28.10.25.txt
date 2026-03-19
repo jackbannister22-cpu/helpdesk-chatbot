@@ -1,0 +1,97 @@
+Christo: So we've got one question today about a website—if the person doesn't join, we'll do a review and then she can watch the recording. Since there are only a few of us, does anyone else need help with something? A quick review, a brainstorm, something that isn’t working that you want a quick chat about?
+
+Client (a surf school/gym business owner): We’re currently reviewing our surf school website. It’s very much in the early stages, and we’ve had some preliminary screenshots come back. The old website has black, yellow, and white branding—very outdated. But since we’ve now also got the new gym business and brought everything under the one umbrella, I felt we should move away from the yellow-black branding and look at something fresher, maybe more in line with our Surfers Compass site. I’d like your advice—should we tie all three businesses closer together visually, or keep their own identities?
+
+Christo: In terms of brand strategy, there are different options. You can have a family of businesses that are tied together visually, but in this case, it feels like they do have their own brand identities. I wouldn’t bother making your surf school site look like Surfers Compass. For example, if you had a kids’ division, you might use the same surf school logo but switch up the color. But because they’re different brands, you can keep separate identities. The Surfers Compass website is beautiful, I wouldn’t mess with that. If you want to move away from the yellow, it depends on how much you’ve already invested in that color for your brand.
+
+Client: We’ve been moving away from yellow, wanting something fresher and more modern. Maybe just a newer WordPress site and better images. The new preview was very black and very yellow—stood out a lot.
+
+Christo: To keep things modern and timeless, the brief should say keep the black and white, and just add one complementary color. Doesn’t have to be yellow. It could be one of the colors from your other sites—maybe the blue or pink. Using that color scheme with black would look nice.
+
+Client: That’s what I was thinking. If you look at our logos, they're all done by the same designer. The surf gym and compass logos are similar, and use yellow too.
+
+Christo: They look great. You could align the color scheme—maybe the surf school uses more black, still with the complementary colors, but maybe less of the yellow and without gradients. Gradients are cool now, but they can date quickly. 
+
+Client: I like those colors, and I love pink, which Matt’s also a fan of. Maybe use one of those for Surf Zone, another for Surface Gym?
+
+Christo: Yes, or you can align the color scheme by brand—surf school more black, gym or compass more white, but same two complementary colors. If the fade is used on one, just know these styles come in and out of fashion. 
+
+Client: That helps. We don’t want to move away from the fun, vibe-y surf school brand, but want to bring it closer in feel to the more grown-up, knowledgeable Surface Compass.
+
+Christo: I think the Surface Compass brand is really strong—modern, fresh, calm, very app-like, which gives certainty rather than anxiety. Your current surf school site is information-overloaded and yellow can be a bit overwhelming. Minimizing information, making it fun but easy to read, is key. Since people book into the wrong lessons, it’s important the info is digestible.
+
+Client: Yes, the challenge is to share what’s needed but keep it readable.
+
+Christo: Color coding can really help. If all kids’ stuff uses pink, adults’ blue, then info and booking buttons are unconsciously aligned with that. When it's time to book, the pink button is clearly for kids, blue for adults.
+
+Client: That’s helpful, thank you.
+
+Christo: Visually in the office, it's clear what goes with what. We do this with our programs as well—each one has a separate color. Brochures, materials are all color-coded. 
+
+Client: Okay, that sounds good for us.
+
+Christo: That’ll help you keep the vibe, but tie things together, too.
+
+—
+
+Client (a travel business owner): Can I pick up on the SEO session Christo did recently? We talked about moving from keywords to phrases and using frequently asked questions per trip page—not just one main FAQ page. I want to do this for AI searchability, but there’s already a lot on each trip page, and I’m unsure where the FAQs would fit.
+
+Franziska: The FAQ approach is excellent. If you need to get your business partner on board, book her into the next masterclass that Christo is running on the 11th of November. Heidi can book her in for free, and if she misses it live, she’ll get the recording.
+
+Client: Can we both book in?
+
+Franziska: Yes. Message Heidi and say I said it was fine.
+
+Client: Thank you.
+
+Franziska: About the FAQ placement—having comprehensive answers for high-value decisions is reassuring. Placing the most important FAQs at the bottom of the trip page is fine—though ideally, above the form or before the call-to-action, so people still see the booking details easily. If there’s too much content, put the most relevant FAQs on the trip page and link to the main FAQ for more general questions.
+
+Client: Do you agree that for SEO, you want the content directly on the page, not just a button link?
+
+Franziska: Yes, have them written out on the page for SEO.
+
+Client: Thanks, that's helpful.
+
+Franziska: You can always do the main ones and link to the rest. Specific FAQs like “How does the Meltemi wind affect sailing in Greece?” are great—they establish authority. If you answer destination-specific questions, it shows you know your stuff.
+
+Client: That’s what I wanted—Caribbean rain, or other specific topics.
+
+Franziska: Exactly. The more you tailor your answers, the more both people and search engines trust you.
+
+—
+
+Franziska: Lastly, Catherine asked about messaging last time—her homepage currently says, “Transforming organizations through creative leadership and human.” We know now, after seeing her run a session, that her real magic is in how she brings creativity and visual thinking. But it’s not coming across on the website.
+
+Client: Yes, after a year, I still couldn’t explain what she actually does. You’d need to see someone’s experience up front, not scroll for ages.
+
+Franziska: Right, because her point of difference is she uses creativity and art to shift mindsets. That’s unique. The current messaging is professional, but doesn’t fully represent the creative process or outcomes.
+
+Client: Yes, she needs something immediate—maybe a video snippet of her in action and testimonials.
+
+Franziska: Absolutely. If she could cut together a real highlight reel—showing how she gets people up, actively engaging, choosing art cards, having unexpected conversations—that would communicate her unique value fast. Group WhatsApp requests for feedback rarely work. She should private message people who attended and ask, “If you had to tell someone about my work, what would you say?” The more childlike and simple, the better.
+
+Client: That would help her clarify what she’s known for.
+
+Franziska: Yes. She needs her “rabbit hole”—the thing she’s known for, like how I’ve positioned myself on courage for now. If you’re not known for something specific, you won’t be referred. It’s easy to get scattered, but you have to pick your focus. Like a marketing agency doing just reactivation campaigns—they’re easy to refer because it’s clear and specific.
+
+Client: The industry’s too big to be good at all of it.
+
+Franziska: Exactly. No one believes a generalist. So, for Catherine, choose the thing. Is it “creativity for organizational change”? “Unlocking visual thinking for teams”? Only she can choose. Then stick with it. 
+
+—
+
+Client: Quick question about Ontraport vs ActiveCampaign. I feel stuck with expensive packages that do more than I need. Can Ontraport do emails, CRM, website tracking, forms, automations, and also talk to Leadpages?
+
+Franziska: Yes to most, but for specific integrations like Leadpages, best to double check with an expert—Emma, who you met at our event, is great for this. Ontraport isn’t super cheap either, and it’s in US dollars, so confirm the features and pricing with Emma.
+
+Client: Good point—ActiveCampaign is US dollars as well.
+
+Franziska: We use Ontraport for everything, including SMS campaigns. For example, you can text your old leads about new trips, which is a powerful reactivation tool. Most systems can do this, and if people unsubscribe, they’re not your ideal clients anyway.
+
+Client: That makes sense.
+
+Franziska: Ultimately, use the tool that suits your needs, and make sure you’re getting value for what you’re paying for. If you need an intro to Emma, I’ll send a quick email connecting you both.
+
+Client: Thanks, I'll reach out to her.
+
+Franziska: Perfect. That covers it!

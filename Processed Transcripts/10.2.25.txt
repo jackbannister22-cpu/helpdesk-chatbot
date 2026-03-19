@@ -1,0 +1,297 @@
+Speaker A: So today I have one major thing I would like to achieve, and for you, and I would love to try and implement it as we go through this together, not just teach you something, but actually do it with you together right now. And that is use ChatGPT to help you come up with your brand strategy, or at least like get clear on your brand strategy, and then also create a custom GPT. So let me share my screen quickly to show you what I'm talking about. Here we go. So you can see my— can you see my screen where it says Brand Voice Builder? Yeah. So, so what— so the topic of this, this week is all about your brand strategy. And the most important thing is how you can stand out. Because there, there's a lot of competition. Everyone using AI at the moment is sounding very much the same. So people are blending in, and this is in every industry. Everyone is blending in more and more because if we don't have a strategy about for the brand, then if you just use ChatGPT here and you just say, hey, can you please help me come up with some Instagram content for my cosmetic clinic? And write 5 posts, it will just— everyone who uses the same prompt will just sound the same. So what we need to do, and that's not good because then people can't connect. A brand is like a person and we need to define what that is, that person. And so what we want to do today is we want to create a brand voice. So for your business, I've got one here for Basic Bananas. I've got another one which isn't featured here for Ocean Lovers, and I've got one for me. Has my own personal writing style. So what do we want to do today is create one of these GPTs for your own business inside your ChatGPT. So quickly, let me see here who has a ChatGPT account. If you can quickly, you know, maybe pop an emoji in or a yes in the chat. Who already has a ChatGPT account? Yep, MJ has a ChatGPT account. Manal, maybe. Dee has one. Ali, do you have one? Yes, Manal has one. Tara is just doing bedtime. And MJ? Yes, Tara has one. Ali, don't think so. A ChatGPT account. Okay, who here out of— so Ali, definitely it's worth just signing up to ChatGPT. Are you using any kind of AI? Are you using Gemini or anything else? Ali, are you using any of the LLMs?
+
+Speaker B: She replied back in the chat saying no.
+
+Speaker C: No, I'm not at the moment. I'm not very good at AI. That's why I'm here.
+
+Speaker A: Yeah, yeah, I'm going to push you into AI gently. No, give you little nudges. Cool, good. So you will definitely also sign up to ChatGPT. You can just do open a free account. Who here— Tara, Manal, Dee, and MJ— Do you have, who has a premium, who has a paid version? Has anyone paid the $20 a month? Yes, Dee has a paid one. Good. Amazing. Amazing. Yeah. Yeah. Manal, Tara, and Dee all have a paid one. Amazing. So normally I would say the free version is super cool. You don't need to pay down, but for what we're doing right now to create your own GPT, we need the paid version and the paid version is only $20. Per month. And as we go along through this program, we will create more of these custom GPTs. So by the end, you will have all these little ninjas set up in your ChatGPT to work for you. And that's to help you implement your strategy. So the first thing we're going to do today is we're going to take this guy here. So we've, no, not this one, this one here. We're going to use a GPT that we've built. Here, I'm going to pop the link in the chat and you're going to open that on your— hopefully it's a bit easier on the computer if you're on a computer, and you're going to open that. And then you click on just at the top, you click on Start Building My Brand Voice. And it will ask you a question. So we'll say, cool, it will start very easy. What's your name and what's the name of your business? And for someone like, I think Ali, Ali, it's maybe the only one right now. You don't have a ChatGPT account just yet. So what do you do is I'll, I'll go through this with you and I'll just answer it for actually, we know what you and I would just do a demo together on this, Ali. So, and everyone else does it on their own business. Makes sense. So if everyone can open that link in the chat and then the whole point of this, it will ask us about maybe 8 or so questions about your brand and we will do each step together. And then at the end, it will give you instructions that you copy paste into your own GPT. I'll show you how to do that. So, so we're going to do this super simple, like just step by step by step. So first thing we'll do, Ali, you can come off mute. First thing we'll do is what's your name and what's your business name? So I'm going to just say Ali and Um, Ali Aesthetics, um, Cosmetic Clinic. Ali Cosmetic—
+
+Speaker C: oh, sorry, I'm not sure because when we did the webinar when I signed up last year, I think I might have created an account, but I'm not— I can't remember.
+
+Speaker A: Yeah, would you— I mean, you could probably just go into your browser And just search for ChatGPT.
+
+Speaker C: Oh, okay. Yeah.
+
+Speaker A: Are you on a computer?
+
+Speaker C: No, I'm on an iPad.
+
+Speaker A: Oh, even that, I think.
+
+Speaker C: With a keyboard. Like a keyboard.
+
+Speaker A: Yeah, you should be able to open like Firefox or something or Safari on there.
+
+Speaker C: Yeah.
+
+Speaker A: Open Safari on there. Just type ChatGPT in the top, like, like I have here where it says Zoom and stuff. Like here, if I just put in here ChatGPT, it will, it will just probably open. It's just opened one of my custom GPTs. So if you just type in ChatGPT, it should give you, it should, it should show you if you have an account. And then you can see, you know, mine says, uh, Francisca at the bottom here. It says Francisca Eazily Plus. The Plus is just the paid version.
+
+Speaker C: Uh, I don't know. It just come up Brand Voice Builder by Basic Bananas.
+
+Speaker A: Okay. And then Does it have your name on the bottom left?
+
+Speaker C: No.
+
+Speaker A: Okay. Maybe you don't have an account. Not. Yeah. So, so it will be very easy to open an account. You just put in ChatGPT into, into your browser.
+
+Speaker C: Yeah.
+
+Speaker A: And it will probably take you through how to sign up to an account.
+
+Speaker C: Okay.
+
+Speaker A: It should be easy. Just password, login, blah, blah. Now the next question we answered together and we'll do yours live now. It's beautiful. It says, yeah, beautiful start, Ali. Amazing. Um, where is my—
+
+Speaker C: here.
+
+Speaker A: If your brand was a person at a party, how would it show up?
+
+Speaker C: Is it—
+
+Speaker A: so, so while we go through this, I'm going to just teach you about branding. So as I mentioned before, every brand has a personality. And if we don't define what that personality is, then your customers will make it up. But it's better if we can choose. So for Basic Bananas, our brand is playful and intelligent, and we're about simplification. So since we know this, we, when we publish any type of content or when we hire somebody to publish content for us, they know that the stuff has to be a little bit playful and intelligent, smart, and also simplifying marketing. So for you, if you look at your brand and your brand could also be just you. What is your brand about? Is it— if it was a person at a party, how would it show up? Is it confident? Is it calm? Is it, is it fun? Is it, is it playful? Is it cheeky? Is it wise? What, what would you— how would you describe your brand? Have you thought about this?
+
+Speaker C: Uh, not really, but probably a combination between fun and wise, I would think.
+
+Speaker A: Yeah. Who is your demographic again?
+
+Speaker C: I'm on the Central Coast at Tuukley in New South Wales.
+
+Speaker A: Yes. Yeah. And is your demographic women aged anything?
+
+Speaker C: Yeah, mostly women. I probably treat women aged from, say, mostly 35 to like 70. Yeah. Like, yeah. Yeah.
+
+Speaker A: So fun and wise, I think is pretty good. Yeah. Everyone else here, uh, Manaldi, MJ, Tara, do you want to pop in the chat what yours is? Yeah, I'm just gonna hit—
+
+Speaker B: I can see Mel doing it, so I'm watching as I Okay. Yeah.
+
+Speaker A: Are you guys on the same computer or you're, or you can see her typing something?
+
+Speaker B: Well, yeah, we've got the same ChatGPT. So we've got, yeah, yeah, yeah. We can do it together.
+
+Speaker A: Yeah. Yeah. Awesome. And what, what's your brand? What do you think is the personality of your brand? Have you thought about that?
+
+Speaker C: Oh yeah.
+
+Speaker B: Well, definitely what Mel's written here. We definitely are.
+
+Speaker A: I can't see, I can't see it. What did she write?
+
+Speaker B: So she's written, um, we are— I believe strongly that we are the life of the room. So I totally agree.
+
+Speaker A: Okay.
+
+Speaker B: Um, we're confident, we're calm, social, great under stress, people are drawn to us, authentic, intelligent. Especially authentic.
+
+Speaker A: Yeah, yeah, I like that. Yeah, I like that. Great, awesome. So now I'm gonna MJ, sorry, what sentence did I type after opening the link? You just answered a question. So the first question was, what's the name? If you read on your link, MJ, the first question, I think, just says, what's your name and what's your business name? And then you hit enter on the little black arrow. Did you get that? And now the next question was the identity. What's the character? And for Ali, it was fun and wise. So I'm going to hit enter on that now. And I just want to make sure everyone is at the same stage. So let me see, Tara I think is doing bedtime. Um, who else is— wait, we got Ali, got the Manal, we got— I'm just trying to get to the Names here quickly so I can make sure everyone is all over it. MJ, did you get to the, to the next page? And then the next question it asks me is, what does your brand really stand for? So what, what do you truly believe in terms of values? Do you— so for us, again, actually, I'm going to give you examples of Basic Bananas to get— so you can get inspired. So values are your guiding principles. And these are actually really cool to think about and put on your website. So for, for this brand here, and we do it for every brand that we own, for this brand here at the bottom of the homepage, you can see the values, what we stand for: bold innovation, and we actually aligned it with B-A-N-A-A, banana. Always growing is something we believe in, no BS simplification, playfulness, community, and impact. So these are the things we stand for. If we go to another brand of ours, Ocean Lovers is one of my brands, and you go down here again— oh, maybe they're changing it. It should usually be there, maybe not anymore. Normally we would put it on the bottom, but maybe the team updated this. It's not there anymore. Normally the values, I would like to have them on the bottom here, which doesn't seem to be the case on this website anymore. So for you, what is it that you stand for? Who has thought about this? What do you stand for? What do you believe in? Ali, have you thought about that?
+
+Speaker D: I have.
+
+Speaker C: I suppose for us, like, We listen to people. Like, so many people come in and they've gone to other places and they don't feel heard. Um, so yeah, we stand for, um, authenticity, results-driven treatments. I think I really need to think about it a bit more, but yeah.
+
+Speaker A: Yeah, yeah.
+
+Speaker C: Sorry, my mom passed away about a month ago and I've sort of been struggling a little bit. I'm okay, but yeah, I've sort of dropped the ball a little bit lately. So yeah, we're still going through through, you know, the whole process and that.
+
+Speaker A: So yeah, I'm sorry to hear that. That's really—
+
+Speaker C: thank you.
+
+Speaker A: Yeah, sorry about that.
+
+Speaker C: Um, yeah, so yeah, yeah.
+
+Speaker A: Um, what if, what if I asked some of your favorite customers, what would they say why they come to you?
+
+Speaker C: Um, they would probably say that they trust me. They know that I'm not going to recommend a treatment that they don't need. They would probably say that they feel heard. I'm honest. I have also like a skin therapist, Brittany, and we're— we just both make people feel at home and comfortable.
+
+Speaker A: This is a good start. Yeah, that's a really good start. And so, so we'll, we can always build on that a little bit too. Let's see what someone else has in here. What, what do you, does someone else have clarity on some of their values? And usually I would say if you have between 3 and 5 things that you never compromise on, that's perfect. And, you know, in some cases, we've had some clinics where we would even, you know, actually a slightly different industry. We had a business once called Active Moms, and for them we've come up— it was like a private client for them— we've come up with a manifesto, and we had maybe like 5 or 6 sort of sentences that were really cool. And we designed this whole wall in the gym that had these few sentences on it that people walk in, they're like, oh, this is cool, you know, I'm an active mom, I believe in this. We are empowering each other, whatever those sentences were. So if you do really cool ones and you have a nice space where people walk in, it could be nice to even design these values as a poster and have it there for you, for your staff, for clients when they walk in to go, oh, this is kind of cool. It's all part of the customer journey. Who else? I'd see Manal and Dee. Do you guys have, do you girls have some values that you believe in?
+
+Speaker E: Um, yeah, we've come up with a few.
+
+Speaker A: Um, our—
+
+Speaker E: one of our main things is that we don't cross boundaries we're not comfortable with, the line. So I think more when it comes to injectables, um, when you have clients, you know, and they have the, the money to pay but you don't feel that the treatment's right for them, you need to stand your ground because you're being authentic to yourself as a therapist or as a cosmetic nurse. Sometimes that can be hard because you can have some clients who We're very strong-minded, but that's one thing we don't cross. So money doesn't sway us in our clinic. Um, another one that we, we want clients to come in and feel like they're at home. They're not coming into a clinic they don't feel comfortable with. So we always treat them like friends, basically. They become our friends. Um, and Another one is client trust. So I think with the boundaries, you know, we've had— we've had, um, trust comes with that. So we've had people that we've allowed to walk away, um, they've gone to, you know, other clinics in the area and they've come back to us because of— because of it. So there's a few things we've written down.
+
+Speaker A: Yeah, I like that, I like that. And I can see Tara says, and thanks for sharing, mine are similar: authentic, trusted, honest, empowering partnership. Yeah, these really cool. What you can then do is to make it yours and so that not everyone sounds the same. You take these words and you give them a bit of a definition. We, for example, we have one for ocean lovers. We actually said around friends. And I think the definition we put on the sentence is life is better with friends. So you, but for you, it might be something else, you know, it might be like friends are here for life or whatever your thing is, but that little fun sentences that you keep reinforcing for yourself and for you as if you grow your team, because this is what people buy into. This is sort of your, your soul of your brand. And, and brands that have soul are much more powerful in this day and age because it's so easy to start a business, but it's so hard to maintain and grow a business. The ones that have soul and put love into it are the ones that stick around for a long time. But that, that, that's, it is quite important to think about what is this thing? What is the soul of my business? Not just, not just pretty words on a sticker, but actually, you know, I quite liked your, how you shared yours, Manal, because they're quite unique. They're not, they're not just stuff you read in a business book. They were quite you. So, so really cool. So I'm going to hit enter on those now and hopefully MJ, you're following along too. I know Tara is between. IPad and iPhone. Good. Look, and ChatGPT is saying that's gold, Ali. You're creating more than a cosmetic clinic. You're creating a safe, real results-focused experience. And then it gave you a few things here. Be heard, authenticity, trust. And then it says, let's keep flowing. How do you want your clients to feel? How do you feel? I'm going to quickly let you think about this and I'm going to quickly tell my daughter to go to bed because I can hear a scream in the background. So how do you want— how do you want them to feel when they walk in? How do you want them to feel?
+
+Speaker E: One second.
+
+Speaker A: Okay, who has— who has something that they can share? How do you want to feel? Ali: comfortable, heard. I'm gonna just copy paste that out. Comfortable, heard, valued, important, empowered. I want them to feel that they're being put first. Amazing. I'm going to copy paste that in there. How do you want them to feel? Yeah, I like that. And then I hit enter again. Hopefully everyone is following along with their own. Yes, Ali, that clarity is everything. Your brand clearly makes people feel comfortable, heard, valid, important, empowered. Not just like another appointment. It's— add some good stuff in here. They're the priority. Let's dive into something creative now. Which this is, this is like really, really cool knowledge that, so when it comes to branding, and this is what big agencies do, but we've put this into this ChatGPT for you. You don't have to understand all the background, but I used to work in advertising. And when I did, we would charge clients like a ton, like, I don't know, 50 grand, 100 grand to come up with these archetypes. These archetypes are based on, on Freud, who is a psychologist. Who has come up with, with different personality types. And so when it comes to branding, there are these different types that usually a brand falls into. So if you look at, let's see, like Virgin brands, like the Richard Branson brands, that's probably one of the top archetypes is the rebel, the bold, the challenge to norm. All the brands like the Elon Musk brands, like Tesla, they're the rebel. If you look at like a brand like Mercedes, they will probably be a little bit of a mix between the hero and the sage, probably. So for you, if you look at these different archetypes here, and you can just look at the, the words, which one do you most resonate with? And it can be a blend of two even. For Basic Bananas, we have a little bit of the Jester, so fun, playful, brings joy, a little bit of the Caregiver, and also a little bit of the Magician. So which one would you say do you connect most with reading through this, Ali? And I know you're probably just reading these now. Most of you definitely have caregiver.
+
+Speaker C: Yeah, probably the caregiver and, um, maybe the sage.
+
+Speaker A: I was, I was going to say, based on what you've shared so far, the sage. Yeah, yeah, I was going to say those two. Some of you might have a little bit of the Magician in there too, and some of you also probably have the Hero. Hero is like a bit of a strong sort of brand for you. I, I saw the Caregiver and the Sage just from, you know, even your presence and, and the things you shared about your brand. So I'm going to hit enter there, and if anyone else wants to share You can share that too. And perfect combo, your brand blends caregiver nurturing, empathetic, and the sage wise, informed, always guiding with genuine knowledge. This gives Ali Aesthetic Cosmetic a beautifully grounded presence, smart, warm, and trustworthy. You're the calm in the chaos with the know-how to back it up. I think that's actually really cool. This part here. And then the next question is, now let's shape the tone of voice. Which words describe the vibe you want your writing and communication? Should it be playful? This is actually kind of a— I would probably go with what it says here. So how would you want your writing, the vibe of your writing? I would say probably smart, warm, trustworthy.
+
+Speaker C: Yeah.
+
+Speaker A: Um, is there anything else? Smart, warm, trustworthy, nurturing. It's part of warm, so we could use some of these here. Yeah, maybe let's add a few more nurturing maybe too.
+
+Speaker C: Yeah, I think so.
+
+Speaker A: Um, wise, I think we went— we've gone down a bit of wise. Do you want wise in there too? Yeah, or informed.
+
+Speaker C: Or we're also like, we do like to have fun, do you know what I mean? We're not all serious. Like, we're— we know our stuff, but we still like to have a laugh and a joke.
+
+Speaker A: And yeah, yeah, a little bit playful, which is— yeah, it's also like warm, a little bit playful.
+
+Speaker C: Yeah.
+
+Speaker A: The whole, you know, the genuine, I can't say this word, but I think that's quite your vibe too. Anything else? And Manal, Elixir sounds like professional without being cold. Yes, I like that. That's actually quite you guys. Luxurious without being snobby. I like this. Did you come up with this or did ChatGPT do this? This is good.
+
+Speaker E: So I just put in the prompt like our personalities and who we are as people, and then ChatGPT summarized it.
+
+Speaker A: This is good. Okay, this is very you, and again, it's very unique. It's not what I normally would hear cosmetic clinics say in that way. So luxurious without being snobby, real and honest like a trusted friend who tells it straight, bold but never boastful, grounded, humble, high quality. That seems pretty Spot on. Does it feel like it's pretty spot on?
+
+Speaker E: Yeah, yeah, it does. It feels like it's us.
+
+Speaker A: Yeah, I really like that. So I would probably write these things also down along the way, but at the end it will spit it all out anyway. Now I'm going to click enter. And then it will ask me the next question. We're almost there. Great, smart one. You come across like a super knowledgeable friend who always gives honest advice, keeps it real, and makes you feel safe and seen with a little cheeky smile on the side. That's also really good. Now let's fine-tune the language style because this GPT we're building right now is here to help you write your content. So this is your writer. Once we've built this, this is your writer that you will use for social media, emails, website, anything. Do you prefer communication that is short and punchy? Rich and storytelling? Do you like emojis? No emojis? Anything else? So when it comes to communication style, let's talk— let's, you know, let's think social media posts. How do you normally communicate, Ali?
+
+Speaker C: Um, probably a little bit of both, to be honest. Like, we— I don't— um, or maybe not storytelling. Like, yeah, more probably short and punchy. Um, I don't do a lot of my social media, to be honest.
+
+Speaker A: My daughter does it, right?
+
+Speaker C: Yeah, and it's pretty much non-existent at the moment. But yeah, um, so we probably— it's really hard at the moment because with all the regulations you can't do anything. Like, so we sort of more talk about skin treatments and, um, yeah, results, and I don't know, SPF, and yeah. Um, yeah, so we just— I suppose I try to educate people through my social media. There's not much. Um, yeah, it's a bit hard with all the regulations, but yeah.
+
+Speaker A: Yeah, I know, I know. There's a lot that you can't do. Um, but there's a lot that you can do. What about emojis? Do you like using emojis? Or— because I, I generally say not too many emojis, but it's— everyone has a different way of communicating.
+
+Speaker C: Well, I don't think we're actually supposed to use them, are we? Like, because it's considered like a medical treatment, and, um, I think it's frowned upon.
+
+Speaker A: Oh, I think you can't use the medical emojis, but can you use smiley faces and stuff?
+
+Speaker C: I don't know. I— we, um, don't—
+
+Speaker A: you're not allowed anymore? Okay. Yeah, no emojis at all.
+
+Speaker C: I don't think we're— I don't think we are allowed to use them. I think they sort of say, if would a doctor use emojis, like, and if your doctor doesn't give you emojis, yeah, yeah, yeah.
+
+Speaker A: I thought you were allowed to use, like, the— in the past you weren't allowed to use the clinical emojis, you know, like the needle and like all this stuff. But I thought, like, smiley faces and love hearts you were allowed. Tara says it's not clinical. Educational. Not sure what she means. If it's not clinical, maybe. So let's just, let's just be safe and say no emojis. And I'll confirm about the, if you're allowed to even use like love hearts and things. Anything else? I always say avoid em dashes because it's a dead giveaway. Which ChatGPT usually uses all the em dashes. No, you can't because it's not deemed professional. Oh, okay. They change these rules all the time. It's such a stupid rule that you're not allowed to use emojis. Are you kidding me? Avoid em dashes. Do you like it conversational?
+
+Speaker C: Yes. What's an em dash?
+
+Speaker A: The things that ChatGPT always uses. Let me see if I can see one here.
+
+Speaker C: Oh, okay.
+
+Speaker A: No, this is not an em dash, but it looks like this. But it's in between words.
+
+Speaker C: Oh, like a hyphen?
+
+Speaker A: Yeah, it's not a hyphen. It's like when you say something like, we are warm, M dash, but not too warm.
+
+Speaker C: Okay.
+
+Speaker A: So it's like a connector between parts of sentences. And basically these models have overused them. So I usually try to avoid them. They still use them normally all the time. Keep the tone conversational. Not too many exclamation marks. I usually say, yeah, not too much. I mean, we say don't overuse, overuse exclamation marks. 'Cause sometimes, you know, they can go a bit overboard with exclamation marks, etc. So cool, eLanguage is short, punchy, educational, informative, teach, don't preach, conversational, like a real relatable expert, professional boundaries, no emojis, no em dashes, minimal exclamations. Now for a super helpful angle, what doesn't fit your brand voice? Anything that makes you cringe. And we don't have to do this here, but it's nice to say what you don't like. I think We definitely can't be salesy given the constraints. Compliance, not salesy. Not corporate is definitely also good. Not corporate. Not mentioning medical treatments such as— is that how you would say it? Such as Botox, injectables. Yes, how do you spell that? Checkable. There you go. Um, anything else?
+
+Speaker C: Um, not like, you know, like the latest fads or whatever, like running with, with, with that.
+
+Speaker A: Actually, yeah, also timeless content if possible. I'm just going to add this one more. Can you write a sentence, tagline, short phrase that feels exactly how you want your brand to sound? If you don't have one, I can help craft it based on everything you've shared. I'm just going to add this one thing about timeless, and then we can say, yeah, cool. And then it's given us a sentence. So now for your sentence, want to give it a go? If not, I've crafted one for you. We're here to empower you with honest, expert skincare where you feel heard, cared for, and never sold to. I don't like the last part, you never sold to. Because, you know, it's like what do you— what you say is then what you focus on is basically what you get. That's something I don't think we need to mention. Never sold to, but then all I can hear is sold to. Would you— should we adjust this a little bit? It's just to give it a bit of an example of how you like to talk. Cared for. And feel informed and empowered, maybe. Yeah. Oh, we already have empower here. We're here to empower you with honest thinking where you feel heard, cared for, and informed to make the right decisions.
+
+Speaker C: It's like—
+
+Speaker A: no, it's maybe a bit too clinical. Is that pretty good?
+
+Speaker C: Yeah.
+
+Speaker A: What did you remember? Like, one, even if it's just a vague memory, do you remember something that your daughter has published that you thought, oh, this is kind of cool? Like, even a short sentence. Maybe if I can find you on Is— do you think it's, uh, Instagram is Ali Aesthetics? Can— do you know what your Instagram is? So anyone else here, if you're, if you're at this stage—
+
+Speaker C: so it's, um, Ali Aesthetics Cosmetic Clinic.
+
+Speaker A: Do you think that's your— that's the same name on your— yeah, it is. Yeah, yeah, I, I found it. So anyone who is at this stage here, hopefully we're almost at the, at the end now. We're almost ready to now create your own GPT. If you want to, you can quickly go on your own Instagram and just see what is something that has gotten you a lot of— you actually got a pretty engaged following. Your daughter has done all right.
+
+Speaker C: Yeah. Do you know what the one post that I did that got the most views and engagement was just me in the backyard looking like crap, and I just took a photo and I just did a thing about self-care. And I think that post got the most engagement. I can't even find it. It's just me with my hair in a messy bun out the backyard, like, and I talked about self-care. And I think that's the one that got the most, uh, engagement.
+
+Speaker A: Yeah, I can, I can see why. Like, people love the, the authentic posts. Oh, there's one that has 50. Oh, that's a happy birthday one. Happy 90th birthday. That has 40 likes. I'm just trying to find one that has, you know, something that looks like it's got quite a bit of engagement, and then we can see what the copy was on that one. Let's see. You know, like, even these are, these are pretty good. There's one on sunscreen, like, an educational sunscreen is the first step to healthy, youthful, glowing skin, and yet it also seems to be the most overlooked.
+
+Speaker C: Yeah. So this one here, um, I pick up the sentence. Okay.
+
+Speaker A: Yeah, yeah, can you read it?
+
+Speaker C: So it says, hello, beautiful people. Today I want to talk about the importance of self-care. Oh, as most of you would be aware, health-wise, I had an absolute shocker last year. I got— I broke my ankle, had to have surgery, developed DVTs, become anemic, become very sick from a spider bite, and to top it all off, I got COVID over Christmas. This year I'm going to take the time to care for myself so I can be as healthy and productive as possible. In our busy lives, we often forget to take care of ourselves and we end up feeling stressed and overwhelmed. Self-care is all about taking time for yourself and doing things that make you feel good. It is not selfish. It is essential for your mental and physical, physical well-being. Self-care can take many forms, such as taking a relaxing bath, going for a walk, reading a book, taking a few deep breaths. By the way, anyway, it just talks about, as a registered nurse and a beauty therapist, I recommend incorporating self-care into your skincare routine. Anyway, so it's all about self-care. It's a long post, but yeah, yeah, yeah.
+
+Speaker A: And, and the why I think why it did so well is because it's really vulnerable. So I just added in brackets, vulnerable shares, because you're talking about how you had a crap year and people couldn't connect with that, you know, because most businesses try to go like, oh, we're so good and everything is amazing, but everything behind the scenes is falling apart. So to actually share a little bit about your vulnerabilities and, and the crap that you have gone through. Yeah. Yeah. Perfect. So that's good. So I'm just going to hit enter on that one too. Your first line is quite empowering. We're here to empower you because, yeah. Yeah, the second line is, yeah, example. Great. Cool. So that was the last question that we've had on this GPT. Now what we're going to do, so everyone hopefully has gotten to this step now. So what you've just done in 45 minutes is you've created your brand strategy. Some of you already had elements, some of you are doing it from scratch. If you've done it from scratch, then you've done it really fast. This normally takes much longer. When we used— I used to run a branding agency, we would take at least half a day to create a brand strategy like this and a lot of preparation, etc. So this is on speed, but it's really powerful. So now what we need to do, I'm going to show you, and this is also recorded, Ali, in case you need to watch this again, the end just now to see where you paste this thing. So that you then have a GPT over here. So what we're going to do now, it says, so please copy and paste the below custom GPT builder. So this stuff down here, and I'm going to show you where to copy this. So I'm just going to mark this from the top. And this is just a summary of our brand strategy. I'm going to copy paste this. I just marked it and I'm going to hit copy on my computer. And then I go to Explore GPTs here. So everyone, hopefully you can follow along here. You go explore here and then you just go create top right here. So I can go to my GPTs and you can see my different ones that I've created here on different. This is the one that I've got done for you, the APRA Advertising Assistant. I need to fix it. It's not quite there yet. And then different brand voices. And there's a bunch more. I'm going to just go back to where you can Create your own, you go create here. So hit create. You add your name in here. So I'm just going to call this Ali Brand Voice. And then I copy paste the thing it's given me in here. And in the description, I can just say, you are my copywriter. And that's it. It's creating it now, so I can just go create. And then here I will just go anyone with link can use it because now I can just save it. I'm just gonna save it. I can delete it later. So I can save it and now I can send this link that it's gonna give me hopefully to Ali can send that to her daughter. And say, hey, when you write text, this is really going to help you with anything that you see that is here. So I can copy this here and now I can also go view it and now I can just send it to anyone on the team or an assistant or anyone who is writing any type of copy text for you can use this. And now it will be following your brand voice so you don't sound like everyone else. Has— have most of you gotten to that last step?
+
+Speaker C: Uh, we can't find a create button.
+
+Speaker D: It's only—
+
+Speaker A: do you have the— I wonder if you have the paid version.
+
+Speaker C: Okay, so have to go on a paid version. Yeah, yeah, yeah.
+
+Speaker A: So it's $20 a month, as in US, and it has to say down here plus next to your name that that shows you that you have the paid version. It's worth it because we're going to build a few different ones of these GPTs throughout the program. So you just start automating some of your marketing. And Manal, and then you just watch this again, MJ, so you can follow the steps again. It's super easy. Manal and Tara and Dee, did you guys manage to?
+
+Speaker B: I'm driving lovely now, but I'm— you mentioned that it's recorded as well, so I can watch that last bit because I've watched everything else. Yeah, yeah, yeah.
+
+Speaker A: Perfect.
+
+Speaker B: Yeah, I've glimpsed in between red lights, but I can't see it because I've got directions too.
+
+Speaker E: Yeah, no, I'm all good. We're all good, Day. Just, just gotta cut and paste the last bit for me because I got lost. I swear it's so easy.
+
+Speaker A: Yeah, yeah, I think these are all over this. You can watch the last 5 minutes and it will—
+
+Speaker B: Yeah, I'm the IT guru.
+
+Speaker A: I'm not, so there we go. You have an advantage.
+
+Speaker B: The perks of being a gamer.
+
+Speaker E: I put everything together and then they take over.
+
+Speaker A: Yeah, I've gathered that partnership already on the first call on the beach. I kind of saw how you guys work. I'm not even going to try to copy paste this. I think you guys have a really good partnership the way you work together. Hey, Tara, how did you go? I know you're doing bedtime and all that too, so you might be watching the—
+
+Speaker D: Yeah, no, I'm here. Hi, everyone. I'm just trying to follow it all along. I've just gone, I've got the paid version and I like, I'm flicking through now and I can't find the create button.
+
+Speaker A: Can you let me just quickly one show you one more time in case you can find it. Can you see Explore GPTs on the left here where it says GPTs?
+
+Speaker D: Yeah, so I've got that on my app. I'm on my phone for that one and I've pressed Explore GPTs and then it just comes up with all the featured ones.
+
+Speaker A: Uh, let me see on my phone. I've never done it on my phone, but I'm going to have a quick look. Oh, sorry.
+
+Speaker C: ChatGPT.
+
+Speaker A: Yeah, yeah, I got the same actually.
+
+Speaker D: So you can't find it?
+
+Speaker A: No, I can't. But actually, one second, I can't here on my phone. Let's see if there's another. No, I can't see it on my phone.
+
+Speaker D: Do I just log in on my computer?
+
+Speaker A: Yeah, yeah, I can't see it on my phone. This is actually a question that I need to ask. Let's just go. Can I create a custom GPT from the ChatGPT phone app instead of desktop? I can't see the create. Let's see, it might not even be a feature on the app. Yes, you can view blah blah. Mobile access, yes. Create, yes. Oh yeah, you can't create.
+
+Speaker D: Okay.
+
+Speaker A: Yeah.
+
+Speaker D: So I've got to log in on my computer.
+
+Speaker A: Yeah. Okay. Yeah. Yeah. You just got to go to your browser on your computer.
+
+Speaker D: Okay. I didn't even know you could access ChatGPT from there. So I've learned that.
+
+Speaker A: Yeah. Yeah. I only generally most of the day I have it. I have a window open. Oh, you do it on your computer? Yeah, yeah, it's literally open all day and I always just work on something and then come over here to have a quick check-in.
+
+Speaker D: Oh, that's so smart. Okay, love that.
+
+Speaker A: Awesome. Hey, really well done today. That was very productive. And if you can just finish that by, you know, in the next few days, then you have your first custom GPT, which is, you're already ahead of everyone else in your industry. I can guarantee you that. And then we can build on top of that. Cool. Awesome. Well done. We'll, we'll post the recording. Heidi will post the recording in the next 24 hours.
+
+Speaker C: When are they posted, the recordings?
+
+Speaker A: Heidi will show you. There's like a members area. Mhm.
+
+Speaker C: I did email her earlier and she got back to me like 1 second before. Yeah, so I'll have a quick look and—
+
+Speaker A: Yeah, have a look. And if you get lost, she can make you a little screen share video to show you where. But there's a members area where you can see all the recordings.
+
+Speaker C: Okay, thank you.
+
+Speaker A: Awesome. And then next week I'll meet you again at lunchtime. Awesome. Well done. Thanks for showing up and taking time out of your evenings.
+
+Speaker C: Thank you. Everyone, good night. Awesome work.
+
+Speaker A: See you next time.
+
+Speaker C: Thank you. Bye-bye.
+
+Speaker A: Bye.

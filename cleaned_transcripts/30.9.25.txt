@@ -1,0 +1,237 @@
+Christo/Franziska (Coach): All right, let's jump in. I'll share my screen. I've got the first question here. Let's look at it. Some of them, we have a lot to review. Let's look at Amy's question first.
+
+Client (Amy): Sure. So I'm from a service-based business offering counseling and training. I help people get more love in their life from the inside out—whether you're looking for love, wanting to revamp the love you've got, or want more inner love...
+
+Christo/Franziska: I love that pitch. We can make some of it a bit more edgy, but it's a really good start.
+
+Client: It just came to me then, so that's on the fly.
+
+Christo/Franziska: I reckon it's a good start. We can probably make some of it a bit more like, “Oh, I think I need that,” so people really feel the need.
+
+Client: Absolutely, yes. So, this is a course that I've put together, and I've recorded all of these modules. The difficulty that I'm having is I'm still mostly doing one-to-one and one-to-two work, and this training covers the key concepts I work with couples on. If people can't get in to see me, they can do these modules to get immediate help.
+
+Christo/Franziska: Great. And your question was about the outline, the price point, and the marketing of the program, right?
+
+Client: Yeah. I've tentatively titled it “Relationship Reboot,” but it could be "Relationship Reno" or "Relationship Revamp." I'm not wedded to the name.
+
+Christo/Franziska: And who is the audience?
+
+Client: These are couples who are looking for couples counseling but are having a hard time getting in to see a therapist. There’s a glut of people needing therapy and not enough therapists. All couples come saying they have difficulty with communication, conflict, and connection—the three C’s.
+
+Christo/Franziska: Connection, conflict, and communication. Okay, great. So maybe you could just have a subtitle that involves those keywords if that's what people usually come to you with. It’s probably almost their language too.
+
+Client: That’s right.
+
+Christo/Franziska: In terms of the program, I had a look—I’m not an expert in relationships, but it looks enticing. The content is more up to you; you have so much experience working with couples, so I trust you that it’s valuable. The part where we can help is getting it out there and the price point, since you said your one-on-one is pretty much full. There’s an opportunity for you to get people in through a program like this, so if you become available, they can go on the waitlist. In the meantime, they can do the program. There will also be people who maybe can't afford counseling but could start with this.
+
+Client: Absolutely.
+
+Christo/Franziska: I agree. One of the best ways to test something like this and the price point is to run a free masterclass—maybe a 45-minute to one-hour session where you share really valuable insights and then offer the program at the end. You can run ads; I reckon most of your audience are probably women instigating this, right?
+
+Client: Guys do, but about 70-30 in favor of women.
+
+Christo/Franziska: Most are probably on Instagram and Facebook. It would be interesting to run a free session, advertise it on your website, and run ads. You just need a basic landing page for the free masterclass and one for the program.
+
+Client: OK.
+
+Christo/Franziska: With the price, it's interesting to test, because the cheapest doesn't always get the best conversion.
+
+Client: I agree. I don't want to be the cheapest.
+
+Christo/Franziska: No. So what were you thinking for pricing? Is it five modules over five weeks, or how is it delivered?
+
+Client: I was going to have it self-paced, but I'm open to releasing it over time via email too. There’s about 100 minutes of content in bite sizes—5-10 minutes with exercises.
+
+Christo/Franziska: I think it would be good to set it up as “five weeks, five modules.” They get a weekly email reminder, and if people want to go faster, it’s all in the members area. Do you have a members area yet?
+
+Client: Not yet, but my VA can do that.
+
+Christo/Franziska: Yes, just do it in WordPress and set it up in ThriveCart. So, offer five modules over five weeks and they have lifelong access—some may go slower, some faster. For the price point, what were you thinking?
+
+Client: Something with a 9 and a 7 in it—maybe $497 for DIY, and have an upgrade for sessions with me at a higher price.
+
+Christo/Franziska: You could advertise it on your website at $997 as the public price, then offer 50% off at the webinar.
+
+Client: Beautiful, yes.
+
+Christo/Franziska: Then check the conversion—if 20 people show up to your webinar, how many buy? If it covers advertising costs, it’s enticing. Recently, we did a test for a marketing AI program—public price $1997, sometimes $500 for webinar attendees. We tested $500, then $1000—no impact on conversion rate, even from cold audiences via advertising. You’ll get data once you start running ads.
+
+Client: That’s fascinating.
+
+Christo/Franziska: It’s about attracting the right people and offering value. Is your relationship worth $500? A divorce costs a lot more. It’s about how you pitch the value.
+
+Client: Absolutely.
+
+Christo/Franziska: Pitch it in that way: how much value would you put on your relationship? It’s invaluable.
+
+Client: Those pain points and desire points.
+
+Christo/Franziska: Yes, and it takes time to attract the right audience. We need more data, but it’s about finding the right people who want what you’re offering.
+
+Client: In terms of the module wording, does it sound enticing enough?
+
+Christo/Franziska: Looking at it, would it make me want to do this? It’s okay but could be spiced up to make me feel something. For example, for greater connection—maybe connect it more to real-life scenarios like “from not feeling seen or heard to real connection.” You can ask ChatGPT to help you make it more emotional and relatable—it reads a bit generic and clinical, could be more emotional and make people think, “Yes, I feel that.”
+
+Client: Great.
+
+Christo/Franziska: Just throw this into ChatGPT and ask for more spice, emotion, and relatability.
+
+Client: I’m a visual person—could I show people where they are in their relationship visually, like honeymoon, post-honeymoon, etc.?
+
+Christo/Franziska: I love that. It's helpful. You want to sell the dream, the hope. I saw something about the six phases of a relationship—it starts at honeymoon, then frustration, then legacy phase where it’s pure unconditional love. Sell the idea that if you make it through the hard stuff, you reach this legacy phase—deeper, more meaningful love.
+
+Client: That’s the truth—if you get through the hard stuff, that’s where the good stuff lives.
+
+Christo/Franziska: Sell the dream—invest to get to the legacy phase.
+
+Client: Thank you.
+
+Christo/Franziska: That’s super helpful. Now, we’re a bit pressed for time with more questions. Let’s look at the top three or four pages and revisit the rest next time.
+
+Client: For myself, it's making sure the key message of the landing page is sinking in. Focus on the homepage and training page.
+
+Christo/Franziska: Let’s start with the homepage. It’s beautiful, so much better than your last website.
+
+Client: It’s a learning process. I’m just grateful to be where I’m at.
+
+Christo/Franziska: You’re doing so well. We all look back at our earlier work and see how far we’ve come. I love the image here, it’s gorgeous. So let's look at content. The look and feel are extremely beautiful. What is the main action you want people to take? When they come here, what do we want to convey? What do you mean by "we’re all connected"?
+
+Client: The main point is that this is practical and accessible therapeutic and training support.
+
+Christo/Franziska: That's it. Others agree: it’s unclear what you offer and who it’s for. The philosophical "we’re all connected" is nice but isn’t specific—could tighten that. For example: “We are all connected through our shared humanity.” So what does that mean? Who are we wanting to click these buttons?
+
+Client: Either the person or family needing therapeutic support, or a practitioner/business coming for training.
+
+Franziska: There’s a lot of information in the header—maybe just have "learn more about our framework" as the main call to action. Bring other options down.
+
+Christo/Franziska: Good idea. Let’s tighten it up so people want to read on. Linguistically, "support" rather than "supports." Where do these buttons go?
+
+Client: They go to separate landing pages.
+
+Christo/Franziska: Good. Managing this to make the first section tighter. That first paragraph should specifically say what you’re about—something catchy, followed by the specifics.
+
+Client: Perhaps elaborate on shared humanity—safe, connected, empathy, authenticity.
+
+Christo/Franziska: Yes, then lead to "learn more about the framework" and maybe about the therapeutic support.
+
+Client: That sentence you highlighted summarizes it well—could that go at the top?
+
+Christo/Franziska: Yes, that could work. Maybe we're all connected through our shared humanity, then your summary sentence. Adjust the buttons as mentioned and lead to learning more about your framework. The design theme, color scheme, and elements are great. Your designer did really well.
+
+Client: Working with a graphic designer, yes.
+
+Christo/Franziska: They’ve nailed it. Unwrapping the logo and the theme is very well done. If you don't have something ready (like the 5Rs), you can remove it for now and add later.
+
+Client: Yes, I'll do that.
+
+Christo/Franziska: Are there any other pages to review?
+
+Client: The framework page, if you have time.
+
+Christo/Franziska: We can look at one more. The graphic at the top is strong, and the phrase is good. Are these the same testimonials? They don’t need to be on every page—focus on homepage and program pages. On the framework landing page, instead, link to your training.
+
+Client: Good idea.
+
+Christo/Franziska: Really well done. It takes time to do a website, and you’ve achieved clarity on what you’re about. You can use the same design elements in a flyer—ask your designer to create a Canva template.
+
+Client: Brilliant, thank you.
+
+Christo/Franziska: Well done. Next, Jody, please share a little about your business and the email sequences you’re working on.
+
+Client (Jody): I spoke to Christo last week about my website, tweaks, lead magnet, and opt-in page. He suggested coming back with an email sequence. This is all pretty new to me.
+
+Christo/Franziska: Have you got the lead magnet set up so people get it on your site?
+
+Client: Yes, it’s an opt-in page. Also, in store, we politely ask for email addresses and include a QR code with purchases. There's also a promotion—fans for a fan—where customers get a free fan if they like us on social.
+
+Christo/Franziska: Well done. Your positioning—for a retail business like this—is key. Yours sounds like tropical boho comfortable, which is good. The first email with 10% off is good, but it normally works better with a time limit. Add scarcity: “code valid for next 30 days” or “valid until end of October.”
+
+Client: Okay.
+
+Christo/Franziska: Recommendations and free shipping are good. Next email is a follow-up if no action—great. What system are you using?
+
+Client: Shopify and Omnisend.
+
+Christo/Franziska: Good. Your copy talks to free spirits—really good fit for your ideal customer. Add “code will expire” to the email.
+
+Client: Got it.
+
+Christo/Franziska: Next is a reminder—do you have reviews on Google or your shop?
+
+Client: Yes, we have about 30 five-star Google reviews.
+
+Christo/Franziska: Take some screenshots of those and insert them instead of generic testimonials. Also, link product mentions (like Freya pants) directly, so it's easy for customers to find.
+
+Client: Okay.
+
+Christo/Franziska: Once enough people visit your website, you can do remarketing campaigns later. The next email relates to your loyalty program—but it needs to clearly explain how to join and benefit. Start with a clear link and benefit (e.g., "collect points for exclusive goodies"). Remove anything distracting from that goal.
+
+Client: Okay.
+
+Christo/Franziska: Well done. Is this your first time?
+
+Client: I played around with MailerLite before but am just now moving forward with all this.
+
+Christo/Franziska: Once it’s set up, it will run itself. Well done.
+
+Client: Thank you.
+
+Christo/Franziska: Emma, your question?
+
+Emma: Quick one: This is our old landing page for office furniture. Now we want to push the whole service—office planning, project management, and furniture, with a product guide and finished office layouts leading to case studies. I want a landing page to send leads to; it's not just furniture anymore, but services as well.
+
+Christo/Franziska: You said it’s three things: office furniture, space planning, and project management—are space planning and project management the same?
+
+Emma: Pretty much. Just trying to develop the message and see what’s most important for the landing page.
+
+Christo/Franziska: If I have an office, I can buy individual pieces or hire you to do a full fit-out—kind of interior design plus supply. Your suppliers do 3D renders and proper plans.
+
+Emma: Right. I looked at some competitor sites, but they’re busy—how to make it work for us?
+
+Christo/Franziska: Yes, competitor sites are a bit overwhelming. Both use "office furniture" and "office fit-outs," which is the right language. In your messaging, “office fit-outs” is clearer than “project management.” Maybe option one is "buy furniture," and option two is "get an office fit-out" (the full service).
+
+Emma: Yes.
+
+Christo/Franziska: Introduction: “Welcome, we've got you covered whether you need a few pieces or a full office fit-out and interior design.” Then below, Option 1: Shop. Option 2: Book a (free) consultation for a complete fit-out.
+
+Emma: Free consultation or free measure and quote, yes.
+
+Christo/Franziska: That’s all it needs—an introduction and a clear path. Add your positioning: premium, commercial-grade furniture that stands the test of time with warranties and certifications. Make that clear against competitors.
+
+Emma: Okay. Positioning—good tip.
+
+Christo/Franziska: For every business, keep revisiting your positioning. There’s a lot of competition out there.
+
+Emma: Awesome.
+
+Christo/Franziska: Thanks, Emma. Last question—Kyla?
+
+Kyla: I’m trying to finalize a poster for the surf school and gym location. I’m not loving any of them, keep changing, working on them for a while. Any ideas or input?
+
+Christo/Franziska: Were these made in Canva? I agree, they’re not quite there, but let's vote as a group—pick the one people connect most with for a poster at a surf school or hostel. Everyone votes: 1 and 4 seem best, especially 4.
+
+Kyla: 1 is workable.
+
+Christo/Franziska: Let's work on 4. The issue is the color's not super strong and it’s a bit busy. For a poster, you don’t need three screens. A good movie or concert poster draws you in—simple image, strong headline, maybe a subheadline.
+
+Kyla: I thought options with all the info would be better because it shows what’s included.
+
+Christo/Franziska: It’s too busy for a poster. Posters should catch the eye and invite people to learn more, not overload with details. For details, direct them to where they can find more. Use a strong image and a compelling headline—something like, “Imagine if you could improve your surfing skills by 1% every session using the techniques in this surf app.” Make it practical and aspirational.
+
+Kyla: Good idea. Do I mention price? It works out to 32 cents a day.
+
+Christo/Franziska: Yes, you can add that: “Try free for 7 days, then less than 30 cents a day.”
+
+Kyla: Great. I needed to make it more impactful, more aspirational, less corporate and more emotional.
+
+Christo/Franziska: Yes, the visual is pretty good for a homemade flyer. Stick to the simple version, test it out, get feedback, and iterate based on what actually drives action. The more feedback you get, the more you can use your audience’s language.
+
+Kyla: Thank you.
+
+Christo/Franziska: Add a call to action like, “Learn the techniques that will serve you,” so they’re invited to click and explore further. For a poster, less is more—headline, subheadline, and clear next step.
+
+Kyla: That helps a lot.
+
+Christo/Franziska: Great. Thank you, everyone. Excellent questions and feedback. Keep implementing—reach out if you need help.
+
+[End of cleaned transcript.]

@@ -1,0 +1,78 @@
+---
+Question: How do I balance promoting my business brand with building my personal brand, and how do I decide what my personal brand should focus on?
+
+Answer: Start by identifying the common thread running through all your projects and interests. Ask yourself: (1) What do you want to be known for? (2) What are you already known for? Get feedback from people who know you well to find the unique qualities that describe you. It’s about defining a focus—critical thinking, for example, is valuable in the current environment, especially with the rise of AI. The more specific you can be (“I specialize in thinking models and critical thinking”), the easier it is for others to refer you and for your brand to stand out. You won’t have it all figured out at first—just pick an avenue, start publishing, and refine your messaging as you go.
+
+Key Insight: Specificity is key in personal branding. Define the thread that connects your work, seek feedback, and consistently iterate through action and reflection.
+
+---
+
+Question: Should I separate my Substack personal newsletter from my business brand, and what should I call it?
+
+Answer: Build your Substack (and similar platforms) around your personal name. It gives you flexibility as your focus evolves and helps build your reputation regardless of the project. If you have a title like “Dr.” or “Prof.,” consider using it—it adds credibility and helps your brand stand out. You can always test which resonates most, but your name is the safest and most future-proof bet.
+
+Key Insight: Anchor content and platforms to your personal name for long-term reputation building, and don’t be afraid to use professional titles.
+
+---
+
+Question: When developing my personal brand and online presence, should I wait until everything is perfect before launching?
+
+Answer: No—don’t fall into overthinking. Personal brand clarity comes from publishing, getting reactions, and adjusting based on feedback. Start sharing your work, use your upcoming projects (like a book) to tease and gather insights, and allow your audience to help shape your brand direction.
+
+Key Insight: Action and iteration are more effective than waiting for perfection when building your brand.
+
+---
+
+Question: How should I handle AI and schema markups for SEO and AI-friendliness on my website, especially on platforms like Leadpages that don’t support custom code?
+
+Answer: Don’t stress! Do the basics: add clear meta titles, meta descriptions, and use proper headings (H1 for main title, H2 for subheadings). Schema isn’t critical right now; AI and search engines will pick up the information anyway. If your platform doesn’t allow schema markup, ignore it for now—platforms will catch up soon. For custom GPTs and AI prompts, always swap placeholder URLs for real live article URLs when you publish. Social media meta code (like images) is also optional for now.
+
+Key Insight: Focus on strong, clear content basics; don’t worry about advanced code until your platform supports it and industry standards shift.
+
+---
+
+Question: How can I develop an ecosystem around a creative prompts book originally designed as a spiral-bound journal?
+
+Answer: Pivot the format for broader retail (standard binding for bookshops) but keep spiral-bound for workbooks or facilitator versions. Develop companion products like cards (for daily or group use) and a workbook. For teams, offer bundles (book + cards, workbooks for coaching/facilitation). Consider building an online community, where each letter or word becomes a module or session—add recordings, group sessions, and even quizzes. Lead people from the book into your digital world with a call to action for ongoing engagement.
+
+Key Insight: Product ecosystems amplify impact—think books, cards, workbooks, and communities that serve multiple audience needs and revenue streams.
+
+---
+
+Question: How can I make my retail promo email sequences more engaging when using AI-generated content?
+
+Answer: AI is a great tool to draft sequences, but the human touch is essential. Review AI output for warmth, emotion, and personality. Add love—share personal stories, relatable experiences, or valuable content unrelated to sales (like recipes or styling tips). Use emotive teasers (e.g., “I’ve been busy with new stock—watch for something special tomorrow!”), build FOMO, and ensure visual appeal with images and links. Always edit for brand voice, warmth, and relatability.
+
+Key Insight: AI drafts are a starting point—critical thinking, personalization, and emotional connection turn them into great marketing.
+
+---
+
+Question: Do I have to re-add my brand voice every time I use a custom GPT for email or content creation?
+
+Answer: If you’ve set up a custom GPT with your branding instructions, it should remember your tone and settings each time you use it. You may still need to adjust and give specific reminders (“make it more subtle,” etc.), as outputs aren’t always perfect. Always review and refine before sending.
+
+Key Insight: Custom GPTs retain instructions, but human oversight is crucial for tone and brand consistency.
+
+---
+
+Question: How can I increase the show-up rate for free webinars/masterclasses after people register?
+
+Answer: Don’t mention the replay in your pre-event emails; if you do, most people will opt to skip attending live. Use SMS reminders shortly before the event (“We’re live in an hour, here’s your link”), and make joining super easy (no passcodes, direct links). In the reminders, highlight specific takeaways, and offer incentives for attending live (e.g., “You’ll get our favorite financial planning template”). Engage registrants with a simple pre-session question to increase buy-in and expectation.
+
+Key Insight: Strategic communication—focus on live attendance, make it hassle-free, and add valuable incentives for showing up.
+
+---
+
+Question: Should I run a new webinar/masterclass each time or stick with one and perfect it?
+
+Answer: Stick with one epic masterclass as your signature lead generator. Refine your pitch, opening story, and key content until it’s excellent. This streamlines your process and builds a reputation for high-value content. Reserve new content and deeper material for paying clients.
+
+Key Insight: Consistency and mastery in one flagship session yields better results than constantly reinventing.
+
+---
+
+Question: What are the best practices for header images on a service business website, especially when branding might put off some target audiences?
+
+Answer: Avoid using imagery that could alienate or scare any part of your audience, particularly in service businesses targeting both kids and adults. Instead, use a collage or video in your header featuring all your main customer groups (children, corporate clients, enthusiasts). Make sure the header visually communicates inclusivity and your full service range, and avoid excessive empty space. Reserve controversial or niche artwork for lower sections or elsewhere on the site.
+
+Key Insight: Header images must feel welcoming, inclusive, and directly representative of all target audiences to maximize appeal and clarity.

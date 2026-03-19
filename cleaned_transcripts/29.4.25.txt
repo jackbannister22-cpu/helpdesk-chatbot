@@ -1,0 +1,267 @@
+Christo: So, why don't you ask your question and I've got some thoughts for you too. And I love how you're playing with ChatGPT and using it as your brainstorm person. So good. I do it all day.
+
+Client: It's so great. This time, I asked ChatGPT to be particularly harsh because what I find is that it can go, oh yes, that's such a great idea, you've really thought this through. But I need some critical feedback, not just faffing around. So I asked ChatGPT to be extremely critical of our website pages. All of our website pages are structured like the other page you just pulled up, the, um, this one. On this, it just is a hero shot with the location, the dates, and rolls into the information. ChatGPT suggested a few changes, and I've made those, and now I’m considering doing them to all of our pages. Now we've got this one-liner in here to create an emotional attachment: a guided journey by yacht through the Croatian Kornati Coast, iconic moments, local secrets, and ocean views. So ChatGPT said bring an emotive statement in straight away. It's quite small, but it’s there now, where none of our other pages have it. If you scroll down a bit further, because this one’s got it.
+
+Christo: Starting with this, I like this. I think that's definitely a really good idea. I would probably unitalic it because italics just mean to me that it's not that important to read. I would maybe make it a little bigger.
+
+Client: I think bigger too. That’s what I thought. And I also, yeah, I think bigger too.
+
+Fran: I'd also take off the capitalization of each of the first letters, because to me that sort of implies it's a heading for something, whereas if you're trying to show it as sort of maybe someone's kind of thought bubble as to what their mind has come up with as what this trip is, I would think it's more just lowercase, kind of almost like a verbal thought bubble.
+
+Client: All right, we can change that. I'm trying to remember what else we changed on the page now. ChatGPT suggested that we do some itinerary highlights. What we used to do was just send them to the full itinerary, but what we've done is pull out the highlights. The initial paragraph now tries to put the person in the location rather than just talking about crystal clear waters, which is lovely, but the new approach is trying to put the people there more now.
+
+Christo: What else did you do?
+
+Client: Oh, the "why travel with us, why travel this way" dot points that draw your attention about the benefits of traveling with us, especially the benefits of traveling by yacht in a group led by me.
+
+Christo: Yeah, I like it. One question I had is about people that have already booked and paid.
+
+Client: I know, it's awful, and I struggle with this because I feel like I'm encouraging people to wait until the last minute to book with us, which I don't want to do. However, we've got no time left and we've got a whole boat that hasn't been sold because some people cancelled their trip. I'm in a bit of a dire strait now on this particular trip. I don't usually do it, but I'm feeling desperate on this one.
+
+Christo: Maybe what I would do, because if I had booked for the full rate and then I came here, I would be a little bit annoyed as a customer. So, I would probably add—not tell how much the discount is—but maybe you could say inquire about last-minute cabins due to late cancellations or something like that, so they can inquire.
+
+Client: Okay, I can do that. And this page originally was for retargeting for our Facebook ads, but we’ve just made it the actual Cornati page because we're in this dire moment where I’m trying to resell this boat that I already sold once.
+
+Christo: And you probably already paid a deposit and all that, right?
+
+Client: Yes, that's my problem. I’ve paid the deposit. This one’s a bit of a mess. Apart from it being a mess, I am considering making some changes to each of my destinations, but not the 20% discount. I think that should go.
+
+Christo: Yeah, I think that should go for people who have already booked, but it could maybe be “inquire about last-minute cancellation discounts.”
+
+Client: Okay, I could do that.
+
+Christo: The other thing I wrote down for you: you said you're running Facebook ads and they're not converting, and I’d like you to try something else. If we go from cold traffic straight to this, it’s understandable why it wouldn’t convert straight away because I've never met you, it's 5 grand or whatever. Have you tried a free info event, like an online event where you get people to come on for a 30–45 minute information session? Or either that, or booking through Calendly to book a call with one of your consultants.
+
+Client: Yeah, okay. Now that you’ve said it like that, I see it’s not obvious, but if you click find your perfect sailing holiday free guide, that offers you a conversation with me. But obviously, this is a lead magnet, so you have to do it via email. But maybe I should just have a button there that says have a conversation.
+
+Christo: Yeah, I think that would be good. Do you use Calendly or one of these booking things?
+
+Client: We use Google Calendar.
+
+Christo: Maybe check with ChatGPT if it could be integrated. It would be cool. I think a free tool like Calendly where you set appointment slots and people can book straight away could show up here. You can use the free version. It shouldn't be too hard. Just to make it easy for people to book straight into your diary for 15 minutes. There are different options. I think that's the one my team are using.
+
+Client: Okay.
+
+Christo: Just so there's a step in between committing and doing nothing.
+
+Client: Okay. All right. Do you think it's worth putting these little changes across all of the pages?
+
+Christo: Yeah, definitely. That one is my favorite change—adding the emotive sentence.
+
+Client: Yep.
+
+Christo: I really like that one. Are most of your customers Australian or do you have some US people too?
+
+Client: We have some US, some New Zealanders, and actually a Japanese couple sail with us regularly as well, but mostly we're Australian.
+
+Christo: Because the other thing I would do is maybe put the price in brackets in US dollars. For anyone that operates on US dollar—like Americans, maybe the Japanese are familiar with US dollars—it will look really cost-effective. Americans are not going to go straight away “oh yeah, $5,000 Aussie, that’s only that much.” They won’t even think that far. So do the thinking for them. If someone comes with a different currency, everyone is familiar with US dollars.
+
+Client: Okay.
+
+Christo: So I would add in brackets the US dollars here too.
+
+Client: No worries.
+
+Christo: And then also you had another one on the—so I would definitely make those changes across the website. And add a booking button—booking for a chat with one of your sailing adventurers or whatever you want to call it—not consultant or salesperson, but something fun.
+
+Client: Okay, I can do that. All right, so the next question is about the lead magnet. ChatGPT said it was very passive, not much call to action, and made some suggested changes, which I've made. I wanted to change it anyway because it was underwhelming.
+
+Christo: So this is the second version, right? And this is the first version?
+
+Client: Yes, correct.
+
+Christo: Already the font here is much better on the front page. And do you get some downloads?
+
+Client: We do get some downloads, but we haven't got anybody who then rang for a booking or even to talk to me, though there's a calendar invite to have a chat with me for 15 minutes.
+
+Christo: Oh, maybe you can do it through Google Calendar then. I'm just clicking to see what happens. Oh yeah, don't even worry about Calendly. Looks like you got it set up in Google Calendar. So just use that.
+
+Client: Look. Yep.
+
+Christo: Perfect. Just link that on your website as a button. But I think it is heaps better. I’d just wanted to hear you say yes, agreed. It's heaps better. Go with this new version.
+
+Christo: Definitely go with the new version. It’s heaps better. Maybe ChatGPT was right about adding a little urgency for them to contact you—since people are downloading but not taking action. Right now, as you need to fill spots, maybe for this version mention that there are 3 spots available at a special rate due to late cancellations.
+
+Client: Yep, okay.
+
+Christo: And maybe just add “rate available until the [date],” because we need to give people reason to take action.
+
+Client: Okay, cool.
+
+Christo: Yeah, so I’d make it a bit more reason why. Does anyone else have anything to add?
+
+Fran: Could you put the other version on the screen as well? The old one?
+
+Client: The old one is really just 3 questions—are you traveling by yourself, what are your interests, and maybe one other question. The new one you can click through to pages on the website. It says, if you answer 3 yeses to this then our trip could be right for you, with more engaging questioning instead of just 3 tick boxes.
+
+Fran: Yes, the old one was more about you gathering information about them, whereas the new one is more about them understanding what the best trip is for them.
+
+Client: Yep, that was ChatGPT’s suggestion.
+
+Christo: The most important thing about these lead magnets is having some real reason why they should connect with you. The content needs to be good, but it's most important there's a call to action—reason for them to take the next step.
+
+Client: Lots of our current clients are a slow burn; they don’t buy straight away. The lead magnet is also about getting them into the database and then nurturing, but I was feeling like I was ripping them off a bit—getting them in the database without giving them something worthwhile. Now it feels much more worthwhile.
+
+Christo: Definitely. Yeah, the new one is better. That's really good.
+
+---
+
+Christo: Now, moving on. Catherine, you wanted to discuss the Coaching Superpowers Guide, right?
+
+Catherine: Yes, just a little background. A colleague in New Zealand and I are both coaches and have worked together. We’ve been sharing these qualities and characteristics for leaders with LinkedIn posts, and now compiled it into a document that could be downloadable or shared. I’m curious how to capitalize on this—what can we do with this guide, what’s possible?
+
+Christo: I’ve got a few ideas. In your field, people usually connect and ask for a proposal. I’d send the proposal as usual, but add: “Hey, I've got something else I thought might be helpful,” and give them the guide. Your competitor will just send the proposal; you’re being generous and demonstrating expertise.
+
+Catherine: Oh, great. Brilliant. Love that.
+
+Christo: Another idea is to set it up as an email sequence. Maybe over 12 months—one topic a month. When you do your training, you can tell people, “as a little maintenance/integration, you'll get a monthly coaching superpower.” Then, even if these aren’t the buyers, they'll talk to others who might need a coach. You leverage your content that way. This can also be content for a masterclass or podcast, either as a guest talking about the 10 coaching superpowers, or use it in your own podcast.
+
+Catherine: I do have a podcast that's been sitting dormant for a while. I want to reactivate it and something from this would enter in.
+
+Christo: Absolutely. Some of those ideas I’d implement straight away.
+
+Catherine: Is there anything missing, or any way to avoid making it too salesy? We just wanted good content and, at the end, information. The graphics are mine—hand-drawn.
+
+Christo: Perfect. It’s not salesy—purpose is to add value. Do you have all your contact info there? People can Google or LinkedIn you? You could include “we’d love to co-coach.”
+
+Catherine: Yes, and there’s a lot of discussion about co-coaches—finding clients open to co-coaching and who have the budget for it.
+
+Christo: There's definitely benefit in that. Anyone else have thoughts for Catherine? I like it. I’ll properly go through it and maybe apply some of the things.
+
+Catherine: Please, and maybe you can give us feedback. Afterwards, we could collect testimonials about how people used it.
+
+Christo: Yeah, even on LinkedIn I can write you a recommendation. For industries like yours, I like getting testimonials via LinkedIn—you can screenshot and reuse them and they look real.
+
+Catherine: Absolutely, that would be wonderful.
+
+Fran: One thing that catches my eye is news hooks—if there’s something current in the news, pick up on one or two superpowers and use those as relevant case studies, then provide a link to the research.
+
+Catherine: That's great.
+
+Catherine: Should I have it on my website as a download?
+
+Fran: I think so. Christo, you’ve always talked about your best stuff being accessible, maybe free, because if that's what gets people to start dialogue about working with you, it's serving its purpose.
+
+Christo: Yes, maybe try a different approach—you have some lead magnets already, so you could have a page about these super coaching superpowers. Maybe list them and instead of a lead magnet/opt-in box, you could say, “we love sharing these with leaders, email us to get a copy.”
+
+Catherine: Okay, so give it its own page.
+
+Christo: Or just combine them using your blog posts. Rename your blog—call it something more in line with your brand, e.g., journal, thoughts, musings.
+
+Catherine: I've used musings before, happy to revisit that.
+
+Christo: Brainstorm with ChatGPT for more ideas. Then, on each, add a call to action: “If you'd like to receive the full guide, email us.” I’d add that to each, call it a guide or superpower guide.
+
+Catherine: Thank you.
+
+Christo: You’re welcome.
+
+---
+
+Christo: Emma, you had a site review—bring us up to speed.
+
+Emma: I've been working on adding more info to the website, starting with the racking side of things because we really didn't have much. I wanted each product to stand out and our brand to really stand out and not look like every other racking or shelving page. I’m a bit lost in it now. Nobody else gives me feedback, so just wanted some thoughts.
+
+Christo: That’s why we’re here. Let me scroll through and then everyone can chime in with feedback on the landing page. I like this part: Strong, efficient, adaptable. “Australian-made”—people value that.
+
+Emma: We're positioning ourselves as not just another Chinese import brand. This is made locally, though it does mean a bit more expensive.
+
+Matt (another client): Is the product different grade?
+
+Emma: Yes, it's Australian steel, graded differently, can hold more, etc. Our supplier is Space Rack, which has a lifetime guarantee. I’m trying to promote the product but also get people to the product. I don’t want to overload with too much info, but it's a balance.
+
+Matt: The Australian Made logo made a difference for me—might be worth looking into using that.
+
+Emma: The supplier pays for it, but it’s not actually on their website. I can ask them.
+
+Kat: I really like it. It's clean, colors, graphic quality—lines and images are strong.
+
+Christo: Agreed. It's an upgrade from before. If I were fussy, I see three different sized fonts and colors here. Probably align that a bit more. Also, maybe “Industrial racking for warehouse and distribution” could be above the main statement—starting with who it's for, then the strong, Australian made. And wouldn’t capitalize the whole thing, just copy the style from the secondary heading.
+
+Matt: The coloring is immediately differentiating—the color of the racking is unique compared to the usual blue/orange you typically see.
+
+Emma: If you go deeper, our options include galvanized.
+
+Kat: The look is great.
+
+Christo: Only other thing I might tweak: if you have links or buttons like “get in touch” multiple times, maybe vary them—“request a quote,” “book a chat,” etc., so they're not repetitive.
+
+Emma: Okay.
+
+Christo: “Request a quote” is good for your type of business—maybe even “free measure and quote.”
+
+Emma: Great.
+
+Christo: Where are you based? Is distribution local?
+
+Emma: We’re based in the Toowoomba region, delivering around the Darling Downs.
+
+Christo: Good to add that geographical region for SEO—people will search location + solution.
+
+Kat: Yes, including location helps with search ranking.
+
+Christo: 100%. For example, “warehouse and distribution solutions Toowoomba area.” Also, for the images below—if they’re blurring together, just add a tiny space or a white border.
+
+Emma: Yes, I can do that.
+
+Christo: Is this WordPress?
+
+Emma: Yes.
+
+Christo: You’ve done really well. It’s clean, copy is good, images are strong. Built yourself? It would cost a lot to get a developer to build this—very well done.
+
+Emma: Thanks.
+
+Christo: Not confusing at all. The “request a quote” button works well. Maybe vary in places where you have “get in touch” repeated. Use “book a free consult,” “request a quote,” that sort of variation.
+
+Emma: That’s great.
+
+Christo: Very impressive. Would not have the skills myself!
+
+Matt: I like the bottom of the page—“from warehouse to office solutions, we’ve got you sorted.” Maybe highlight it a little higher up on the page.
+
+Christo: Yes, very good point. That line would work stronger as a banner heading. Stronger font, not the handwritten. Make it prominent so I immediately see what you do and why it matters.
+
+Emma: Thank you.
+
+---
+
+Christo: Fran, did you want to share your question?
+
+Fran: Yes, so for myself, I've been learning a lot. The flyer, I think, looks more encouraging and appealing now. But when I land on the page for booking, I’m not sure it has the same flow of impact.
+
+Christo: I agree. The flyer is calming and easy. On the booking page, sometimes wording like “click here for more information and to register” is a bit softer, so people don’t feel they’re forced into signing up before they're ready. If you can, use that. The image quality on the booking site looks a little grainy—see if you can improve that.
+
+Emma: Would you be better off having text instead of an image so Google can read it?
+
+Fran: On HumanTix, it probably doesn’t matter, but yes, for my own site that’s important. But here, recreating that in their system would be hard.
+
+Christo: Otherwise, agree with Emma’s point—it’s good for SEO if you can on your own site. For the event page, you could improve it by making these items bullet points—very easy to read. Or use your blue heart emoji instead of bullet points. Easy to copy and paste an emoji and add to your dot points.
+
+Kat: Yes, love that.
+
+Christo: Everything also looks bolded—maybe unbold the main text and just bold key parts. Keeps it cleaner. Also, I love this testimonial—“mother” is a bit unclear. Can you use a name for each? People relate better with names, even just “– Francisca I., mother”.
+
+Fran: Can do.
+
+Christo: Similar for the other testimonials—add a name, title, or something.
+
+Fran: Yes.
+
+Christo: Unbold the extras, keep important bits bold. Have you run this page already? Are you getting bookings?
+
+Fran: Yep, we've got 5 bookings already.
+
+Christo: That’s fantastic. If possible, a picture of Amy and you—people buy from people, especially in your context. Add faces where you can. As for using “Australian-made” in your approach, I probably wouldn't push that as a unique advantage, as people in this space might be more open to international perspectives, and Australia isn’t particularly known for a unique approach in behavioural management compared to, say, the US or Europe.
+
+Fran: The therapies commonly used here are often imported from America, and the authorities are questioning those, but maybe not relevant to highlight.
+
+Christo: Agreed. Here, I’d probably number the “why should you consider Calmr” reasons explicitly—1,2,3,4,5. Make the signoff “for more information” smaller and softer. The testimonial structure is great. Does anyone else have feedback?
+
+Sarah: Structure is great, flow is easy to read and absorb.
+
+Christo: I agree. It’s a big improvement. Well done.
+
+---
+
+Christo: That was the last question for today, and we're right on time. Great work as always, everyone.

@@ -1,0 +1,141 @@
+Christo: So today we have a few questions. We'll start with Jen first, then go through the rest as needed. Jen, you have an email sequence for your online event, which Franziska has reviewed—the pre-workshop emails, but not the post-session ones, right? And you mentioned your show-up rate was low—1 out of 38 booked, or something like that?
+
+Client: Yeah, I'm getting about 38 registrations, but last time I only had 1 show up. I've had a few show up before, but I think part of it is that I'm promoting it too early. We typically do the masterclass in the third week of the month, but we start promoting at the start, so I think people register and then forget about it when it’s on three weeks later. I think next time, in January, I won't start promoting until a bit later. Do you think that's better?
+
+Christo: Yeah, definitely, timing is important. Usually, a two-week window before an online event is where you get the most registrations and the highest show-up rates. If we're running ads for a one-off event, we might trickle them in three or four weeks out with a low budget, but then ramp it up from two weeks until the event to really fill it. That probably had an impact, but you’d still expect more recent registrations to show up. Out of 38, only 1 showed up—that's very unusual.
+
+Client: The session before had about 32 registrations, with 3 or 4 showing up.
+
+Christo: Still low then. Franziska mentioned a 30% show-up rate is ideal. So you should be getting 10 people on these—not just one or three. Where are the bookings coming from?
+
+Client: Facebook ads.
+
+Christo: Are they going to a landing page to book, not using Facebook lead forms?
+
+Client: Correct—they click off Facebook to the landing page.
+
+Christo: Good, that's better for attendance. If you use Facebook lead forms, you get lower attendance typically. Let’s look for any disconnect between your ad, your registration form, and your email sequence. Is there anything inconsistent in what’s promised? For example, if your registration says “Create your financial wealth plan” and then the emails start talking about “mindset shift,” people may feel like it's not what they signed up for. Double-check for message clarity and consistency throughout.
+
+Client: Okay, I’ll review that.
+
+Christo: Check that alignment—if they've registered, they liked the original message, so something might be happening between booking and showing up. Also, in your confirmation emails, I noticed the “Zoom link coming soon.” Is there a reason you’re not including the Zoom link right away?
+
+Client: Originally we didn’t have the Zoom set up at the time, so we’d update the link later.
+
+Christo: If someone misses the email with the actual Zoom link, they just never get it. Ideally, you want people to grab the Zoom link immediately and add it to their calendar. You could include an ICS file (calendar invite) with the Zoom link in your confirmation email. My workaround: create the event, invite yourself or another address, then extract the ICS file from the email and attach that file to your confirmation emails. The key is, make sure the calendar file already has the Zoom link in it.
+
+Client: Right, I can do that.
+
+Christo: Also, be careful with the wording in emails. For example, using phrases like “I’m bad with money” can come across as negative—if that language isn’t on your sales page or in your ads, avoid introducing it in the emails. It’s about resonance, but you don’t want to cross the line into being patronizing or off-putting.
+
+Client: Okay, got it.
+
+Christo: And your brand voice—terms like “hey lovely,” “hi lovely”—just make sure that really fits your audience. If you’re dealing with finances, people might want to see you as more professional rather than overly familiar.
+
+Client (and others): Yeah, agree. More professional tone for financial topics.
+
+Christo: It’s fine to have a fun voice, just make sure it matches your market’s expectations, especially around trust-building. A quick check-in like “hi lovely” might be second nature to you, so double-check if it fits with your intended positioning.
+
+Christina mentioned sometimes “a little too familiar if you don’t know me”—so it’s helpful feedback.
+
+On the ICS/calendar invite tech: If you have trouble with some recipients not getting calendar invites—sometimes Apple Calendar invites don’t play well with Outlook users. To ensure everyone gets a usable file, right-click on your calendar event and choose “email event”—that should include the ICS attachment in any outgoing email and removes ambiguity. Alternatively, invite yourself, grab the ICS, and send manually.
+
+Chat user: Can ChatGPT create ICS files? Christo: I’m not sure, unless it’s integrated with your calendar and you’ve shared access—it might, but generally stick to manual workarounds to ensure reliability.
+
+Back to post-event emails: The content is good, just a couple of tweaks. When you mention the 50% off promotion for your course, state the discounted price and the regular price (e.g., “now $497, usually $997”) for better contrast and value perception. Anywhere you mention the offer, include the actual price so readers don’t have to click through to see it.
+
+On your countdown emails—if the tech only allows a cutoff at midnight rather than exactly 24 hours, don’t stress too much about the backend. Focus the messaging: say “offer expires midnight tomorrow” or whatever suits. People may have a few extra hours to claim the offer due to the tech, but the main thing is the call to action and urgency.
+
+Consider whether your reminder emails are being sent at logical times—if the cutoff is at 11pm or midnight, people may not see those last few emails. You might want to adjust so the key reminders land a few hours before the cutoff (like 5pm), and worry less about when the video or code actually expires on the backend.
+
+Also, in your after-event sequence, you might want to separate messaging—early emails mention both the recording and the special offer, but once those initial emails have gone out, switch to just promo emails (e.g., first 2 emails: “recording up for 48 hours,” then shift to “promotion open for X hours”).
+
+Client: Okay, makes sense.
+
+Christo: For people who attended, only mention the recording once—they don’t need several reminders about something they’ve already seen. The rest of the emails can be about the special offer and any download/gift as you have it.
+
+Client: Understood.
+
+Christo: Well done! Any other questions on this sequence?
+
+Client: No, that clarifies things. Thank you.
+
+Christo: Great. Next, moving to Eventbrite ads—relevant for Brendan and for Jen as well. Franziska recorded a video demo, I'll play it now.
+
+Franziska (video): Here’s how to use Eventbrite Ads. It’s a very straightforward platform—just select the event, choose your campaign objective (e.g., drive traffic), pick your budget and locations (we usually go nationwide, but you can target specific cities). Note: there’s no psychographic targeting, just location. Leads from Eventbrite are usually cheaper, but they tend to have lower show-up and conversion rates than Meta ad leads. Budget-wise, we do about a week of ads before the event.
+
+Christo: To clarify, when Franziska says “lower conversions,” she means that attendees are less likely to convert to your core or higher-ticket products compared to leads from Facebook/Instagram ads. You’ll often get cheaper bookings via Eventbrite Ads, but the lifetime value can be lower. If you keep your targeting too broad (e.g., worldwide), you might get very low-cost bookings but from the wrong audience. Focus on your primary market (e.g., Australia), and only expand once you’ve optimized for your main audience.
+
+Let us know if there are follow-up questions.
+
+—
+
+Next up, a discussion about the viability of running a signature event this year (Adam):
+
+Client: It’s about Gay Ski Week. I’m risk-averse after recent challenges, and the event hasn’t really hit the tipping point. It costs about $20–$30k to run, with accommodation costing $8k–$12k. We need 50 attendees to break even; last time we had 25 paying, plus another 50 who attended events but not full packages. We’ve never cracked 100. Should I skip it this year or try a different format like a weekend event? Stakeholder engagement, setup, and time investment are concerns, especially as I haven’t started those yet and we’re already behind.
+
+Christo: Has the event ever been highly profitable, or is it typically just covering costs?
+
+Client: At Mount Hotham years ago, there were a couple of good years, but mostly it’s just breaking even. I’m emotionally attached, but it’s not showing business results. There is a competitor’s party-focused event but with a very different crowd.
+
+Christo: And you’re already behind on setup and promotion?
+
+Client: Yes, we should have been much further with stakeholder engagement, rates, and promo materials. It’s about 20–40 hours’ work just on mechanics before even launching.
+
+Christo: If it hasn’t consistently been profitable and doesn’t clearly drive other core products or higher-ticket events, my initial inclination is it’s probably not worth the investment this year—unless there’s clear evidence of new opportunity (like a great partnership or a big increase in demand). Does the event fill seats or sell other higher-value events or packages for you?
+
+Client: Not really—a few core advocates flow through to other events (like New Year’s or special trips), but it’s not a major revenue driver for anything else. We’ve even tried extending into international trips with little client overlap.
+
+Christo: The logistics suggest focusing on your proven events—especially your New Year’s party, which you told me is 50% of the business’s annual revenue—and on your new, profitable offerings like your exclusive tours. If scaling back to a stripped version is feasible (like a weekend option, simplified format), that might make more sense—but only if it allows you to reduce cost and time pressure and doesn’t distract from your core revenue drivers.
+
+Client: I could revisit in January—if we do something scaled back, it lowers risk and might still build stakeholder engagement for future years. That could be the opportunity.
+
+Christo: That’s a good frame—it’s okay to park it for now and revisit after the holiday rush. You might find people prefer the shorter format anyway. Focus on core events and new profitable launches right now. Use a reduced/event-lite format as a test to engage partners and see what’s feasible for the future—only if it doesn’t tie up your resources for things that will actually make money.
+
+Client: Understood. I may use a mini event just to get partners on board for future years.
+
+Christo: Yes, and meanwhile, leverage exclusivity for your successful tour experience—play up “sold out” messaging to drive demand further on your core products.
+
+Client: Will do. Thanks.
+
+Christo: Any extra thoughts—like incentives for group bookings, small upgrades (bottles of wine, special cocktail, branded gifts)—can all help boost core events as well.
+
+Client: Great, thanks.
+
+Christo: Nice work—keep perspective, and always come back if you’re second-guessing.
+
+—
+
+Next, we have a website review.
+
+Kayla and Matt: You’re working on a new website for a surf school. The homepage design—main question: for kids and adults lessons, should these be side by side above the fold, or further down the page?
+
+Christo: You want your highest-converting offers “above the fold”—the section people see before scrolling—because you start losing attention further down. The hero image is lovely but takes up space. I’d recommend having two buttons, like “Kids Lessons” and “Adults Lessons,” clearly visible above the fold. That way, people immediately find what they’re looking for with zero friction. Consider making the navigation bar text larger/clearer too, and make your “kids/adults lessons” CTA more obvious, perhaps overlayed on the image or just below it.
+
+Matt: Our designer wanted it clean, but maybe it’s too minimalistic for conversions.
+
+Christo: Exactly—a clean design is great, but clarity and frictionless journey to purchase come first. The Amazon/TEMU model: not pretty, but extremely easy to use and buy from. You need a brand feel, but never at the cost of losing your main calls to action. Play with reducing hero image size if needed, and make it clear right away: group lessons for kids, group lessons for adults—two big CTAs the moment they land.
+
+Client: Should we have the options in the navigation bar or in a callout on the page?
+
+Christo: Both can work, but at minimum it needs to be glaringly obvious right away—above the fold, two pathways (kids/adults). You can play with design to make it blend with your hero image or just below. Simple icons/images for each can help. Remove low-value real estate (like redundant banners/logos where not needed), and pull testimonials with star graphics above Instagram feed or other widgets—testimonials/social proof should be prominent and early.
+
+Gift vouchers: Move them up as well, especially before holidays. Those should not be hidden in tiny font at the very top—either make them a main menu item or a CTA button so people can easily buy gift vouchers for kids or adults. Minimize tiny, barely visible navigation bars—avoid them being lost or invisible on mobile.
+
+As for images, while your barrel shot is great for advanced surfers, you’ll want some photos showing approachable, human interaction—team, instructors with beginners, group setting—to keep it personal and relatable.
+
+On stoke—great to use the term if it’s in your brand DNA. Consider including a short “what does stoke mean?” in your FAQs for outsiders. An AI chatbot is a good idea to funnel people to the right lesson, answer FAQs, and reduce confusion about lesson selection and booking. People rarely read instructions, so if the chatbot can direct them (“Find the right lesson for you”), it’s a good investment.
+
+Feel free to make these changes and resubmit the site for more feedback. Keep evolving it until you’re totally happy.
+
+—
+
+Finally, feedback on Beth’s LinkedIn banner:
+
+You’ve got several design mockups. The key is brand consistency—your headline is clear, and the look is strong. Of your designs, the clean, on-brand option is best. The ones that are dark or too “stock photo” don’t communicate as clearly. The techy/AI feel banner could work if that’s a message you want to highlight, given all the AI focus right now, but only if it fits what you do.
+
+If you want to add a trust/credibility note: you could overlay a short testimonial snippet in italics and quotes (e.g. “An amazing team to work with”), but avoid clutter. If you do that, and the design feels crowded, dial down the size a bit. Otherwise, your favorite/cleanest banner is a great choice.
+
+Well done getting feedback, taking action, and submitting for review. Keep iterating and post updates in the community for faster feedback if needed.
+
+That’s a wrap for today. Thanks everyone for submitting questions and for all your hard work.

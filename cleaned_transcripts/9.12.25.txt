@@ -1,0 +1,129 @@
+Christo: You're progressing with this ad. I'll just bring your question across because there are a few parts to it. You're progressing with the ad and editorial for a yacht club promotion.
+
+Client: Yes.
+
+Christo: The first part of your question is about what to include in the ad. Components like logo, hero shot, QR code so people can follow a link?
+
+Client: Yes.
+
+Christo: First thing, start drafting it—maybe for next week's session or depending on their deadline. You want to check when they need it by.
+
+Client: Yep.
+
+Christo: The main chunks are basically the copywriting formula, like we went through in session 3. For you, I’ve created the main ingredients. The ad's likely to include a call to action, possibly a deadline, though with this print ad, I need to ask: is this a magazine that distributes once or do they have an annual edition that stays for a while?
+
+Client: They have the same edition for the next 16 months. They're rolling out their focus in stages. They want 5,000 home addresses in the area and 500 affluent business people to receive it. Plus, they'll distribute at their own events during that time and within the club itself. So it's a 16-month rolling effect.
+
+Christo: That’s a long distribution. I was going to say, with print ads, it's good to go for a direct response—like “book now!” or “book by this date”—but with a 16-month window, you can’t say “Book by X date.” However, you could say something like “Mention this ad” to give them a bit of a push to take action. Ideally, you want them to do more than just see your brand; you want them to book a trip.
+
+Client: Exactly.
+
+Christo: So we’ll try to craft it—not as urgent as a “Book before,” but maybe something linked to booking in time for a future season or to receive a bonus.
+
+Client: I anticipate with their April 2026 print schedule, most people will book for 2027, not 2026. It feels late to promote big-ticket items for 2026 at that point.
+
+Christo: Yeah, it’s a long lead time. But that gives us time to plan. For the ad, main parts: headline to capture attention; a short, engaging section to get them interested; something that triggers their imagination and gets them to your website. Don’t overclutter it—just enough to spark their interest and move them to act. Then a small “solution” chunk: a bit about why choose you, your unique selling proposition—something you have that others don’t. Could be a one-liner from a testimonial too. For booking details, depends on the ad size, but ideally a QR code, website, phone, and email. Some in your target market may want to call, some may email, and some may scan the code, so include all if it doesn’t get cluttered. Draft the text for these sections, then we can refine it. When the draft ad comes back from their designer, you'll have a chance to review and tweak before finalising.
+
+Client: Okay.
+
+Christo: Now for the editorial. I read your angles, looks like you've brainstormed some good ones with ChatGPT. The interview format you sent is very readable—blocks of Q&A, easy to follow. I’d lean toward keeping that, depending on space. Trim it if needed. Check with them what word count you’re working to. You might need a short overview paragraph, then jump to the interview. For a headline, I like the one you had: “Charting a Different Course: How Our Family Built a Life Around Sailing.” That or something similar works. Then keep it editorial: paragraph about you, e.g., about building your life around sailing, following your parents’ footsteps, then intro to the two women you interviewed about their experience on your trips. That way it’s about you just enough for credibility, then shifts to their story.
+
+Client: I like that, but want to make sure it twists to be about them after the brief intro about me.
+
+Christo: Exactly. Short intro on your credibility, then straight to the interview. If the word count is tight, you can do rapid-fire style Q&A, pared back—almost testimonial, but it feels natural. If space allows, you could have a brief bio at the end, but only if word count permits.
+
+Client: Agreed. The editorial space is 210 x 210mm for the whole ad/editorial, so the editorial will be about half that—very little space!
+
+Christo: If it ends up super short, we just adjust—stripped back Q&A, focused on the most interesting questions, tight responses, keeping it lively and authentic.
+
+Client: Okay, great.
+
+Christo: Well done. Draft it, get the word count, and bring it back next week. Once you see how it looks in layout, you might find opportunities for things like a design block with your most popular trips or similar.
+
+Client: Got it. I’ll start work now and bring it next week.
+
+Christo: Great. Heidi will send you this doc. I’ll add in the suggested structure as well.
+
+Client: Thank you.
+
+Christo: No worries. You'll get it done, and their designer can slot in the copy once it's ready. Focus on refining the text and word count first.
+
+Client: Will do.
+
+Christo: Okay. Next question—moving on to the website schema discussion.
+
+---
+
+Christo: You've got a plugin on your WordPress site called Rank Math, and you’re asking if it does the same thing as All-in-One SEO, which we talked about in the How to Rank in AI Search Masterclass. I did some Googling—yes, it provides schema settings. In your screenshot, you went to Templates. Templates let you define schema for page types, like events. But to set up schema for main pages, you should click on Titles and Meta, then Schema in there. That’s typically where you set the right schema for each page. 
+
+I checked your site with online tools and your schema is set up well—it identifies your business type, address, reviews, etc. If you haven’t found the right settings yet, it looks like you were just clicking in the Templates section instead of Titles and Meta. Let me know if you need more detailed steps.
+
+Client: Do you put schema on all pages?
+
+Christo: Usually, you set schema for your main pages: products, homepage, about us, etc. For articles, you can set all articles as “article” type so you don’t have to do each manually. The main pages you’ll do one by one, then apply the article schema to all your posts at once.
+
+Client: Okay. I also wanted to ask, is the website content too short?
+
+Christo: Looking at your main pages, I don’t think so. You have a good amount of info, including main info, testimonials, and changing menus. The content isn’t too short for AI searches. It pulls in your reviews, general info, and displays your credibility—like “trusted by 1,298 happy customers.” That’s the kind of thing AI search looks for. They’ll find your FAQ, detailed content, and reviews—so that’s good for ranking. If you want to add more FAQs, especially detailed or customer-specific ones, like “My child has X condition, can they still attend?”—those are great. People will search specific questions in AI, so having thorough Q&As on your site helps.
+
+Client: So, think about how parents would ask questions in AI and add those.
+
+Christo: Yes.
+
+Client: Got it.
+
+Christo: Mock up any changes you like and resubmit for feedback. You’re on the right track.
+
+---
+
+Christo: Next, let's talk about your Eventbrite ads. You wanted to compare your results to ours.
+
+Client: My clicks are terrible. I have about two-thirds of the impressions but only 10% of the clicks compared to you. Something about my event isn’t appealing.
+
+Christo: You’ve had 3 bookings and 25 page views, so that’s 12%. It’s small numbers, so if you get a surge next week it could jump a lot. For our event, it’s 25%—so higher, but again, small sample.
+
+You have 1,855 impressions and 14 click-throughs, so 0.7%. Ours average about 1%, which does add up over time, but yours isn’t far off.
+
+Client: I’m paying more for impressions. Maybe my targeting is too niche.
+
+Christo: Are you using very specific locations?
+
+Client: Sydney, Melbourne, Canberra.
+
+Christo: Try going broader—sometimes less competition helps. Maybe try a wider radius or even Australia-wide and see what happens.
+
+Client: I’ll try that. The event is free.
+
+Christo: Same as ours. One thing: with some ads platforms you need to let them run a while (like three weeks) to see better results—they get smarter at targeting. Not sure if Eventbrite’s as advanced as Meta, but keep it in mind. Also, smaller cities can sometimes deliver cheaper and better conversions, even if they don't last as long—you saturate them faster. From experience, running face-to-face events: regional launches can fill up fast and cheaply, but then you let it rest for a while.
+
+Client: Makes sense.
+
+Christo: Let us know how it goes as you expand the targeting. Keep tweaking, and we’ll get there.
+
+Client: Got it.
+
+---
+
+Client: Can I show you a reel I made for an opt-in lead magnet? I’m trying to get some of my content into a downloadable PDF and build my funnel.
+
+Christo: Yes. Is this a reel for Instagram to get people to opt in?
+
+Client: Yes. I just worked on it this morning.
+
+Christo: As you share, make sure you hit “share sound” so we can hear it. Is the reel working to get attention and clicks for your lead magnet?
+
+[Technical sharing discussion. Client screenshares, tests playback.]
+
+Christo: On your question—how long should reels or ads videos be? It’s hard for me to tell since your video is so short—about 7 seconds. You don’t necessarily need to make them longer. Maybe 10-15 seconds, just enough for the main message to register. The key is: can people see and read the main text before it disappears? If your image grabs attention, make sure your text isn’t overlapped by the app’s own overlay. Compress your message: “Get your child toilet ready for school in 7 weeks” works—don’t over-explain in the video, save extra details for the post text.
+
+Client: I’ll take off some extra text.
+
+Christo: Sometimes less is more. You don’t need to say how the process works in the reel—let that be in the caption or the download. Focus on curiosity and the core benefit. The image was fine—didn’t even think about whether it was AI-generated.
+
+Client: Thanks. I asked for an Australian uniform in the AI image because it kept making everything American!
+
+Christo: Sounds good. As long as it doesn’t distract, it works. Make the tweaks, upload, and feel free to bring it back for more feedback.
+
+---
+
+Christo: Nice work, everyone! That’s our session for today. If you have any more questions, jump into the members’ website and use direct messages to connect within the community. Keep submitting updates as you progress, and we can keep working through them. Great progress!

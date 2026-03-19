@@ -1,0 +1,57 @@
+Question: How can staff-facing sales signage translate effectively to social media messaging?
+Answer: The sales signage uses language focused on features and benefits, designed as sales tools for staff. When transferring that messaging to social media, consider adjusting the content to suit the platform—shorter, visually engaging posts that highlight the key features, benefits, and unique selling points. Think about what would grab attention quickly, since people scroll past quickly online.
+Key Insight: Condense and adapt showroom-oriented messaging for social media by focusing on the most compelling benefits in a fast, visual way.
+
+---
+
+Question: Should we review and refine showroom collateral before printing?
+Answer: Yes, reviewing the signage before printing is valuable. Getting feedback from others can help refine the content, improve its clarity, and ensure it serves both staff and customers well. Sharing drafts before finalizing can save resources and lead to more effective material.
+Key Insight: Collaborate and seek feedback on marketing materials pre-print to optimize clarity and usefulness, saving costs and maximizing impact.
+
+---
+
+Question: Are my Mailchimp campaign open rates and click-through rates good, and how should I follow up?
+Answer: Achieving a 50% open rate is excellent—20% is typical, 30% is considered good, so 50% is outstanding. Click-through at under 1% is low, indicating high trust and engagement in opening but less action taken. For follow-up, send a brief reminder like, “Just checking you saw this,” and mention any deadlines for offers to drive urgency and clicks.
+Key Insight: Strong open rates show trust, but short, urgent follow-ups are vital to improve click-throughs and conversions.
+
+---
+
+Question: What is the difference between unique opens and total opens in email marketing?
+Answer: Total opens count every time an email is opened (including repeat opens by the same person), while unique opens count each recipient only once, no matter how many times they open the email.
+Key Insight: Unique opens show the actual reach, while total opens can overstate engagement; focus on unique opens for true audience insights.
+
+---
+
+Question: What should I do if my email campaign has high opens but low clicks?
+Answer: If many people open but few click, it’s often because the email is too long or the action required isn’t clear or urgent enough. Many intend to act later but forget. Remedy this by sending a concise follow-up with urgency, highlighting offer expiries or next steps.
+Key Insight: Reduce message length and add urgency in follow-ups to convert opens into clicks and actions.
+
+---
+
+Question: For in-showroom product info sheets, should all features, benefits, and pricing be included, or should it be condensed? 
+Answer: A one-page sheet with all relevant information is helpful for the showroom context, as it consolidates complex product details for both staff and customers. However, you can improve usability by tightening visual layout, condensing information, and adding elements like QR codes to allow access to more in-depth info online.
+Key Insight: In busy retail environments, single-page, digestible info is crucial, but offer links (QR codes) to more details for those who want it.
+
+---
+
+Question: How prominent should price and benefits be on small-format (A6) product info sheets?
+Answer: Unless price is your primary selling point, it doesn’t need to dominate the layout. Focus on key benefits—such as “maximize storage in limited space” or “10-year warranty”—and keep prices legible but not overpowering. Use white space and clear fonts to improve readability and impact.
+Key Insight: Emphasize benefits over price for small-format sheets, using layout to attract attention to what matters most.
+
+---
+
+Question: What makes a flyer for a psychological therapy program (e.g., DBT) effective?
+Answer: Don’t use clinical jargon as a headline; instead, address the potential client’s lived experience and needs. Clearly articulate: Who is this for? What’s in it for them? Why does it matter? Use relatable, empathetic language: “Are you feeling stuck, going in circles, struggling to make changes?” Then, briefly explain the solution and what to expect, plus a clear call to action—like “intake now open.” Statistics and evidence-based credentials can add credibility, but focus first on the outcome people want.
+Key Insight: Speak the client’s language, prioritize results and empathy over technical info, and include a clear call to action for best flyer engagement.
+
+---
+
+Question: How should complex therapy program details be structured on a flyer?
+Answer: Break down the program simply—outline what happens each week or month, what participants will learn, and practical details (where, when, for whom). A QR code should link directly to a page with more comprehensive details for those who want to know more. Avoid overwhelming readers; clear sections (Who, When, Where, What) help usability.
+Key Insight: Structure therapy flyers with clear, relatable sections and direct readers to further info with QR codes for those needing more depth.
+
+---
+
+Question: How can website visuals enhance credibility and engagement for a retail product site?
+Answer: Use header images that show real people interacting with the products to create relatability and trust. Stock images or staged shots can look “cheap” and decrease engagement—even AI-generated or user-submitted images of the products “in the wild” work better. Maintain strong branding elements and clear navigation.
+Key Insight: Authentic, relatable visuals of people using your product greatly boost website engagement and brand credibility.

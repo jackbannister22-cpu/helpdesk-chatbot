@@ -1,0 +1,115 @@
+Christo: Did you manage to get through Module 4? We had the sales funnels, blogging, and email marketing. Did we have the lead funnel in here? The lead funnel is a really important one. Any questions or anything you want to discuss on that?
+
+Client: Are we allowed to do that?
+
+Christo: Yes, I actually spoke to someone about this today. So basically, what we want to do, and maybe this is something we have to get to a conclusion on today, is that some people see your stuff—your advertising, your business location, your website—but they're not quite ready to buy. We want to give them what's called a lead magnet—something to make them want to take the next step. You are still allowed to do free consults, so that can be a lead magnet. Has anyone tried that as a lead magnet for people that don't know you yet? You say, “Hey, book in for a free consult,” and then convert from there?
+
+Client: Yeah, that's something we encourage them to do.
+
+Christo: Is it working?
+
+Client: Yes.
+
+Christo: So that would be a lead funnel. Any other lead magnets or funnels that are working?
+
+Client: That's probably the only one we can do, I think.
+
+Christo: Is that the only thing you can do? Could you also do free information? For example, creating a landing page where you offer a checklist, like a “skin confidence checklist,” and people leave their email to download a PDF. The call to action there isn’t “come in for injectables,” but rather, “come in for a consult,” or “check the website for more,” focusing on skincare advice.
+
+Client: Yeah, just a checklist of how to look after your skin. That's what I came up with—with tips like “7 Things to Stop Doing If You Want to Age Gracefully."
+
+Christo: I like that because I’m already curious—what are those 7 things? That’s a good hook. The important thing about a lead magnet is not just the content but how you position it—what’s the title, the packaging, the headline. For example, you can ask ChatGPT for a headline, and it can help make it something you’d put on your website, business cards, or mention when talking to people at a party: “Hey, I’ve got this awesome cheat sheet you can put on the fridge—7 things we all do but shouldn’t.”
+
+Lead magnets are about how we position it, how we package it. The insight is important, but it’s about getting people to say, “Yes, I want this.” Headlines are usually key. I’d encourage you to push ChatGPT further for more unconventional insights or truths, rather than conventional advice.
+
+Client: Unconventional—like what?
+
+Christo: For example, someone in another group swears by not wearing sunscreen—that’s very unconventional and a bit polarizing, so you likely wouldn’t use that publicly. But maybe you have your own insights from being in the industry, things that aren’t widely known but are still useful and non-controversial. What are some unconventional things about skin that you could share? What do you do that’s different?
+
+Client: I just basically know what my skin needs. I go to the gym and feel like my skin glows. I invest in prevention, and I’m always doing the right thing for my skin.
+
+Christo: That could be a lead magnet—sharing your unique approach or advice. The key is, wherever you interact with people—website, in person—you want this lead magnet front and center, so when someone isn’t quite ready to commit, they have a low-barrier way to start a relationship with you. Instead of booking immediately, they can read your checklist or tips.
+
+Client: It's hard because we're not allowed to do certain things.
+
+Christo: But you’re allowed to give information and free consults. You just can’t promote injectables after that in the lead magnet. You can easily have ChatGPT make a graphic for your 7 things.
+
+Client: We have a skin analyzer. Maybe offer that to people unsure about their skin type—come in for a skin analysis.
+
+Christo: That’s great. And you can position that as a point of difference—unlike others, you offer individualized advice, not just whatever’s on promotion.
+
+Client: True, that makes us different.
+
+Christo: Does anyone else have a lead magnet they’re using or plan to use?
+
+Client: I’m working on it—a rewards club referral program. If an existing client refers a new client who spends a certain amount, both get a discount or freebie. Not sure if we can do that anymore with the new regulations but it’s focused on skin treatments.
+
+Christo: The referral system can work but not on injectables. If your main area is skin, it should be fine under current guidelines. But for lead magnets, what are you offering those not yet ready to buy?
+
+Client: Nothing at the moment, really.
+
+Christo: So if someone calls or visits your site and they’re not quite ready, what’s the small, no-risk thing they can do or receive? A free consult is a common one. But is there something more irresistible? Something with more perceived value than a free consult?
+
+Client: Maybe a free mini facial, skin consult, or mini massage?
+
+Christo: I’d be interested in that—"We help you understand your skin type so you’re not using the wrong products. Book a mini facial and consult and get our expert recommendations." Even just a mini facial would make me more likely to spend money with you after. And you could offer an intro pack of products afterward, not for free, but for purchase, so you can see the difference in their skin after a few weeks.
+
+Has anyone else tried that approach?
+
+Client: I’m looking at starting my clinic, and planning to offer free skin analysis, but with all the new regulations, I’m unsure how to market it without being too pushy.
+
+Client: I uploaded the new industry guidelines into ChatGPT and asked it to audit my website and social media for compliance, and to give suggestions.
+
+Christo: What did it point out?
+
+Client: Avoid testimonials, only offer incentives with clear terms, present balanced information, and don’t promise results. Uploading the guidelines into ChatGPT helped me check compliance.
+
+Christo: That’s a great tip. For today, what I want everyone to walk away with is a basic funnel lined up—what’s your entry level offer for those not ready to buy right now? For example, use a CRM like Mailchimp or a clinic-specific database. Are you using any database management systems?
+
+Client: We use point-of-sale systems like Timely.
+
+Christo: Perfect. Do those systems capture information from people who download your checklist or similar from your website? Can your lead magnet connect to your database, so you can follow up with prospects?
+
+Client: Not directly. The booking connects, but downloadable items don’t automatically connect.
+
+Christo: You might need to set up a CRM for that, or use website backend tools. Wix, WordPress, and Shopify all have simple automations for that. For now, I want everyone to map out their basic lead funnel—what happens if the hottest leads don’t book right away? What’s the first low-risk step you offer them? Maybe a mini facial, a consult, an online checklist, or a freebie—something to engage warm leads, not just the immediate buyers.
+
+Take 2 minutes now to think about your lead funnel: what’s your first step, and what does someone hesitant or “not ready” receive from you?
+
+Client: For my lead magnet, I considered offering a free review of their current skincare routine, but I’m not sure about doing it by email—it feels like more inbox clutter and might not be appealing. I’d prefer to keep it in-person, combined with a skin analysis.
+
+Christo: That's a good approach, especially if your paid services are also in-person. Advertising a free “Skin Analysis and Skincare Routine Review” as a first step can be your lead magnet, with a simple “Book Now” button. For warm leads, it’s low risk and high value.
+
+But you need something, because not everyone is ready to buy on day one. Package it compellingly—maybe even make the headline a bit provocative: “Most skincare routines are wrong—come in to find out if yours is on track.” Headlines that challenge people’s assumptions can be very effective.
+
+Client: The challenge is figuring out what’s interesting, because I live and breathe this stuff, so it all feels obvious.
+
+Christo: That’s where testing comes in. Try different offers and see which resonates, even with just a small ad spend on social media to see which headline gets more engagement. Or ask your audience directly what they want help with.
+
+Client: People like getting something for free, but you don’t want to look cheap. You can’t keep giving stuff away, but maybe start with a free mini facial or analysis and then use referrals or loyalty to keep them coming back.
+
+Christo: Exactly. You could also use seasonal themes—like a winter special that addresses typical problems for that time of year. But it’s also about consistent presence: through educational content on social, monthly emails, and brand-building, so you stay visible and build trust over time. Even sending a simple monthly tip to your database helps keep you top of mind.
+
+Client: I'm considering a winter bundle—maybe skin peel and a free product, but the product’s value is high, and I don't want to lose money.
+
+Christo: Don’t over-discount products—maybe offer samples instead. For capturing new clients, a combination, like a “first-time skin peel for $50” (regularly $99), can work well, especially if you can leverage cross-referrals with your hairdresser partner. Create a time-limited voucher, give it to the hairdresser to hand out, and see how it performs. If the treatment is time-consuming, make sure the offer is easy for you to deliver. Focus on high-value, low-risk.
+
+Client: I’m struggling with time, but I know I have to get new clients in.
+
+Christo: Only do it if you actually want new clients. If so, make a simple flyer or voucher, give it a deadline, and leverage your existing hairdresser partner.
+
+Client: For my lead magnet, the only thing I can think of is complimentary consultation, maybe with a free gift or express facial so they can try the product.
+
+Christo: Keep it simple—pick one thing and test it. Don’t try to complicate it. “Everyone offers a free consultation,” so make your wording stand out or add a small upgrade, like including a product sample, a mini analysis, or a “glow session” with a fun name. Play with ChatGPT for wording, make it more playful, test it, and see what clients respond to.
+
+Client: Maybe do a clinic open day, serve drinks and snacks, and have scratch cards for free treatments or discounts as a fun way to encourage visits.
+
+Christo: That’s a great one-off event idea—Christmas in July, or something similar, to bring people into your space and create buzz. Use things like referrals and loyalty rewards to keep people coming back.
+
+Today is just about what's one low-risk thing you can give people who aren’t ready for a full purchase yet. The smallest first step you can offer—e.g., a mini-facial, skin analysis, checklist download, or something similar.
+
+Next week, we’ll cover social media—how to make it less painful and more effective for your business.
+
+Remember: Don’t make it hard, keep it simple, test something basic, revisit and iterate from there.
+
+[End of cleaned transcript.]

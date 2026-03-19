@@ -1,0 +1,127 @@
+Speaker (Coach): What we're going to do first is answer the questions. The good thing about this session being a smaller group—about 14 people—was that everyone got plenty of time. Sometimes, when there's less external interest in a masterclass, it means our members get more attention. I think this topic just wasn't as popular, maybe due to the time of the year, so we didn’t get as many bookings as usual. That worked in your favour for member Q&A time. 
+
+So, as I promised, we'll start with the questions—there are three. Then I'll do a ChatGPT demo on using archetypes. Even if you haven’t got your archetypes defined yet, I’ll show you how to use ChatGPT to get them, and then how to build your agent. Gavin, you wanted to know about this, and it really is easy. Once you’ve built one, it becomes simple to create more. Matt, do you want to ask your question first?
+
+Speaker (Client): Last week I asked about adding products to my business, and what that means for naming and branding. Currently, my main product has 'Treeguard' in the name, but as we add more products, I’m looking at new trading names and potentially broadening our purpose statement, values, and tagline. Is that too much to cover today?
+
+Speaker (Coach): Not at all—we can work through it now, then you can refine further and come back. In terms of your brand, you don’t need to move away from your core name; keep it as your umbrella. For your brand structure, have the umbrella brand—let’s say it's 'Echidna' something, as an example. Retention is a hot topic at the moment, and you want everything to fit under your umbrella. Then 'Echidna Treeguard' is a sub-brand or product family. Each product you add—like your Treeguard, or future tools—forms part of your regenerative offering.
+
+Speaker (Client): All products will help farmers deploy regenerative production systems.
+
+Speaker (Coach): Exactly. So that supports keeping 'Echidna' as the umbrella brand. For example, you could have 'Echidna Regen' as the mother company, with 'Echidna Treeguard' and other future offerings as sub-brands, possibly even a consulting service down the line. Keep them all under the same 'Echidna' umbrella. It keeps things simple and straightforward.
+
+Speaker (Client): Another question about the name: People often ask me about the spelling of 'Echidna'—I use a K instead of CH. Should I switch to the correct spelling?
+
+Speaker (Coach): That's a good question. When companies tweak spelling—like 'Kleenex'—it can help make a unique brand. But you need to consider clarity. In your case, when people typed your name in the chat, they defaulted to the standard spelling with a CH. If you’re constantly having to explain or spell your brand name, it’s worth thinking about changing to the conventional spelling.
+
+Speaker (Client): That’s what I said to my wife—I’m tired of spelling it out repeatedly.
+
+Speaker (Coach): If it were my business, I'd keep it simple for sharing and visibility. I’d use the standard spelling so people can find you and refer you without extra explanation. But ultimately, you as the owner need to like the name. If you love echidnas, keep it, but if you’re not attached, then be practical. Sit on the decision for a bit if you’re unsure.
+
+Speaker (Client): Thank you. Can I get some feedback on my purpose statement and tagline too?
+
+Speaker (Coach): Yes, let’s start there. Your purpose statement sentiment is good, but make it shorter and more emotive—aim for one short sentence, max two. Use ChatGPT to help brainstorm: ask it to make your purpose statement more emotional and concise. You can have an extended version for detail, but for reinforcement internally and externally, keep it punchy.
+
+Speaker (Client): So, almost like a tagline?
+
+Speaker (Coach): A little longer is fine. Example: 'Helping farmers regenerate the land with tools built to last.' That’s a solid starting point. You know your audience best—consider their needs. 'Built to last' speaks to durability, 'regenerate' covers outcome; both are strong.
+
+Speaker (Participant): What about 'designed by farmers'? That shows insider knowledge.
+
+Speaker (Coach): I like the 'designed by farmers' angle—co-designing with your target audience taps into credibility and partnership. Also, consider if you’re only serving farmers or if landowners (not actively farming) are included. Tailor the language to include the broader group if relevant. Avoid getting too technical or “woo-woo” with phrases like 'soil sustainability'—keep it practical.
+
+Speaker (Coach): Try combining values into a single line—something like: 'Co-designed with farmers and landowners to regenerate land using rugged tools built to last.' Play around with the benefit at the end, or incorporate Australian context if that's appealing to your audience.
+
+Speaker (Participant): I like the word 'rugged'—it really says Australia.
+
+Speaker (Coach): Use the language your target market uses. Make sure it sounds like your business, not just 'ChatGPT speak.' If 'Aussie' or 'Australian' connects with customers, include that. Experiment and refine.
+
+Speaker (Client): Thank you, that’s good guidance.
+
+Speaker (Coach): For the taglines, I like 'built for regen, backed by farmers' and 'Australian-made, farmer-approved.' These are short and catchy. I’d pick your top two, then ask ChatGPT or your team to generate several more options with those as inspiration. Then just choose what feels right for you—don't overthink or get stuck in indecision. Adjust next year if you get feedback.
+
+Speaker (Client): Thanks, everyone, for the input.
+
+Speaker (Coach): You’ve now got a game plan. I’ll get our team to send through notes for you. Let’s move to the next question.
+
+Speaker (Client): Last week there was a discussion about using ChatGPT for SEO—specifically, creating hidden landing pages to target specific search terms. Will creating landing pages that are live but hidden from my website’s main navigation improve my search rankings, or am I just duplicating efforts and wasting time? I’ve started simplifying pages and making them more landing-page style, but I’m unclear on the benefit of so-called 'hidden pages.'
+
+Speaker (Coach): Hidden pages are really just landing pages with unique URLs, not linked from your main navigation. You can run ads to these pages, so only people with the direct link see them. This helps if you want to test messaging or content length—say, different versions for 'Croatia sailing tour'—and see which performs better. They are live and indexable by Google, unless you specifically hide them from search engines.
+
+Sometimes people recommend building multiple landing pages for different search terms to capture more traffic (e.g., 'family-friendly sailing Croatia,' 'self-guided sail Croatian coast,' etc). Each page matches a specific search term, increasing the chance to catch more keywords and traffic. But doing this for every slight variation can become a lot of work for minimal gain. 
+
+A better tactic is: 
+- If you’re running Google Ads, direct the ads to these tailored landing pages.
+- For organic search, instead of duplicating your core offering pages, consider creating blog content targeting specific keywords—use these in articles or travel stories, which you can get ChatGPT to help write.
+
+Test this approach for one or two offerings before rolling it out wider. Google organic search results are now largely driven by paid ads at the top, so you’ll usually appear below them regardless. Instead, try running a low-budget Google Ads campaign targeting a few key phrases; see which ones convert before building out lots of landing pages.
+
+Speaker (Client): Excellent advice—I’ll test with my last three cabins for the season and use targeted ads rather than multiplying landing pages.
+
+Speaker (Coach): Smart move. Also, updating your main offer page and getting Google to re-index can help; Google likes fresh, active pages (especially if you’re spending with them!). Blog posts can also support your organic search—consider setting up a travel journal or stories page, and use key phrases throughout.
+
+Speaker (Client): Maintaining a travel journal sounds like work.
+
+Speaker (Coach): It doesn’t have to be—just use ChatGPT for quick stories, and update as you go. No need for set frequency; only post when you have useful or engaging content. Use key phrases relevant to your offerings for better SEO.
+
+Speaker (Client): Got it. I’ll focus on ads and try minimal extra pages.
+
+Speaker (Coach): Sounds good. Let’s move to the next topic.
+
+Speaker (Client): I’ve got a new, simple 5-year strategic plan for my business, and now I want to develop a marketing plan to support the early stages. I’d love feedback—am I heading in the right direction? It covers social media, paid ads, and some campaigns, but I want to know if this is sufficient for a practical marketing plan.
+
+Speaker (Coach): There are a few core areas to focus on—keep social media included, but treat organic posting as a credibility check. Organic posts don’t drive much actual traffic, but when customers check you out after seeing an ad, they see you’re active. Posting once or twice a week is fine—you won’t see a huge difference if you post seven times versus two.
+
+Prioritise paid ads for real results—run call-to-action ads ('book now,' etc), and keep a modest budget ($5-10/day is enough for local areas). Do monthly giveaway campaigns and boost top-performers, but be consistent. If your goal is leads (e.g., more phone calls), focus attention where it moves the needle.
+
+Speaker (Client): I convert 90% of calls—I just need more calls to support hiring staff. Should I do Google Ads even if I already rank high in organic local searches?
+
+Speaker (Coach): Google Ads can complement, not compete with, your organic ranking. You can use ads to target different terms, like office or commercial queries, or even just reinforce your place at the top. I recommend working with a freelancer who charges hourly, so you can trial campaigns without committing long-term. Someone local who can test a couple of campaigns—avoid being locked into a monthly agency fee.
+
+Also, focus on Google reviews—after every job, request a review, and when you respond, work your core keywords into your reply. This supports ranking and builds trust.
+
+Don’t neglect posting in community Facebook groups—these are strong for local leads. Offer a special or honest introduction (e.g., “I have two spots this week for new clients, first try is half price,” etc). Being real and approachable works well.
+
+Speaker (Client): Can I track leads/get granular data on a weekly basis, not just monthly? Is the magic numbers tracker adjustable like that?
+
+Speaker (Coach): Absolutely—track weekly if that works for you. The template supports it, and most successful businesses are monitoring these sort of numbers weekly.
+
+Speaker (Client): Should I be doing regular letterbox drops?
+
+Speaker (Coach): Physical brochures can work well locally but the key is a great flyer—most are dull. Use ChatGPT to brainstorm funny, playful angles (especially if your brand has hero/jester archetypes). Bring your draft to advisory board and we’ll review it—it needs to stand out for people to pick it from their letterbox.
+
+Speaker (Participant): Your branding uses a helmet—are you keeping that and your name?
+
+Speaker (Client): Yes, keeping all branding, just refining.
+
+Speaker (Participant): Small typo on your car signage—worth updating.
+
+Speaker (Client): Thanks, I’ll fix it.
+
+Speaker (Participant): Regarding SEO/blogs, should we update monthly or more?
+
+Speaker (Coach): Once a week is great if you have the time; once a month is fine for most. Don’t burn yourself out. If you can keep up good quality fortnightly, all the better.
+
+Speaker (Coach): So your priority actions: Letterbox drop (bring flyer for review), talk to the ads specialist I mentioned, increase Google reviews, post in community Facebook groups. Keep blogging if you can. We’ll send you updated notes for reference.
+
+Speaker (Coach): Now, for the brand archetypes and using ChatGPT for brand voice: 
+
+I went into ChatGPT and prompted it: “I'm trying to work out my brand archetypes, can you help?” It gave me an overview of the 12 main archetypes and then suggested using company values, audience, tone, and purpose to identify which ones fit best. Once it gave me the top three archetypes, I asked for a custom prompt—basically instructions for a GPT agent to write everything in that brand voice/style.
+
+Here’s what you do: 
+- Copy the custom prompt ChatGPT gives you (which includes your core values, archetypes, audience summary, tone, etc.).
+- Go into 'explore GPTs' (if you’re on ChatGPT Plus), create a new agent with that prompt. 
+- Name your agent (e.g., “[Your Brand] Brand Voice”), add other files if useful, then create. You can make it shareable for your team.
+- Now, when you need content—landing pages, social posts, ad copy—just use that agent. It will keep everything on-brand and in your brand archetype style.
+
+If you’re on the free ChatGPT, you may be limited. Last I checked, the ability to create and share custom agents is a Plus (paid) feature. It’s about $20USD/month. For brands using AI-generated content daily, it's a valuable investment.
+
+If you want to keep your team producing in brand voice, remind them to use the agent and refine the content as needed—don’t just accept whatever GPT produces; tweak and personalise for your business.
+
+Speaker (Participant): Is there a way to get all your recommended contacts (marketers, ads specialists, etc) in one place?
+
+Speaker (Coach): Good idea—we’ll start a page in our member community listing who’s good for what so everyone can access trusted referrals.
+
+Speaker (Coach): Final tip: If you have ChatGPT Plus, build your brand agent now—don’t put it off. Take ten minutes now even if your brain is fried; you’ll thank yourself later. You can always improve it over time. 
+
+Go make it happen!

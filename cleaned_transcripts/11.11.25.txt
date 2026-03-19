@@ -1,0 +1,232 @@
+Christo/Franziska: I am extremely happy and proud to see how much work has been done. Like all the questions that have come in—you've been busy, and I know it's a busy time of the year too. So really nice to see. Let me share the screen. What we do here is usually we love to get your questions sent in prior. So we have time to look at them, but if you have questions on the day, that's also okay. We try and finish around 2-ish for everyone, a good hour of power, and everyone can chip in. That's the power of these sessions—other people can share their perspectives. You are in your business often alone, just doing your thing and you don't see the trees for the forest. So this is a good time for other people to go: “What about this? Have you thought of this?” Let's start with the first question. These are the questions today. Paul is first, then Sarah—for Sarah, I've got a video from Christo because he’s the legend on all things GEO.
+
+Client: And I just came out of the mastermind class too. The questions are still relevant, but I did that again just to make sure my brain was on point.
+
+Christo/Franziska: Perfect. So, Paul, do you want to share your question? I already have some questions back for you.
+
+Client (Paul): Sure. This was just—I noticed you were talking about how you have a business of your own, and you're also working as a coach, and that sort of parallels my situation. I'm working with an organization that I co-founded, but I'm in this program to learn how to market my own brand—myself, my book, and my writings. So I guess I was interested to talk to you about the ways you balance that and how you think about it. It's not a super focused question, but I'd be interested in your perspective.
+
+Christo/Franziska: Yeah, it's a great question. I just helped someone with this last week. He’s a business owner in the US who now wants to build his personal brand, but his message is diluted because he’s known for the consultancy. I grappled with that—I have my business, and I don’t want to only be known for one thing. I also have other projects and keynotes, a personal brand. The question to ask yourself is: What’s the common thread through all the things you do? Is there one? Where I started—and where I think would be good for you to start—is with 2 questions: 
+1. What do you want to be known for? If you asked people close to you, what one word would you want them to use to describe you? 
+2. What are people currently saying about you? What are you already known for?
+As a practical example, I asked a friend who knows me really well, “What’s my thing?” She said: adventures and courage. I can weave that into whatever I talk about. So now I have this thread that I can be known for, and I'm still working on that, because as speakers, it’s very easy to just be generalists and blend into everyone else. So what comes to mind for you?
+
+Client (Paul): What I’m already known for is very much the pro-social model, leadership development, communication skills, coaching.
+
+Christo/Franziska: What part of leadership development and communication? That’s a very broad field.
+
+Client: When I narrow it down, it gets quite technical. Academic research, contextual behavioral science. But I’ve spent most of my career trying to broaden it rather than narrow it.
+
+Christo/Franziska: What do you help people with when you go into organizations? What’s the point? Why would someone come to you?
+
+Client: I think because of solid, research-based, evidence-based approaches, compassion, mindfulness-based approaches. I've taught and coached from a mindfulness-based perspective, and also done research. Lately, I've been experimenting with focusing on pro-social AI, writing on how artificial intelligence can work with humanity, making AI more human, and also about cognition—decision-making techniques, systems thinking. Maybe that’s a unique aspect: the thinking side.
+
+Christo/Franziska: That’s really important in where we’re heading—critical thinking, understanding how to think. That’s the part the future needs with AI because people are not thinking anymore.
+
+Client: Yeah, there's a huge role for specializing in how we can protect ourselves from becoming dumber and lonelier with AI.
+
+Christo/Franziska: Exactly. The skill of critical thinking, rather than following the masses, is very pro-social, otherwise we all just talk to AI, validating our existing thinking, which could be flawed.
+
+Client: Right.
+
+Christo/Franziska: I’m not sure what falls out of that, but if I know lots of companies that need consulting, if you just tell me you’re a “leadership consultant” or “coach,” it’s really hard for me to refer you on, because I know hundreds of others. If you say you specialize in thinking models and critical thinking, that’s easier for me to go, “okay, I want my team to have that skill.” If they think better, we have better conversations, better results, better than competitors. That specificity makes it easier to build your brand.
+
+Client: I like it. That's close to my passion. I could narrow it to “collective brain,” relational critical thinking; not just individuals but diversity in teams.
+
+Christo/Franziska: Yes, and with personal brands you start to publish and see what you’re passionate about and what people like. You don’t have to have it all figured out—it’s about picking an avenue and becoming known for something.
+
+Client: One specific question—I've started a Substack called “Being Prosocial,” but now I'd like to maybe disaggregate that, call it “Prosocial AI,” or “Thinking Better with AI…” Should I unhook that brand from the other brand?
+
+Christo/Franziska: On Substack, it’s probably a personal profile under your name, right?
+
+Client: Yes, under my name.
+
+Christo/Franziska: That’s the best. If I did a Substack now, I would just call it by my name, because as you write, speak, and publish, you need to build it around your name.
+
+Client: And that’s my URL too.
+
+Christo/Franziska: Even better. And you’ve got a PhD; can you not use “Dr. Paul Atkins”? That still has a lot of weight. If I had a PhD, I would use “Dr.”
+
+Client: I could use Professor, too. But does that sound too much?
+
+Christo/Franziska: Not at all. I like “Prof Paul Atkins.” It’s got a ring to it. Anyone else have thoughts?
+
+Client 2: I like “Prof Paul Atkins” or “Dr.”
+
+Christo/Franziska: I like “Prof,” but it’s up to you. Thank you everyone for chiming in.
+
+Client: Thanks for your input.
+
+Christo/Franziska: It’s a journey. You don’t solve this by thinking too much—even though your topic is thinking! You solve it by thinking, then doing, then thinking about what you just did, and adjusting. If you just sit thinking, you get nowhere. Publish, see what happens, get reactions, and adjust.
+
+Client: I have another book coming out soon, so I’ll have something to build around.
+
+Christo/Franziska: Start with that in mind—tease it, share snippets, get reactions, then you know what stays in the book and what goes.
+
+Client: Thank you.
+
+Christo/Franziska: Awesome. Next up is Sarah. Sarah, you have a GEO question. Do you want to ask your question, or should I show you what I got here from Christo? I messaged Christo with your question.
+
+Client (Sarah): So during the Experience, you created or shared a GPT. It asks questions about your people and what you’re selling, and it tailors your articles so when you put them on your website, they're findable by AI. So it’s about how AI is now coming in—SEO is not just for searchability but also for AI. I started using it, but I don’t fully understand what it means when it says “replace your HTTPS yourdomain.com with the live article URL when you publish.” What does that mean? And what is the JSON-LD schema—where does that coding go? I don’t get it.
+
+Christo/Franziska: Let's watch Christo’s video because these are great questions. We built a custom GPT you can use even if you’re on the free version. The one Sarah’s referring to is custom-built—cannot take credit, Christo and a team member built that. Let’s watch Christo answering your questions.
+
+Christo: Basically, meta description is a summary. When you search something, the meta description is the text that sits down here under the page title. In the back end of Leadpages, which you’re using, there’s a meta title and meta description. Each page has a page title and page description, that's where you update those. For schema, check within Leadpages if it’s possible to update schema. That’s all you need to do. It's just telling AI the factual info about the page. You can also check in Google rich results test, put your page in and see what shows up—if the info is already there, but it’s optional. Don’t panic.
+
+Christo/Franziska: In Leadpages, do you have schema markup?
+
+Client: No, you can’t do it, and if you said it's really important to use this, I'd ask Leadpages why not.
+
+Christo/Franziska: But if it's optional and doesn't mean anything now, don't worry. Leadpages and similar platforms will catch up and start to add these things if they want to stay relevant.
+
+Client: Okay, good.
+
+Christo: Don’t panic if not. For headings, just use H1, H2 for subheadings. Add a call to action. The rest is just a summary; don’t overthink it. Forget about adding code if you can’t. Schema tells AI things like your business name, but it'll likely pick it up anyway. For social media code, it's just to make things like the image display properly in posts—I wouldn't bother with it.
+
+Client: Great.
+
+Christo: Just make sure you put your real URL in instead of the placeholder URL somewhere in the content.
+
+Christo/Franziska: So bottom line, don’t worry about the schema or code right now.
+
+Client: Great, that's not as complicated as I thought.
+
+Christo/Franziska: It sounds more complicated than it is. They could probably simplify the GPT a bit.
+
+Client: Thank you.
+
+Christo/Franziska: Well done. Anyone who wants to use the GPT, the link is in the chat. I have a weekly AI meeting with the team—I’ll see if we can simplify it a bit because it does seem to go overboard. Well done for implementing so fast. Katherine, let’s talk about your question about reworking your book, Seriously Playful.
+
+Client (Katherine): I can really relate to your conundrum, Paul, trying to explain complex things in simple language people understand is challenging. I’m working on that at the moment. On my book, Seriously Playful Creativity: it’s an A to Z of creative prompts meant to prompt people into reflection and action. Depending on what’s going on in your life, your projects, your creativity, if you think, “I need to get a bit more creative and out of my own way,” it’s an A to Z—ideas, prompts you can work through in a linear way or jump in and out. Reflection pages with thoughtful questions. When I created it, I had this vision: spiral bound, with an image (my own artwork), meant as a real journal. But bookshops avoid spiral bound. So I’m thinking how do I make a next version—2.0—into a more traditional book without losing the experience? A local publisher likes it and we’re now talking about the ecosystem around it—maybe cards, workbook, so on. Just starting to formulate ideas, and looking for feedback.
+
+Christo/Franziska: Who is the perfect audience for this? Who would benefit from buying it?
+
+Client: Individuals wanting to prompt creative thinking—like an inspiration card you pull each day. Could use it with teams too—start meetings with a card, or base coaching or sessions on some of the prompts. Artists, individuals, teams.
+
+Christo/Franziska: I can totally see it with individuals and teams—teams could start or finish meetings with a card, making creativity a cultural thing. For the ecosystem, your lowest-hanging fruit is the book (traditional hard copy) plus the cards—a pack: book, or book and cards. Then, for facilitation or coaching, you’d have a workbook. Consumer at home might buy book and cards for a gift; if I hire you as a coach, I also get the workbook.
+
+Client 2: The spiral is great, lays flat—maybe the workbook could be spiral, the version not sold in bookshops. Love the cards. 
+
+Christo/Franziska: Yes, maybe keep the spiral for workbooks. Cards are beautiful. 
+
+Client: You could develop an online community, have each word or letter as a module, run group courses, have recordings people can work through, quizzes or free selection of the letters—monthly live sessions, private group. Build recurring income around that.
+
+Client: That’s fantastic, thank you.
+
+Christo/Franziska: Great way to use a book with a call to action to the community as part of your lead magnet. Thanks everyone for the insights and questions.
+
+Christo/Franziska: Jodie, your turn. Want to remind everyone what your business is?
+
+Client (Jodie): I own a small retail clothing shop in north Queensland in a small town.
+
+Christo/Franziska: You've written an email sequence for between now and Christmas, right?
+
+Client: Yes. We're practicing the sequences from the modules. I used the template, used AI to write it for me. Christo recommended I change a few things, so I tried again for the promotional funnel based on Christmas.
+
+Christo/Franziska: I love that you're practicing. What I notice—this is a reactivation or sales funnel to wake up your database. My main feedback, and useful for all of you: It’s lacking love. It’s promotional, something AI could easily whip up, and maybe it did here. But it’s missing critical thinking, the heart. As consumers, what would we want from a shop we love? We love a dress we bought when visiting—how can you make it emotive? More love, more warmth, more relatable. For example, maybe your first email just says, “I’ve been busy with new stock that just arrived, but I wanted to let you know something special is coming for Christmas—more tomorrow.” You can say what’s true: you’re working on a promotion.
+
+Client 2: Could you put something of value that’s not just about the store—like grandma’s pudding recipe, or “10 ways to dress at awkward Christmas parties”—something to keep that email.
+
+Christo/Franziska: Yes—personal story, or something useful, or a story about an experience. Make it relatable and valuable.
+
+Client: Okay.
+
+Client 3: I’d like to see FOMO in the emails—teasers, images of new arrivals.
+
+Client: Definitely—right now it’s just ChatGPT output. Once it’s in the CRM, it’ll be visually prettier—links, photos. Right now, it’s just me playing around with the structure.
+
+Christo/Franziska: Totally, I appreciate that. This is good feedback for all of you—use AI, but then question it, adjust it, make it stand out with your personality. Maybe: “Christmas is around the corner. You’ve got Christmas parties coming up, maybe you don’t want to go to all of them. Here’s how you can style one dress three ways…” Add personality, connection.
+
+Client: So if I start a new chat, do I have to add the brand voice again, or is it set?
+
+Christo/Franziska: If you created your own custom GPT, it should have all your instructions already. It should always talk in your brand voice.
+
+Client: Ok, sometimes it’s a bit OTT and cringy.
+
+Christo/Franziska: Yeah, that's why you use your own flavor. You can tell it “don’t be over the top—be more subtle.” You can adjust as you go. Mine is never perfect either; no one gets perfect content from ChatGPT yet. Use your brain, think critically, interactively edit, and craft stand-out content.
+
+Client: Thank you.
+
+Christo/Franziska: Use ChatGPT to bang it out, put it in a doc, then go in and wordsmith it, then put it back in and ask for “more warm,” “more playful.” It learns from you. Nice work!
+
+Client: If I didn’t have ChatGPT, I’d be stuck.
+
+Christo/Franziska: It’s great for not getting stuck. Edit, get feedback, improve.
+
+Christo/Franziska: Jen, your turn—want to share your question and sequence?
+
+Client (Jen): Mine is for a free masterclass—my big lead gen each month. That’ll run next week; not as much time to promote this month, and Christmas will be hard. It’s for female financial literacy; “5 Steps Every Woman Needs to Financial Literacy.” The email sequence is after they register. I used to get 60-70 registrations, only 4 or 5 show up.
+
+Christo/Franziska: We need to get at least 20-30% showing up. What system do you use? Can you do SMS? Sometimes we send an SMS an hour ahead—“We’re live in an hour, here’s the link.”
+
+Client: I think I can, we collected numbers this time.
+
+Christo/Franziska: Good. Also, make sure you don’t use a passcode—just direct link.
+
+Christo/Franziska: Main thing—once people register, don’t tell them there’ll be a replay. If you do, they won’t show up. You can 100% allow a replay, but don’t tell them beforehand.
+
+Client: Got it.
+
+Christo/Franziska: I like your language—“Hey, gorgeous. Yes, you took the first step.” Good. In “what you’ll discover,” make it about them—what they will learn, not what you will cover.
+
+Client 2: On recording—if it’s interactive, maybe don’t record. That increases vulnerability and sense of safety.
+
+Client: It can be interactive, but with only 3-4 showing up, it's not very interactive yet!
+
+Christo/Franziska: Also, make sure you mention in the email: “We’ll give you our favorite financial planning template in the session.” That’s a drawcard.
+
+Client: Okay.
+
+Christo/Franziska: What’s your biggest money frustration right now? Quick question in the pre-session email—get some engagement. Then after the session, in your follow-up, you can mention the replay and bonus. You mentioned a discount for joining—put that in your follow-up, not in the initial sequence.
+
+Client: Okay.
+
+Christo/Franziska: This is really good copy.
+
+Client 3: How do we find out about your webinars?
+
+Client (Jen): Promoting on social media and our website, jenrichardson.co.
+
+Christo/Franziska: Share the link. Some group members may want to join and give feedback.
+
+Client (Jen): Yes, feedback welcome.
+
+Christo/Franziska: Let's aim for at least 20% show up, and next year 30%. Good work.
+
+Christo/Franziska: Kyla, last question—came in a bit late.
+
+Client (Kyla): Sorry, was on the other AI masterclass. This is our very first draft—images aren’t correct yet, but wanted feedback. Main question: our main title image is done by a local artist. We get a lot of feedback—it’s on our vans—but I wonder if it should be a header image. I hear kids are sometimes scared by it.
+
+Christo/Franziska: I don’t like that as a header image for a service. If I’m a parent, I don’t want my kids to get scared by the branding.
+
+Client: That’s where my thinking was too. We do a lot of corporate groups, 50 schools every week—maybe something lower key.
+
+Christo/Franziska: This can go at the bottom or somewhere else, but not in the header. Instead, for your header image, do a collage (or even better, a video) showing your different target audiences—kids, corporate groups, surfers. Static collage is fine if video is too much. Definitely not all that black space.
+
+Client: Great, thank you.
+
+Client 2: And make it less gendered.
+
+Client: Good point.
+
+Christo/Franziska: Header image should reflect your key audiences—show a child, a corporate group, a good surfer, so you see the whole range.
+
+Client 3: I'd like to see some waves, some students, parents in the distance as header. Under that, explain “we are XYZ’s leading surf school, we look after children, executives…” A call to action.
+
+Client: Thank you, all, that's helpful.
+
+Christo/Franziska: Really well done. Great action this week—keep it up. Jen, I was glad you shared your sequence—sometimes it’s those small tweaks. We tweak our sequences all the time and watch numbers go up or down; it’s worth getting it right.
+
+Client (Jen): Should I tweak the webinar each time?
+
+Christo/Franziska: Stick with one really epic masterclass and perfect it. Don’t test new content every time—get your pitch, stories, case studies, your opening “why” spot on. The people coming in for free get the same masterclass perfected; the new content is for clients who pay you.
+
+Client: Thanks.
+
+Christo/Franziska: It also really simplifies your life.
+
+Client: This one I’m doing touches on all 5 parts, rather than going in depth on one each time.
+
+Christo/Franziska: Yes. Keep at it. Have a beautiful rest of your afternoon, and thanks for sticking around and helping each other.
+
+[End of transcript.]

@@ -1,0 +1,155 @@
+Christo: Welcome to this week's advisory board. We've received a number of questions which I'll work through in sequence. For anyone new, there's no set agenda—what we cover is based on your questions, which you can send in via support as you want feedback. You can ask for detailed feedback on anything from your LinkedIn title, your website opt-in, your About Us page, or broader brainstorming for ideas. If it's something substantial like a homepage, best to send it in at least a day prior so we have a chance to review it. Everyone here has unique business experience, so toss your ideas in, no judgement. You can unmute and join in or add to the chat.
+
+Let's start. Paul, you're up first with your new website.
+
+Paul: I've been working with Francisca and struggling with what to apply the CleverBunch to. I realized I wanted to focus on personal branding in support of my book. Francisca pointed out I needed a website, so I quickly set up a one-page site. I'd love your feedback.
+
+Christo: Great job getting it started, especially in an hour. First, what's the intention for the website? Who do you want landing there, and what do you want them to do?
+
+Paul: I want people interested in my writing, especially those around my upcoming book. I plan to serialize ideas on Substack and do more speaking about trust and collaboration in the age of AI, and wisdom in leadership—building wisdom at individual and collective levels. The website is to establish thought leadership. I still do some traditional leadership development but want to move more into presenting my expertise.
+
+Christo: Who’s the ideal market you want to land here and think, "Here's the person for trust and collaboration"?
+
+Paul: I'm working with social change agents with my not-for-profit, teaching them methods for building trust and collaboration without authority. But for speaking, the buyers would probably be more corporate.
+
+Christo: So a mix of both?
+
+Paul: Yes, and I'm okay with leadership development as long as it's around wisdom in leadership, systems thinking, critical thinking, and team collaboration, not just strategic planning or profit focus.
+
+Christo: Good start. We can tweak the messaging. When someone lands on your page, does your headline catch the attention of the right audience and intrigue them? “Professor Paul Atkins, author, facilitator, researcher”—that tells me your titles, but not your specialty or audience. Someone could be unsure if they're in the right place. In the first three seconds, the page needs to catch your target audience and make them want to keep reading.
+
+Is this your purpose statement, here?
+
+Paul: That was workshop-developed—helping people grow the wisdom needed for healthier relationships and resilient systems in our age.
+
+Christo: That’s solid, but we can boil it down further. I've noticed you mention leadership, trust, and collaboration. We need a clear angle. For example, a headline like "Empowering purpose-driven leaders to navigate complexity while maintaining humanity and effectiveness" is clear and powerful. You could move that up as your main headline. People want to know immediately what you help them with, otherwise it feels like a bio site rather than a value proposition.
+
+You could add a subheading below, such as "Author, facilitator, keynote speaker, researcher,” to summarize your credibility and make clear what you offer. “About” is a bland section title—try “Professor Paul’s Background,” “Why Work With Paul,” or something similar.
+
+Paul: I might bring the “current work” section up, making speaking specialties more prominent.
+
+Christo: Yes, add a “Work With Paul” section with subheadings like “Keynote Speaking,” “Workshops and Training,” and “Books.” Short summaries under each make it easy for someone skimming the site to see how they can engage with you—a bit like a “featured products” section on a product business site. Event people—or anyone booking a speaker—want to know your specialty at a glance. Make it obvious with brief section headings; people will skim for these.
+
+Paul: I haven’t done corporate keynotes before, only academic ones and some training. Is there much demand, and do you know anyone who does corporate keynotes?
+
+Christo: Yes, there’s definitely a market for it. I do this myself—I've presented for several large organizations and networks. Sometimes it's corporate, other times industry events or summits run by event companies. There are lots of opportunities, and other participants here do it too. For now, just list keynote speaking as a service, even if you haven’t got a huge track record in corporate yet. You can add a section on "Who Paul Works With," listing, for instance, leaders, organizations, groups—so your ideal clients can self-identify.
+
+Also, with your Substack link, be clearer about the benefit: e.g., “Get monthly leadership insights direct to your inbox,” or “Join my newsletter for inspiration and updates.” Assume people don’t know what Substack is.
+
+A few more touches: Another photo of you helps—adds personality. Check the legibility of small print; don’t hide important promises or features in faded text, especially if, for instance, the “program to help groups align interests” is important.
+
+Overall, tweak, massage the messaging, and you can have us review again once updated.
+
+Paul: Thanks so much, that’s really helpful. Quick question—what platform are you using for your member site?
+
+Christo: We use Mighty Networks. On the web browser it’s under our brand, but on the phone app, it shows as Mighty Networks. The app is easier to use and gives you access to everything on the go.
+
+Paul: It’s really user-friendly, great design.
+
+Christo: Thanks for the feedback. We’re always looking to improve, so let us know anytime.
+
+[Transition to next participant]
+
+Christo: Jodie, you're next. First question: "How do I build a landing page? Should I use a landing page from a CRM to avoid duplicate costs?" Yes, many CRMs include landing page functionality. For example, we use Ontraport, which handles mass emails, automations, payments, etc. All our masterclass registrations are done via Ontraport’s page builder, displayed on our site with a plugin.
+
+Jodie: Is that for commerce-based businesses? Is Ontraport best for that?
+
+Christo: It’s for selling anything but if you’re running a big ecommerce store with lots of products, Shopify is currently the leader. For a one-off or simple landing page with payments, Ontraport works fine. What’s your goal for the landing page?
+
+Jodie: Just to collect emails and entice people to buy with a lead magnet—get them in my CRM for email marketing.
+
+Christo: You could build that via Ontraport (or similar platforms) and the automation will trigger follow-ups. Ontraport is our go-to—reliable, good support, and focused on small business. They’re responsive even at high levels, which you won’t get from the bigger players like Mailchimp. Less restriction on features.
+
+Jodie: What about Klaviyo?
+
+Christo: Klaviyo is popular for e-commerce, integrates well with Shopify—many retailers use it. Both are evolving constantly, each builds out new features, and both integrate with Shopify. If you’re just getting started, either would work fine. My advice is: pick one, set it up to do what you need, and don’t lose too much time comparing. Only switch if something clearly limits you.
+
+Jodie: Any contacts to help set up? I’m not techy.
+
+Christo: Yes, we have people who can assist. Or try Upwork for hiring specialists for Ontraport, Klaviyo, and similar. Ask for setup and a video tutorial so you know how to update things yourself.
+
+Jodie: I've used Fiverr/Freelancer and sometimes struggle finding good people.
+
+Christo: Upwork tends to have more higher-end talent and allows you to filter by location or budget. Ask whoever you hire for a video walkthrough so you know how to make simple changes later.
+
+Ontraport starts at $29/month US. Klaviyo, I’m not sure on current pricing, but both are reasonably accessible.
+
+Next, you mentioned trying to build your in-store mailing list but customers are hesitant or rushed. Try an incentive—“join our subscriber list for exclusive offers,” “go in the draw to win,” or “would you like your receipt emailed to you?” That’s another simple way to collect addresses. The key is to get details immediately, with some benefit, or email their receipts straight in if that's possible in your POS.
+
+Jodie: We hand out pamphlets with QR codes, social links, and subscribe details, but it isn’t working—people throw them out.
+
+Christo: It’s essential to collect details live, offer an incentive "now," or a draw for subscribers, or exclusive online offers, and the receipt method can help.
+
+Now, your Google Analytics question. In the page report, “checkout” refers to reaching the checkout page. If you see a thank you or order confirmation page visited, it indicates a sale. Anything like “/about-us” just means a visit to that page.
+
+Jodie: Missing data in demographics—is that just low traffic?
+
+Christo: Yes, Google Analytics can only identify so much with a small volume; it’ll get better as traffic grows.
+
+Jodie: So, with more traffic, I’ll see more detailed data?
+
+Christo: Absolutely.
+
+Jodie: On the acquisition report, "direct" means people typed the URL or came from elsewhere?
+
+Christo: Direct means they typed your URL directly or clicked via a link that Google can’t attribute. Anything from social media will show as, for instance, Facebook or Instagram here.
+
+You’re on the right track by monitoring these—the main thing is to keep checking as you build traffic.
+
+Jodie: Thanks, I’ll continue as suggested.
+
+Christo: Absolutely, keep sending in questions as you implement. Well done.
+
+Emma: I've started filling in my magic numbers. Can we check that I’m on the right track?
+
+Christo: Great—starting from the financial year, tracking from week to week is the right way. The aim is continual improvement, not a specific number. Look at your averages and try to beat them. If it's all green, maybe set the bar higher; all red, bring it down a little to get momentum.
+
+Emma: I want to target ads by category, so I’m tracking category pages. Is there a way to use Google Analytics Events to group all subpages under a category, instead of tracking each subpage separately?
+
+Christo: You can see all pages and subpages in Google Analytics, and usually, initially, you just sum them together. As you see particular bestsellers, you can choose to track just those specific products or categories. For more advanced tracking, yes, you can create an event in Google Analytics to group page views. There is a setup process you’d need to follow. If you do ads, track the conversions and link to your magic numbers for monthly reporting.
+
+Emma: If I want to see the impact of radio or Facebook ads, where do I record that?
+
+Christo: I’d put it in the weekly “traffic” section—log your radio/Facebook spend or effort so you can see correlation between activities and results.
+
+Request a quote, accepted quotes—all worthwhile fields. Track requests because it focuses your weekly attention on the right bottlenecks, and accepted quotes show conversion. Over time, this will help you optimize effort.
+
+Emma: Quotes can stay open for a while, so tracking accepted might be out of sync with requests.
+
+Christo: That's fine—track both, and over time trends will show where you might have conversion delays or opportunities.
+
+Emma: Brilliant, thank you!
+
+Fran: I sent through two flyers for upcoming events—a free webinar, a 3-hour paid workshop, and a 90-min session. I’d love feedback—general, and about promoting together or separately.
+
+Christo: These flyers are a big improvement—nice design and clarity. On “The Human Side of Leadership,” the benefits are clear, and the messaging hits the mark. Just tidy the alignment. With “Reignite Your Passion,” the word “reignite” may not be relevant to all, some may have plenty of passion but need better communication skills. Simplify and focus on the benefit—perhaps start with “Discover neuroaffirming ways to understand and support others.”
+
+A touch of social proof can help—a brief testimonial, an award badge, or “supported X leaders” adds authority. Even logos of organizations you’ve worked with.
+
+The second flyer (for the free webinar), the top doesn't immediately say what problem you solve or who it's for; it’s a bit abstract: “the number one blind spot in understanding behavior.” Instead, lead with a benefit: e.g., “Wish you could communicate better under pressure?” or “Struggling with team conflict?” Get to the hook first.
+
+Fran: The idea is to expose people to the Calm Approach.
+
+Christo: Yes, but unless people know why it matters, the process won’t grab them. Explain the problem you solve, then introduce your method.
+
+Emma: This line at the bottom—“discover neuro-affirming ways…”—is clearer. Consider making that your headline, not hidden near the end.
+
+Christo: Exactly. Avoid jargon like “ignite your curiosity”—say “discover…” or something similar. Keep it high level and accessible.
+
+Fran: There’s also value in focusing on alignment and congruency in beliefs, values, practice—should I mention that?
+
+Christo: Great concept, but in headline messaging, less is more. Focus first on broad benefits; leave deeper frameworks for the actual sessions. Keep details minimal in the flyer, so it’s simple for all levels.
+
+For promotion, use every avenue—existing networks, social, email, business networking, and Facebook/LinkedIn groups relevant to your audience. Ads are an option for more reach. Partner with aligned organizations if possible.
+
+Fran: For now, I've mostly used Facebook, Instagram, LinkedIn, and a bit of email.
+
+Christo: Look into Facebook and LinkedIn groups—there are sector-specific groups filled with your audience.
+
+Update your flyers, resubmit for feedback, or post to the members site for quick help.
+
+Fran: Will do.
+
+Christo: Thanks, everyone, for your input, questions, and the effort to keep things moving forward. Make changes and feel free to resubmit questions or updates for review or ask in the member’s site as you progress. Well done!
+
+[End.]

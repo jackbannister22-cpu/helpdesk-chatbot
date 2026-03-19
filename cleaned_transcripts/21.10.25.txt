@@ -1,0 +1,103 @@
+Christo: You asked basically how we can use our website effectively to encourage people to provide their details to get into your database. Where's the best place to position and how often to try and capture visitors' details? This is like an opt-in, right—trying to capture the name and email of someone who lands on the site.
+
+Client: Yeah. So I've been kind of looking at things and I have already a sort of a lead magnet, you know, download your complimentary guide. I have what I thought is the right thing, and I've done some rejigging of the site over time. This is the current iteration: a banner at the top and this guide to encourage people who are thinking about engaging me for work—something to download before they get in touch, to help them think through some things. These are questions I'd ask in conversation anyway and it just asks them to pause and think about bringing in a facilitator or coach. It's a bit of a reflective exercise. They can download that. I've got "contact me," different things, but other than that, there's a popup for the newsletter. I'm not getting massive traction—just a few, but not lots. I've asked Chat and was told that given the nature of my work, being service-based, it's not like an app with thousands signing up—it’s just less volume.
+
+Christo: Not like an app where you get tens of thousands doing a free trial or something.
+
+Client: Exactly. So, when people arrive at the website, if they don’t download that guide or sign up for the newsletter, what other ways or how else can I encourage people to stay on the site or provide their details? Do I need a resources page with more things for people to download? Or do I need other pages where, each time someone goes to a page, there’s a way to encourage them to provide their information?
+
+Christo: I'll give you some feedback. You can create multiple resources, like “free resources to create change in your organization”—one for a leadership challenge, another for a toxic team, another for creativity blocks. Different resources, but obviously more work. Still, it can be worth it because one sale is substantial in your field. I’d consider having two or even three different things—so that pretty much any organization that fits your client profile would want at least one of those resources. And with AI, you can create them more quickly, though of course, you’ll need to massage and bring in your own voice and case studies.
+
+Like us, sometimes we change our opt-ins. At one point, we had three separate opt-ins on the homepage: one for video training on the marketing ecosystem, one for how to create a one-page marketing plan, another for marketing tips. Because one might not resonate, but another might. It does create more work, but is likely worth it in your case. You can even repurpose the same content for LinkedIn articles, use as social media posts, or as a resource for clients. So, try to get more value out of what you create.
+
+Client: I do have resources—I'm working on a leadership coaching superpowers guide and now team superpowers, with an extensive guide, infographic, a little planner. We've done regular LinkedIn posts about it, and people have contacted me for a copy—I've even had work as a result. I’m happy to put that on the website. But where should these go? Do I need another top panel for “resources,” or how should I position them?
+
+Christo: Absolutely, and using something people have already responded well to is a good sign. Sometimes the title of a post that got lots of likes can make an effective resource name. As for placement, you could have a different one on each relevant services page—so if a resource matches a particular offering, it sits on that page. Think about user behavior: people go straight to what interests them and sometimes miss everything else. You could also add resources to the end of relevant articles on your website or LinkedIn, as an opt-in to drive engagement. Even at the bottom of every article, you could have a section: “Grab free resources”—with a few different options like “Inspiring culture in your organization,” “How to reunite your team,” “Encourage leadership,” etc.
+
+Also, throughout the homepage, you can add more opt-in bars or sections describing what people get: “Five steps to creating creative change," with bullet points and a call to action like “Download now.” Stagger them so visitors see fresh offers as they scroll.
+
+And a note about your current opt-in—“Download your complimentary guide”—that's not compelling enough. It doesn’t say what’s in it. No one wants a “guide;" what’s it about? For clarity, it could be “5 essential steps to catalyse change—Free Ebook,” or “Instant Access: 5 Steps to Catalyse Change.” Use words like “free” because they trigger positive reactions in marketing and make the offer clearer and juicier.
+
+Client: So that “download your complimentary guide” line isn’t clear enough. More description needed. Should I also change the paragraph in the banner? If I call out “5 Essential Steps to Catalyze Change—Free Ebook,” do I cut the rest?
+
+Christo: Pretty much get rid of the rest. People glance at the headline, then straight to the call to action. Most won’t even connect the supporting text, so make the call-to-action area more explanatory and direct.
+
+Client: Should I say something like “these valuable prompts help you gain insight,” or is that too much?
+
+Christo: Just stay simple and focused on what they get. Small copy is less likely to be noticed. The words need to grab attention and give clear value.
+
+About the popup—you’re currently saying “subscribe to our newsletter.” Again, people don’t want a “newsletter.” Try something with more value—like “Subscribe to monthly Short Sharp Creativity Tips,” or “Get our monthly 3-minute creativity booster.” Make it about the value, not the format.
+
+Client: My monthly newsletter has stories and links to the blog, which I also use as LinkedIn posts. So I could call it “Monthly Creative Prompts”?
+
+Christo: Exactly. Something like “Monthly Creative Prompts” or “Creativity Booster.” That’s what your ideal client wants. It’s specific, has value, and feels more tangible than “newsletter.”
+
+Client: Got it.
+
+Christo: And keep expectations realistic—it’s still a low-volume site, but this should help. Also, the site is looking great and much clearer now in terms of who you help and how. The headline “Transforming organizations through creative leadership and human connection” is strong. Consider switching it to be even more prominent, as it expresses the outcome you deliver. For SEO, this is a stronger phrase than just “facilitation and coaching services,” which is general and very competitive. Search engines can make sense of synonyms, and there’s more unique value in phrasing like “transforming organizations through creative leadership."
+
+Client: Someone mentioned H1 and H2 tags for SEO—which phrase should I use?
+
+Christo: Use the transformation outcome in the H1 tag for search benefit. Facilitation and coaching is generic and up against everything; transformation through creative leadership is unique. You can include both as H1 and H2, but the transformation statement is stronger as the headline.
+
+Client: I’ll try swapping them.
+
+Christo: Even if not in sequence, search engines will pick up both. Test and see what happens.
+
+Client: I’ve seen a jump in website users, but a lot of new views are from China and other countries, likely bots. I talked to my host, thinking of blocks, but they said to be careful so as not to block valuable traffic. Any thoughts?
+
+Christo: If it’s just increased views and not automated spam form fills, I wouldn’t worry. Scraping is common now, especially from certain regions, but as long as you’re not getting spam form submissions, it’s not a huge problem. Update passwords regularly. The location term “Brisbane” in your page titles is great for search. As long as the site is set up well and you’re not overwhelmed by spam, there’s not much to worry about. Some bot traffic is normal these days.
+
+Client: Okay.
+
+Christo: Well done. Make changes, test things, and come back for more feedback when needed.
+
+---
+
+Christo: Jodie had the session in the program where we went through the Six Step Copywriting Formula. Jodie, you wrote an article using the formula: “Finding Your Flow: Color, Shape, and the Art of Effortless Bohemian Dressing.” I read the whole thing—it’s great. The content’s cool: you set up a WHY, you lay out process steps, like starting with color, thinking about undertones, matching jewelry, eyes, and hair, emotion, and body shape. There’s good, valuable information here.
+
+What I’d like to see is more visuals. This is a visual product—you should have images, photos of your products, models wearing them. Also, consider adding subheadings. For example, after the intro, section off the key points: “Matching your natural tones,” “Matching your mood,” “Matching your body.” Use subheadings so people skimming can find what they need.
+
+Even better, you could use uniform headings: “Matching your [X],” or number the process—“3 steps to find your bohemian fit.” You could add a bold title above those sections for clarity. If it winds up being 5 steps, that also works—perhaps accessories is its own step.
+
+Client: Accessories definitely should be there, not just “gold jewellery,” because people have different styles.
+
+Christo: Absolutely. So, split it up, lay out clear headings—color, prints, accessories, body shape, eyes, and hair. That structure also helps with modern SEO—AI search is designed to respond to clearly segmented content. For example, people might ask, “What color dress matches brown eyes?” The AI will notice your content if it’s spelled out directly. So, this style works for readers and search engines.
+
+Client: Once the copy is right, what about the design—does the blog/article need to be just a WordDoc, or more?
+
+Christo: This article could just follow your usual site design. If all articles have three images, do the same here. If you turn it into a downloadable resource or opt-in, you could do a nicely designed PDF with a cover, images for each step, examples, and a call to action at the end—maybe even testimonials. But for an article, just match your existing style.
+
+Client: Speaking of calls to action, what types should Jodie use in an article like this? Build relationships, but also encourage engagement or sales. What kinds, and where?
+
+Christo: If there’s an opt-in resource, you could have a call to action at the end of every article—could be two or three options: say, “Explore the Zephyr Collection,” “See our bestsellers,” or “Download our guide” with a newsletter opt-in. Maybe even, “Want to save this guide to use at home? Click here to download and we’ll email it to you.” You can combine something for engagement and something for moving to purchase. What you have now works; just clarify those calls to action at the end.
+
+Client: Makes sense.
+
+Christo: And splitting the article with numbers is great for flow, easy on the eye, and helps readers not feel overwhelmed.
+
+---
+
+Client: My clientele aren’t really using ChatGPT or AI search yet—they just Google things simply. Does this advice still apply?
+
+Christo: You’re not going to escape it. Even if people aren’t on ChatGPT, Google is integrating more and more AI into search. When you search, often the first results have AI-generated summaries referencing different sites—your content can be included if structured well. So, format for both search and users. It helps you be found by more specific, niche searching, and writing content that clearly answers questions makes you easier to find both now and as search changes.
+
+Client: So, almost like FAQs and answers?
+
+Christo: Yes. Structured Q&A content is ideal—AI loves that format, and so do people skimming for precise information.
+
+---
+
+Client: Quick question about pricing: if I have one session for a price, and then sell a 4-session bundle, what’s the incentive for a client to buy the full bundle instead of one at a time?
+
+Christo: Pricing deals depend on industry margins, but as a service-based business you have more flexibility. Generally, if you sell things one at a time, a lot of people will just stop after one or two, especially if it’s not packaged. So, push the package confidently—if four sessions gets better results, position the package as your main offer. For discounting, you could do a meaningful amount, say, $30 off per session for four sessions, so $159 per session instead of $189, for a $120 saving.
+
+If you go too extreme with the discount, it looks suspicious; too little, not enough incentive. Alternatively, instead of a price discount, you can stack value: buy four, get the fifth free; or give a bonus resource; or offer a “one-to-one strategy session” on top; or call it supervision, coaching, mentoring, etc.
+
+Client: If someone buys one session first, and later books four, should they get credit for the first one? So, basically five for the price of four?
+
+Christo: Yes, that works perfectly and makes the deal a strong incentive—“book four, get a fifth free.” Or, “save $120 with the pack”—either one works. Stacking value, not just discounting, is a great alternative.
+
+---
+
+Christo: Well done, everyone. Great work implementing the advice, making changes, and coming back for more feedback any time.

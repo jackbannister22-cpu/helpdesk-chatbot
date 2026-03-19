@@ -1,0 +1,101 @@
+Christo: Let’s get into your lead magnet. You’ve been busy, which is good. So basically it looks pretty straightforward. Get 10% off with the opt-in and these resources. Can you explain these? You said these are for in-store.
+
+Retail business owner: Yeah. I have a bricks and mortar store and that's where I make my money. The website is pretty dormant. So I'm trying to get the website moving. Customers come into my shop – it’s a tourist destination, so I have lots of tourists. I feel like that’s an opportunity to get their details, and I haven’t really been doing it until now. I figured I need to get their details to pop them into my database and retarget them through email marketing.
+
+Christo: Yep.
+
+Retail business owner: So what we do now is, when a customer purchases, we ask if they do online shopping. If they say yes, we’re direct and ask for their email details. On their first online order, they get 10% off, and they can go into our loyalty program as well.
+
+Christo: Have you started doing that?
+
+Retail business owner: We’ve just started. We manage to get a few different customers each day to sign up, depending on how busy we are and if we can spend the time to talk to them. Also, it’s very hot up here, and as time goes by through the summer months, it gets hotter. Customers who come into our shop are dying from the heat, so a fan is a good incentive to get people to like us on Facebook or Instagram. I’m giving away a fan if they like or follow us on social media. We have QR codes in-store, so it’s easy for them to scan and follow.
+
+Christo: That makes sense, especially if your main market in-store is tourists who are not likely to come back soon. You want to get them to your online store. It’s a great approach – keep them as a customer for life, regardless of where they live. If you’re already doing that and it’s working, great. If you’re too busy, even something like, “hey, just pop your details over here,” can help. Definitely a good approach. I like it for sure.
+
+Christo: Let’s talk design. “We’d love for you to sign up to join our Sapphire Circle.” That is hard to read though, let me pull this up.
+
+Retail business owner: I did all of this through ChatGPT – I’ve never really used it before. I did the text in the brand voice.
+
+Christo: This looks good – did you do the design within ChatGPT as well?
+
+Retail business owner: Yeah, just using the brand voice. I might try a more advanced option later, but this is how it came out.
+
+Christo: The message comes across because it’s almost like a letter – “much love” and a sign off. I think this one’s all good. “Thank you for your support. Sign up to our website and enjoy 10% off your first online order.” Nice and professional. “Please leave a Google review or follow us on social media,” etc. This one looks good and professional. The purple one, though, looks a bit too simple. It needs a rework, design-wise.
+
+Retail business owner: That’s just a poster for in-store – not actually given to customers. We talk through the process with the customer, so nobody really sees the poster. We say, “We’ll give you a fan for a fan – you’re looking a bit hot there.”
+
+Christo: I do think the poster is a bit plain. Have you used Canva? Even a free account will give you good templates. You can write what you want, and it’ll be laid out perfectly. With this one, the boxes are odd, the alignment is off – some bits are centered, others left-aligned, and it looks disjointed.
+
+Retail business owner: It took me ages in ChatGPT, and the boxes were supposed to be emojis, but they became boxes. I just printed it. It was my first play with it.
+
+Christo: That “thank you” should be left-aligned or something. With Canva, there will be a template for your headline and three points. I just don’t like the idea of it cheapening your brand.
+
+Retail business owner: Yes, I agree.
+
+Christo: This one just doesn’t do you justice. We want everything creating a quality perception – people judge the quality of your product by what they see. This one looks pro, with a nice layout, but the other one needs work. The little boxes seem to be broken icons for Facebook or social media, but that’s okay for now. The main one is fine – it looks like letterhead. So, this is the one that goes in the bag with every purchase?
+
+Retail business owner: Yes, it goes in the bag for every purchase. I’m getting them printed at a copy shop, with QR codes on the back for Facebook, Instagram, and Google review.
+
+Christo: That’s good. The 10% discount is fine if they’re already in store, because there’s no extra marketing cost. If this moves them online, and then they buy again, great. That means repeat customers online. That one’s all good. The poster just needs a redesign, but the concept is solid. The “fan for a fan” works, but only for people who purchase.
+
+Retail business owner: We only give fans to people who make a purchase.
+
+Christo: Cool idea. Now, for the website opt-in, what’s important is what happens next. When someone opts in, ideally send an automated email right away: “Thanks for joining the Sapphire Circle. Here’s your 10% off.” Also, in that first email, try to get them back to the online store – “Here’s your voucher, and here are our three best-sellers if you’re wondering where to start.” Or best-selling categories. While you’ve got them, that’s the best time – they’re interested right now. In that first email, you could even put a PS with a snippet from a customer review to build credibility and trust. People buying online want to know “is this legit?”, “will my product really arrive?” – so a testimonial snippet helps.
+
+Then I send another automated email about two days later. This email helps train people in what to expect from you – make it short, sharp, and valuable. People’s inboxes are crowded – a short tip or showcase of best-sellers is better than a big article. Something helpful about color-matching, or “here are our best sellers this summer.” Anything that makes life easier for the shopper and helps them move through your store more easily. You can also add FAQs – e.g., “How long does shipping take?”, “What’s your return policy?” – in the PS or a third follow-up email a few days later. Maybe: email one immediately, email two on day two, and maybe a third email on day five.
+
+No matter what you send, you’re training customers on what to expect – always ask, “Would I like to get this email?” Avoid spammy fluff. Short, sharp, valuable. A little tip, or “by the way, here are our best-sellers.” The PS is highly read – use it for a call to action, for example: “P.S. Here’s my personal favorite product right now.” Adds a personal touch and a link directly to an item.
+
+Retail business owner: That makes sense. I just have to set up the email sequence. I’ll get ChatGPT to help me in my brand voice.
+
+Christo: Yes, use ChatGPT. Get it to write them in your brand voice. When you’ve written the emails, put them into a Word or Google doc — email one: day one, email two: day two, etc. That’ll make it easy for us to review, and you’ll have the whole sequence in one place. Send it through to next week’s advisory board and we can look them over.
+
+Retail business owner: Great, I’ll do that. And yes, every customer who buys something in-store gets the main flyer in their bag.
+
+Christo: Good. You could also try in-store competitions: “Enter your details for a chance to win $100 credit at our online store – drawn at the end of the quarter.” Collect their name and email so you build your database.
+
+Retail business owner: I’ve seen that idea, and I’ll keep it in mind. Getting people’s email is challenging – people are hesitant, so we’re trying to be a little cheeky with it, but always honest about joining our email list. My staff are great – we make it a bit of a competition as well to see who signs up the most customers or gets more Facebook likes.
+
+Christo: That’s great – maybe you keep a tracking book or a little competition among staff, so there’s accountability. Keep the focus on getting in-store customers over to the online shop. Your shop is your ad – you want them from the face-to-face ad to the online shop.
+
+Retail business owner: Yes, we’ve set up a book to track sign-ups. That way it’s being actioned, not just forgotten.
+
+Christo: Well done! It’s all about keeping the focus and continually asking “what else can we do?” And bring any additional questions here – we’ll brainstorm them with you.
+
+Retail business owner: If you could also review my website quickly and give me feedback…
+
+Christo: The large top image is cool, but ideally it would be smaller to let the categories (“dresses,” “pants,” “skirts,”) be visible above the fold. The site’s most valuable real estate is what visitors see when they first land. If you can move those best-selling categories up so they’re more visible, that would help guide people immediately. That’s what you want – “oh, I’m looking for a skirt!” and they go straight there.
+
+You might also include a snippet from a testimonial in the product description – just one quoted sentence, italics, whatever – to add instant trust for each product.
+
+Is this Shopify? Shopify is great for user-friendliness — Google Pay and all that.
+
+Retail business owner: Yes. Even I can add products easily. I also played with a “try it on” avatar from one of your masterclasses, but it’s a bit clunky, so I’ll probably remove it.
+
+Christo: The homepage is for converting new customers. Even above “shop by collections,” you could have a brief brand statement: “Based in [region], creating styles for the climate and the relaxed Australian.” That helps legitimize and personalize your business. Also, on your About page, even one or two photos of your physical shop would help validate that you’re a real business, not just another backyard operator. Maybe a content block: “Meet our team in the shop,” even if customers will never visit in person – it still builds trust.
+
+The review section is good, and you can keep optimizing from there. Reducing the image size on your homepage should be possible, maybe by uploading a smaller image, but it depends on your template. Play around, see if you can do it without breaking the layout. If it works, great – if not, we can brainstorm a work-around.
+
+Retail business owner: Is the image a bit pixelated to you? I had it edited by a freelancer and was unsure after looking at so many photos.
+
+Christo: On my huge screen, the face is a bit soft and faded, but the rest’s sharp. On a normal monitor it will probably look fine, but you can always swap in something sharper. The main point is that before scrolling, visitors should see brand messaging and best-selling categories, and feel something from your brand straight away.
+
+Retail business owner: Ok, thank you for the feedback, Christo.
+
+Christo: Not a problem. Send updates any time – especially the opt-in email sequence–so we can give more precise feedback step by step.
+
+Retail business owner: That’s us for today.
+
+Christo: Nice work! Keep at it. Don’t hesitate to send things through for feedback as you go.
+
+Other participant: I have a quick question – about Friday’s class. Is there anything we should have prepared, notes to have on hand?
+
+Christo: For the upcoming session, you don’t need to have anything ready. We’ll be looking at brand voice, copywriting, and verbal messaging. Having access to your brand voice notes or ideas about your best sellers or even location is helpful but not essential. If you want a head start, you can watch the videos in the CleverBunch members site, but that’s optional – it might double up with what we’ll cover live.
+
+Other participant: Sometimes the modules go so fast – we get to the end and feel lost! Should we be up to a certain module by now?
+
+Christo: There are 12 modules, ideally paced at one per month, but don’t worry about “keeping up.” The first two modules are about branding and brand voice, which are more fluid. You could review these every quarter for ongoing improvements—they don’t have a hard end point. Some people might be working on module one while others are on module four; that’s okay. If you have promo campaigns or other business shifts, you might work off-sequence. Bring questions to advisory board anytime, no matter what module you’re focused on—there are no wrong questions or “behind” moments. Just work through them as best you can, and lean on these sessions for support, feedback, and brainstorming.
+
+Other participant: Thanks, great, I’ll get started on my homework for Friday.
+
+Christo: Perfect – see you then!

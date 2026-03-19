@@ -1,0 +1,39 @@
+Question: Should we visually tie our surf school, gym, and travel brands together, or keep their identities separate?
+Answer: There are different options in brand strategy. You can tie businesses together visually as a family of brands, but if they each have their own brand identity—like your surf school, gym, and Surfers Compass—it’s fine to keep them distinct. For example, don’t feel you need to make your surf school site look like Surfers Compass. If you had a kids’ division, you might use the same logo but different colors. Minimally, align only if it makes sense and doesn't sacrifice each brand's individuality.
+Key Insight: If each business has a unique identity or audience, maintaining some separation is often best—just tie elements together if it feels natural, not forced.
+
+---
+
+Question: How should we update our color scheme to be modern and timeless, especially given the old black-and-yellow branding?
+Answer: To keep your site modern and timeless, keep black and white as the foundation and add one complementary color that aligns with your other brands—such as a blue or pink. Move away from a heavy yellow focus if it feels outdated, and avoid gradients since they can date quickly. Each brand can lean into one of the colors as a signature, like black for the surf school, white for the gym or compass, but use the same set of complementary colors to tie them together subtly.
+Key Insight: Choosing one complementary color and avoiding trendy effects like gradients helps create a modern, cohesive impression without sacrificing individual brand character.
+
+---
+
+Question: How do we balance making our surf school website fun and approachable, but also clear and easy to navigate for bookings?
+Answer: The ideal is fun and easy to read—minimal information, visually clear, and information digestible for booking (since people currently book into wrong sessions). Use color coding: for example, pink for kids, blue for adults, ensuring booking buttons and information areas visually align with these groups. That way, users unconsciously navigate to the right place. Color-coding also works for materials and office brochures for clarity.
+Key Insight: Visual (color) cues reduce decision fatigue and booking mistakes, delivering clarity while keeping the site lively.
+
+---
+
+Question: Where should we place Frequently Asked Questions (FAQs) on trip or product pages for best user experience and SEO?
+Answer: Place the most important, decision-supporting FAQs toward the bottom of the trip page—ideally above the form or call to action so users see booking info but can get answers before committing. If the page is overcrowded, show the top 3–5 specific questions and link out to a central FAQ for broader queries. Crucially, for SEO, write the FAQs and answers directly on the page, not hidden behind links.
+Key Insight: Embedding FAQs directly increases both user trust and SEO benefit, especially when focused on real customer questions.
+
+---
+
+Question: What type of FAQ content is most valuable for both SEO and brand authority?
+Answer: Tailor FAQ content to specific, high-value decisions and destination-specific queries (e.g., “How does the Meltemi wind affect sailing in Greece?” or “What happens if it rains in the Caribbean?”). This demonstrates deep expertise and reassures both people and search engines that you know your stuff.
+Key Insight: The more specific and tailored your FAQ answers, the more credible and trustworthy you become in your niche.
+
+---
+
+Question: How can someone with a unique, creative approach (like Catherine) improve the messaging on their homepage to better communicate their value?
+Answer: Rather than generic statements, immediately show what sets you apart—like a short highlight reel video showing your creative facilitation in action, people engaging, unexpected moments, etc. Collect testimonials by individually messaging attendees for a quick, simple description of their experience. Clarify and focus the message on your unique “rabbit hole”—the one thing you want to be known and referred for, such as creative leadership using art and visual thinking.
+Key Insight: Instant clarity and specificity about your unique value—visually and in testimonials—increases referrals and recognition much more than broad, general messaging.
+
+---
+
+Question: For small businesses, which is better: Ontraport or ActiveCampaign? Can Ontraport handle emails, CRM, forms, automations, and integrations like with Leadpages?
+Answer: Ontraport can do emails, CRM, website tracking, forms, automations, and SMS campaigns. For integrations such as with Leadpages, confirm with a specialist (like Emma) to ensure current compatibility. Note, Ontraport is not the cheapest and charges in US dollars—be sure to check both features and costs. Same for ActiveCampaign. The key is to choose the system that matches your real needs and budget.
+Key Insight: Most systems can do what you need, but verify integrations and only pay for features you use. Use expert advice for setup if unsure.

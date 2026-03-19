@@ -1,0 +1,213 @@
+Christo: Let's maybe start with Emma's question, and I'll share my screen.
+
+Client (a product and storage solutions business owner): I've been working on these radio ads the last couple of days. We've gotten quite quiet here. There are a few big jobs booked in, but the traffic through the door and the phones have quietened off a lot. I think we're finally starting to see the cost of living affecting our customers and the businesses around us. I’m just trying to do some short, sharp messaging, change up what we're currently doing on radio to get our basic 3 core features out there a little bit better.
+
+Christo: Awesome. So this one here, that's a 15-second one, and then there's a 30-second one, right?
+
+Client: The 30-second one is the one we worked on a few months ago. It's currently running, along with an audit and inspections ad, and a tire accessory and tools ad for the farming areas. I wanted to pick up the frequency with some 15-second ads as well.
+
+Christo: Okay, great. So that's the 30-second one that's already running, and then that's the 15-second one here.
+
+Client: Yeah, I’ve broken those pretty much down into the shelving, the racking— all about Australian standards and compliance— and then the plastic storage we do as well.
+
+Christo: So there are 3 different ones, 3 separate ads.
+
+Client: Yes. I have a problem where I always try and add in a little too much. Fifteen seconds is such a short time, I’m trying to stick under that 38-word count.
+
+Christo: I wonder if we could do one that is completely different. I don’t have the solution just yet, but these are great and conventional.
+
+Client: Yes, right.
+
+Christo: Conventional can work— I would definitely run conventional. But what if we did one that's completely different, something that interrupts the listeners a bit more?
+
+Client: One of our old ads was a big bang and crash in a warehouse—you heard everything fall over, beep-beep-beep from the forklift, and then it went into, “You need better storage,” etc. Then ended with our business name. I moved away from that and went back to conventional.
+
+Christo: How did that go? That’s kind of a pattern interrupt. Do you remember if it performed well?
+
+Client: Yeah, we had that one on for at least two and a half, three years. And another one for tire accessories had an old farmer whose tractor wheel blows—kind of the same thing, a bit unconventional.
+
+Christo: I wonder if you could do one that’s a little different, something that makes me, as a warehouse manager or farmer, stop and listen. Maybe tap into a frustration. Should we pick one persona? Let’s take the shelving/racking one.
+
+Client: I'd lean toward the racking as our main revenue earner. And everyone has to comply with Australian standards and do it right.
+
+Christo: What happens if I don’t comply with the standards and I'm running a warehouse?
+
+Client: WorkSafe Australia, or whoever they are, has increased their workplace inspections throughout the region. If they don’t comply, people can get fined.
+
+Christo: Do people with warehouses generally know about this?
+
+Client: We've had some feedback from our audit ad—some people didn’t realize they had to get their racking checked every 12 months. The bigger corporations already get it done, but I don’t think the smaller guys realize.
+
+Franziska: That’s one of the greatest challenges for small businesses. They don’t have the same people or systems as the larger companies, so it’s easy to miss compliance—no excuses, though.
+
+Client: They have to be up to standard.
+
+Christo: Maybe try an ad that’s a little bit fear-focused—just enough to make people pay attention, like, “Did you know WorkSafe Australia has increased audits?” One company we work with does well with a campaign focused on compliance penalties. A message like, “WorkSafe Australia has increased audits on warehouse racking. Book a compliance check.” You do assessments, right?
+
+Client: Yes, we do audits. I think it would be good to have another 15-second audit ad running instead of the 30, so we get more frequency.
+
+Christo: Or something like, “We’re here to help—book your audit now.”
+
+Client: Ours aren’t free.
+
+Franziska: What if you used a metaphor? Something like, “You don’t want to be put on the rack.” Play around with that metaphor of being stretched on the rack, implied consequences, but reassuring them—“We’ll keep you off the rack.”
+
+Client: “Left out to dry.” That sort of idea.
+
+Christo: Write that down too, brainstorm a bit. The angle is to educate, like, “Did you know…?” If people say, “I didn’t know,” they’re more likely to act now that they do.
+
+Franziska: “We’ll keep you off the rack.”
+
+Client: I’ll try to get good metaphors for racking from ChatGPT.
+
+Christo: Try that angle, and then the others.
+
+Client: I put my ideas into ChatGPT and then pushed for more direct feedback, which improved them.
+
+Christo: This angle here—“buy once, keep forever”—is that one that you use? I’d spell that out more. Warehouses don’t want to keep replacing things.
+
+Client: That’s really our motto. We try and stock great quality, maybe pricier than the main hardware chains, but it lasts.
+
+Christo: That could be spelled out more—buying cheap, replacing often, versus quality, last a lifetime. Is “Aussie-made, built to last a lifetime, not a season” the line you use?
+
+Client: Yeah—I included “Aussie made, built to last a lifetime, not a season.” For a regional area, Aussie-made is important—a lot of imported knockoffs out there.
+
+Christo: Is Fisher Plastics important as a brand?
+
+Client: Yes, they’re the Australian company we promote. Used to be in the big hardware chains, got squeezed on price and replaced by cheaper imported products. They’re a strong brand and support us. Is it bad to start with negatives in the messaging?
+
+Christo: It's not good or bad—it’s only bad if it doesn’t work.
+
+Franziska: Have you tried starting with the positive? “Quality over quantity… We stock the original high-quality, not the cheap imported copy.” Test both approaches and see what prompts an actual sale. When customers come in, ask what they heard on the radio that brought them in.
+
+Client: Get feedback, see what’s important to people.
+
+Christo: If they mention, “Most plastics don’t last,” or “Aussie-made racking,” you’ll know what works. The radio ads you have are a good start—try one or two variants with a different feel, maybe starting with a question. Something like, “Did you know WorkSafe Australia has increased audits in our region?” Localizing it will make listeners pay attention.
+
+Client: That’s true.
+
+Christo: Get feedback on it. You’re doing a really good job, and I think radio ads are a great idea for your business.
+
+Client: They do work consistently for us.
+
+Franziska: People in storage, showrooms, etc., often have radios on.
+
+Client: Most businesses we work with have the radio on all day.
+
+Franziska: Great.
+
+Christo: Awesome work, Katherine. Did you want to ask a question?
+
+Client (a service-based consultant): I’ve been looking at my Google Analytics. There’s been an increase in traffic, but not in conversions. I’m not totally fluent in the data. I took the stats to ChatGPT and it said it was good, but I’m not sure how to interpret that.
+
+Christo: Can you share your screen with the data?
+
+Client shares screen.
+
+Christo: What’s the time frame? Last 7 days? You could do 30 days for a better view. Looks like all the numbers have gone up. In the country breakdown, sometimes you get a lot of visitors from, say, China, but that’s not always useful. I’ve seen that with my own website.
+
+Client: Yeah, China is number one.
+
+Christo: Not ideal in your case.
+
+Client: Why?
+
+Christo: Not sure, could be bot/scraper traffic or referral spam. When I asked ChatGPT, it suggested bot and scraper traffic, referral spam, or fake hits. So, it’s probably not real people—just background noise.
+
+Client: You can block your site from China to avoid skewing your results.
+
+Client: There’s a 12,000 event count, but I’m not sure what all this means.
+
+Christo: Let’s look—active users 3,000, event count, but the new user number doesn't make sense. Why so much direct traffic? That could be the spam stuff. You can see just below, Facebook brought 17 users, LinkedIn 8, 2 from ChatGPT. That’s interesting.
+
+Client: Someone contacted me after finding me on ChatGPT.
+
+Christo: We’re doing a session soon about showing up in AI results. Things like frequently asked questions, longer-form blogs help. But for now, you may need to filter out the 3,600 (direct, likely spam) visitors. Turning on bot filtering in Google Analytics is the main step.
+
+Christo: If you go step by step, you can reduce that. In terms of useful data, your blog gets a lot of views, as does the events and webinar page. Also, Facebook and LinkedIn are traffic sources.
+
+Client: It’s weird because I don’t post on Facebook as much as on LinkedIn.
+
+Christo: “Referral” just means the source the traffic comes from. Maybe people search for you on Facebook and click through.
+
+Client: Not sure. What does “direct” mean?
+
+Christo: It’s a mix of “dark traffic”—spam and bots—so it can’t attribute the source. See if you can set up filters to minimize it. It’s usually explained well by ChatGPT.
+
+Client: I’ll look into it.
+
+Christo: There are steps for this in GA4. Go into admin data settings, data filters, enable internal/bot filtering, etc. If you follow the steps, you’ll get better, more accurate data.
+
+Client: I also can’t get a reading on average engagement time per user. GA4 says 0 seconds, even when I know people are reading after a LinkedIn post.
+
+Christo: If it’s all 0 seconds, that’s a clue—it’s probably the spam skewing your results. Once you filter out the bots, your real engagement figures should go up.
+
+Client: I’ll talk to my web person about it as well. I don’t get weird spam leads, though.
+
+Christo: That’s good, but reviewing with your web person is worthwhile.
+
+Client: If someone’s on my website, I can see it in real time if, say, they view the facilitation workshop page.
+
+Christo: Have you used heat maps to see what people actually click on?
+
+Client: No.
+
+Christo: There’s a free tool, Microsoft Clarity, I’ve used before. It’s easy to install—even for non-techies. It records user actions, so you can see if people click or scroll, what page elements they interact with, whether they click away without taking action. That combined with Google Analytics is very useful. Any similar tools you've tried, Emma?
+
+Client: I had another one written down but hadn’t uploaded—Hotjar.
+
+Franziska: Hotjar is good too.
+
+Client: So you still recommend Clarity?
+
+Christo: Both are good—Hotjar and Microsoft Clarity offer similar insights.
+
+Franziska: Another tool ChatGPT suggested is Looker Studio dashboard for more accurate engagement and active pages. Have you tried setting that up?
+
+Client: I haven’t yet, but ChatGPT mentioned it for showing real engagement time clearly.
+
+Christo: I’d try Microsoft Clarity or Hotjar first—since your traffic isn’t huge, it’s manageable to analyze. If you see where people click or drop off, you can optimize your calls to action for more conversions.
+
+Client: My next challenge is conversions: how to move legitimate visitors along the funnel, from reading blogs to actually connecting as leads.
+
+Christo: The key is testing different calls to action. You have some downloadables—like the “5 Essential Steps” guide. But maybe add a more direct call to action, above the fold or in the blogs, e.g., “Book a 15-minute chat.” In the blog itself, a call to action tailored to the topic can help. For example, “If you want to see how this applies to your organization, book a chat.” Another idea—use an online scorecard or self-assessment as Kevin did at a recent speaking gig—people scan a QR code, answer questions, get a score, and opt in as leads. It generated 30 leads from one event. In your blogs, a similar CTA could work: “Take the assessment,” or “Book your first call.” Then nurture from there.
+
+Client: I keep thinking I am adding calls to action in blogs, like “download here,” but maybe it’s not direct enough.
+
+Christo: The last blog post says, “Download your copy here,” but make it crystal clear what they’re downloading and why.
+
+Client: That's the "5 Essential Steps" guide—there's a summary in the blog, but more detail in the download.
+
+Christo: That’s good—your pop-up is clear and direct. It may take repeated exposure for people to act. Over time, the right leads will opt in. “Get in touch” is maybe too broad—try something more specific: “Would you like to have a coffee chat?” or “Book a free strategy session.” In group sessions like this, it's useful to brainstorm more personalized calls to action that fit your business and style.
+
+Client: I’ve considered running free masterclasses as a lead magnet, but not sure if it's worth the time/effort or what the best channel is.
+
+Christo: For your facilitation and consulting, seeing you in action is everything. If someone reads your blog and is interested but doesn't know you yet, a free masterclass (like a monthly or quarterly, low-risk, 40-minute “lunch and learn” online) is ideal. Make it feel accessible—like an “Innovation Playground” session you invite people to. Use the blog and LinkedIn to promote it, and when you do cold outreach or reconnect with contacts, invite them along instead of pushing a one-on-one chat. That makes the first step lower pressure, builds trust and offers value, but still lets you showcase your expertise.
+
+Client: What’s the best way to promote such sessions? Eventbrite, Humanitix, or direct registration?
+
+Christo: Set up a simple landing page on your website with clear details: what it is, when, why, who’s it for, and who’s running it (about you). Link to a registration form (integrated with Zoom if possible), so you collect attendee details and can remind them before the session. You can also use Eventbrite and cross-post. Once you have the page, you can easily add it to blog posts, LinkedIn updates, or when reaching out to old contacts. Keep the landing page permanent and just update the date/info for each session. The first event might not have many people, but as you repeat and keep the offer simple and valuable, it will grow.
+
+Client: That makes sense. I can see how that’s a better use of time than endless one-on-one coffee chats.
+
+Christo: Right. One group session filters and attracts warmer leads. Ten people come instead of doing ten separate coffee chats. A couple may be ready for next steps, and the rest are in your network. Run it for 40 minutes—keep it practical and engaging, and people walk away with real value. That also gives you strong follow-up angles.
+
+Client: Do you have an example landing page?
+
+Christo: Yes, I’ll send you an example from a recent event. Ours isn’t overly designed—just clear, concise: title, summary, what you’ll learn, time/date, a way to register (email and name), and what to expect next. Automation (confirmation, reminders) makes it run smoothly. With free events, expect about a 30–40% show rate. After you know it converts clients, you can consider paid ads, but start with outreach—LinkedIn, reactivating old contacts, and a simple call to action to join your “playground.”
+
+Client: I think I'll aim to start next year, so I’m not rushing it. For my upcoming speaking gig, I may just invite people for a conversation.
+
+Christo: That’s fine. If you want to leverage event interest, have the playground/online session option ready, but don't stress over it. For now, a clear invitation to chat works well. One note on your website—a “menu” of services could clarify everything you offer, but at the heart, it’s about your hook. There are a lot of coaches out there, but your edge is creativity and shifting people’s thinking. That should come across in your branding and language. Don’t worry about changing the site constantly—just keep refining your key message.
+
+Client: I help people to shift their thinking, change perspective, and create positive change.
+
+Christo: That’s perfect—“shift your thinking through creative leadership.” Maybe use that as the main heading on your site, with a blurb underneath. Why shift your thinking? To create positive change. That’s clear, and it stands out from the typical “coach/facilitator” crowd. Your superpower is creativity. Keep that front and center, and don’t get bogged down by too much wordiness or over-refining—take feedback, evolve as needed, but don’t let it block you from making progress.
+
+Client: There’s a lot of words on my homepage—maybe I need something more concise and catchy upfront.
+
+Franziska: Headings can always be improved, but right now, don’t overthink it. Everyone will have a different opinion—focus on what’s uniquely you and helps people see your value. Try the playground idea, see what feedback you get, and keep refining your positioning as you evolve.
+
+Client: I’ll shorten the first session to 40 minutes and focus on making sure it’s engaging, creative, and gives people something useful to walk away with.
+
+Christo: Exactly. As long as people leave feeling they’ve gained something worthwhile for their time, the call to action and follow-up will be easier. Good luck, and reach out if you want feedback or want to send through your page or script for review.

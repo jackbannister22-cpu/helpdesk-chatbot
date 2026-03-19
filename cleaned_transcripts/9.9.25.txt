@@ -1,0 +1,207 @@
+Christo: Today I don't have any questions that have been submitted, so let's use this time for a quick hot seat, or if anyone wants to discuss a campaign or something they're working on, we can make it better together. Emma, what are you working on?
+
+Emma (a retail business owner): I've just finished signage for the showroom. The language on it is sale tools for the staff, and I want to transfer that messaging to social media too.
+
+Christo: Is it already printed?
+
+Emma: Features and benefits.
+
+Christo: Have you already printed the collateral?
+
+Emma: No.
+
+Christo: Why don't you show us? Have you got it nearby?
+
+Emma: It's in Illustrator at the moment, so I'll save it out.
+
+Christo: You can share your screen. I'll make you a co-host.
+
+Emma: It's on the other computer, just a sec.
+
+Christo: While you’re getting that ready, let’s see if it’s useful to look at it before you print, so we can give feedback.
+
+Emma: They’re just little signs, not too big. The other thing we’ve completed is our Boxed and Sorted website, selling our plastic products in wholesale quantities. Hoping to move those a bit more as well.
+
+Christo: If someone else wants to go for a little bit while you’re readying things, we can do that. Kyla, what are you working on?
+
+Kyla (a service-based business owner): I just got back from holiday last week, so I’ve been catching up. We sent out a Mailchimp campaign last week, using your idea about targeting our email database with a message from the owner, to our surf school database. The offer included four free videos, a seven-day trial, and a giveaway package. It took people through a Mailchimp journey so they can sign up to our Many Circle database, then onto our Service Compass database rather than just hammering our main list. 
+
+I got a Mailchimp expert to help set up the journeys—it ended up being 12 videos, 3 per ability (beginner, intermediate, etc). We got about 250–300 people signing up to the new database through that EDM. Database is about 27,500. We had 13,000 opens, and 222 clicks or signups to Surface Compass. More people have gone through the journeys now, with about 50 to intermediate, 30 to beginner. I’m waiting on app download metrics, and we’re planning a prize giveaway follow-up email. Are those numbers normal for Mailchimp? What’s an excellent open rate?
+
+Christo: You got almost 50%, which is huge. 20% is normal. Around 30% is achievable depending on database age, but for you, 50% is really, really good. It would be good if the Mailchimp expert could show you how to look at the data yourself inside Mailchimp. For follow-up, we use this all the time: after your first email explaining the offer, follow up with a super short email: “Hey, just making sure you saw this.” Add the original email below.
+
+Kyla: He did mention a shorter follow-up would be good. It helps remind people.
+
+Christo: Exactly, especially with a long email—people postpone and then forget. If you have expiring deadlines for gifts, mention that in the short follow-up: “Gifts valid till end of week,” etc.
+
+Kyla: I’ll do that. I’m just printing out pages of information.
+
+Christo: You don’t need to print it out—just view it on your computer.
+
+Kyla: Logging in to Mailchimp now.
+
+Christo: While you pull that up, Michelle, anything you want to share? And Emma, are you ready to show yours?
+
+Emma: Sorry, unprepared…
+
+Christo: No problem. Let us know when you’re ready. 
+
+Kyla: I put details in the chat regarding clicks and unique opens. What are unique opens?
+
+Emma: Total opens can be the same person opening multiple times; unique opens count each person once.
+
+Kyla: That’s what I thought.
+
+Christo: Yes, about a third of people opened it (unique opens), but some opened multiple times—still good. Click-through rate is 0.8%, so less than 1% clicked the link—which is low. Was that the download app link?
+
+Kyla: Yes, there were links for Apple and Google Play. I was trying to sort which metric matched each, but got sidetracked.
+
+Christo: Bottom line, lots of opens, not many clicks relative to opens. Most likely, people open because they trust you, but the email is long so they decide to act later—then forget. Next email: more urgency, a short reminder with the offer expiring soon. That should drive more clicks and actions.
+
+Kyla: Good plan. Our dedicated database is up a couple of hundred now—hoping to grow more.
+
+Christo: Great, you have a really clear next action. Emma, do you want to share your materials?
+
+Emma: So I just click this green arrow?
+
+Christo: Yes, exactly. Did you design these in Illustrator?
+
+Emma: Yes, I shared the screen.
+
+Christo: While you get it up, this is for the showroom? Is it for staff to give to customers?
+
+Emma: Not necessarily. They sit on the products so customers see them in the showroom. They outline features and selling points, sometimes details like pricing and shelf options.
+
+Christo: Are they A4?
+
+Emma: Yes, they’re A4 and sit on shelves for reference—more detailed, not just for quick glances.
+
+Christo: Are all the details also on your website?
+
+Emma: Yes, they should all be there too.
+
+Christo: I wonder if you’d benefit from condensing content and adding a QR code for those wanting more info? Maybe highlight the main sell here and let them scan for details.
+
+Emma: They’re sort of a cheat sheet for staff on the floor, to answer things like “how much goes on each shelf?” or “What are price options?”—kind of staff reference too.
+
+Christo: That makes sense. Available sizes—could that section be tightened visually? 
+
+Emma: We state the bay on display size, what it holds, and price options for different shelf materials.
+
+Christo: And is there a call to action?
+
+Emma: Not really. People are usually standing there with us, having a conversation. It’s quite personalized, so no explicit CTA.
+
+Christo: The sheets serve to provide all info on one page.
+
+Emma: Yes, they’re strictly for in-showroom use, not external distribution.
+
+Christo: Do they then buy at the counter or order later?
+
+Emma: They compare on the floor, then generally buy at the counter.
+
+Franziska: So these sheets consolidate the conversation, helping them navigate choices.
+
+Emma: Yes, and it’s a conversation starter—customers can ask, “can we do this?” and we work from there.
+
+Franziska: For a complex decision, having all the information at hand helps a lot. It can get overwhelming otherwise.
+
+Emma: First versions were a bit overloaded. Newer ones are cleaner.
+
+Christo: I especially like the phrase “stylish modern shelving that’s as strong as it looks”—that’s a strong selling point. I’d pull that out visually, make it stand out more. The sheets are busy, but serve their purpose here.
+
+Emma: Yes, sometimes I stand with a customer 10–20 minutes while they compare everything.
+
+Christo: And for your locker products, you have simpler A6 info sheets?
+
+Emma: Yes. On these, dimensions and price are the focus, branding is subtle at the bottom. We have a variety of brands, so cross-promotion is helpful for in-showroom discovery.
+
+Christo: Does the price need to be so prominent? Does it need to be that big?
+
+Emma: No, not necessarily—they’re A6, so prices aren’t oversized.
+
+Christo: Unless price is the key selling point, I’d make the selling benefits more prominent, like “maximize personal storage in limited space.” That could free up white space and improve readability. The 10-year warranty is also a great point to feature.
+
+Emma: That’s one of our big selling points.
+
+Christo: You have an A3 all-in-one sheet for lockers too?
+
+Emma: Yes, highlights include “Secure personal storage made simple.”
+
+Christo: And you echo that for melamine lockers.
+
+Emma: Yes.
+
+Christo: For in-showroom reference this works well. If it were an external campaign, I’d focus less on price and more on the selling points to draw people in.
+
+Emma: Noted, thanks.
+
+Emma: I’d also love some feedback on our website—I just built it in WordPress, still working on the menus.
+
+Christo: The tagline “Australian made, built to last” is excellent. The header image—maybe that could be improved? An image of someone using the products may be more engaging.
+
+Emma: I could regenerate it, maybe prompt AI to help, or just use a more engaging scene with people interacting with the boxes.
+
+Christo: Exactly, you can even use ChatGPT image tools (if you have the paid version), or put the products “in the wild” or organized in real space. 
+
+Emma: The current photo does look a bit cheap.
+
+Christo: Yes, but logo and top-level branding are good. Overall, well done on the site!
+
+Emma: Thank you, that feedback helps a lot.
+
+Michelle (a therapy practice owner): I’ve been working on a flyer for our DBT program. We’ve never advertised this before; we get referrals, but want to fill new openings. Recently, a clinician did a trauma yoga group and got good results from dropping flyers at local GP practices, so we want to try something similar for this. The flyer is rough, just draft information.
+
+Christo: Is this for doctors and receptionists to refer, or for clients themselves?
+
+Michelle: For doctors to know what we offer and give to clients, or for clients to scan to reach our website.
+
+Christo: Headline needs to be appealing to potential clients. Most won’t know what DBT is. The headline should speak to their need, using language they understand—not the clinical jargon.
+
+Michelle: Yes, people in therapy know DBT but others won’t. 
+
+Christo: From just reading, I don’t know what I get from this! “Manage intense emotions, reduce harmful behaviors, create a meaningful life”—but what does “harmful behaviors” mean? Is this for people hurting others, or themselves, or…? It’s unclear.
+
+Michelle: It covers impulsive behaviors, self-harm, losing control—the whole range.
+
+Christo: Who is your ideal participant?
+
+Michelle: Adults 18+, whose lives feel stuck, who keep making promises to themselves to change but never do, keep going in circles—they’re missing the skills to build the life they want.
+
+Christo: Everything you just said is flyer copy gold. Put that in! For example, “Are you feeling stuck, going in circles, wishing Monday mornings were different? Missing the skills to build the life you want?” People will relate to that and keep reading. You can soften it by adding, “you’re not alone,” or bring in a stat: “In Australia, 70% of people struggle with…” Is it relevant to anxiety/depression too?
+
+Michelle: Yes, covers those as well.
+
+Christo: Then you could frame it: “In Australia, anxiety, depression, and other emotional difficulties are on the rise.” Then, “It doesn’t have to be this way. At DBT Solutions, run by our therapy team, we focus on teaching you the most powerful skills for creating the life you want.” Mention evidence-based dialectic behavior therapy for credibility, but remember, people aren’t buying the method—they’re buying the result.
+
+Michelle: Yes, agreed.
+
+Christo: Then outline how it works: initial assessment, weekly one-on-one therapy (with a therapist we match perfectly to you), weekly skills group session for 20 weeks, and so on. Then, add a simple call to action—invite them to call for a confidential chat, or “November intake now open, limited spots.”
+
+Michelle: Call to action was missing, yes! And, unfortunately, testimonials aren’t permitted in our field.
+
+Christo: Yes, under APRA, but you can still include supporting stats: “Mental health challenges are on the rise. 70% of Australians report…” and so on. Emma had a good point too—clarify what happens over those 20 weeks. 
+
+Michelle: That helps. Our website does a good job when people land on it, but flyers are harder.
+
+Christo: Always start with: Who is it for? What do they get? Why does it matter to them? They don’t care about the methodology, only that you help them stop struggling and feel better.
+
+Michelle: That makes sense.
+
+Christo: Emma’s point—make it clear what’s included each month or week. And the QR code should go directly to a suitable page with clear info.
+
+Kyla: I liked the format on your trauma yoga—sections like who, when, where made it easy.
+
+Michelle: Good feedback. I’ll look at that structure again.
+
+Christo: Excellent work. You just wrote a much stronger flyer by walking through this. It’s easier once you’re outside your own head—technicians know too much detail; we must speak the client’s language.
+
+Michelle: Yes, I need to make it relatable. “Harmful behaviors” can deter even those who would benefit.
+
+Christo: Exactly. Great work—see you all at the next session, or check the recording if you can’t come live. The conversion session with Brendan is coming up, 10–11:30. 
+
+Franziska: Looking forward to it.
+
+Emma: Awesome.
+
+Christo: See you then!

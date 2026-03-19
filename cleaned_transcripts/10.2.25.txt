@@ -1,0 +1,83 @@
+Christo: Today I have one major thing I’d like to achieve with you, and we’ll implement this step-by-step together right now: using ChatGPT to help you clarify your brand strategy, and then also create a custom GPT for your business. So, let me share my screen. You should see where it says Brand Voice Builder.
+
+The topic this week is all about your brand strategy, and specifically, how you can stand out. Right now, in every industry, there’s a lot of blending in because everyone is using similar AI tools. If you just tell ChatGPT “help me come up with Instagram content for my cosmetic clinic” and ask for 5 posts, it will spit out the same kind of thing for everyone. There’s no personality, there’s no feeling of “a brand is like a person.” If you don’t define who the brand is, the market will fill in the gaps for you. 
+
+So, today, we want to define that brand voice. I have one here for my main business, another one for a beach lifestyle brand, and one for my personal writing style. Today, we’ll build your own version inside ChatGPT. 
+
+First, who already has a ChatGPT account? (Checking in with participants.) If you don’t, it’s worth signing up—even the free version—so you can access these tools. For what we’re doing, to create your own GPT, you need the paid version, which is $20 per month. Through this program, we’ll gradually build a suite of custom GPTs tailored for different parts of your marketing. 
+
+Here’s what we’ll do: I’ll pop the link to the Brand Voice Builder in the chat. Open it on your computer if possible—it’s much easier to use that way. Click on the link and at the top, click “Start Building My Brand Voice.” The GPT will ask you a series of questions about your brand. We’ll answer them together, step by step. At the end, you’ll get clear brand guidelines you can copy–paste into your own custom GPT.
+
+Let’s start with the first prompt: “What’s your name and what’s your business name?” For this demo, let’s say “Ali” and “Ali Aesthetics Cosmetic Clinic.” 
+
+If you can’t remember if you have a ChatGPT account, just try opening chat.openai.com in your browser and see if you’re already logged in.
+
+Now, the next question: “If your brand was a person at a party, how would it show up?” Every brand needs a personality. If you don’t define it, your customers will decide for you. 
+
+For Basic Bananas, we are playful, intelligent, and focused on simplification—so anyone producing content knows it needs to have that tone. For your business, maybe it's just you—how would you describe your brand? Is it confident, calm, fun, playful, cheeky, wise? 
+
+Client: Probably a combination between fun and wise. 
+
+Christo: Who is your demographic?
+
+Client: Mainly women, aged 35–70.
+
+Christo: Fun and wise is pretty spot on for that audience. Everyone else, feel free to add your brand’s personality in the chat as well.
+
+Moving on: “What does your brand really stand for?” These are your guiding principles—your values. They are great to put on your website. For Basic Bananas, our values are: bold innovation, always growing, no-BS simplification, playfulness, community, and impact. Another example is a brand we worked with in a different industry—they put their manifesto right up on their wall so everyone walks in and knows what they stand for.
+
+So, what do you stand for? Any thoughts?
+
+Client: We listen to people. Many have gone elsewhere and not felt heard. We stand for authenticity, results-driven treatments.
+
+Christo: That’s a good start. If I asked your favorite customers why they come to you, what would they say?
+
+Client: They trust me, feel heard, I’m honest—they’re comfortable.
+
+Christo: Excellent. Note those down. Everyone here, if you can write down 3 to 5 non-negotiables, that’s perfect. Sometimes, these even become wall art for your clinic or waiting area—they reinforce what you stand for to your team and your clients.
+
+Another client: We don’t cross boundaries for treatments we feel aren’t right. Money doesn’t sway us. We make clients feel like friends, and trust is key.
+
+Christo: I love this. To make these your own, give each value a little definition or sentence that’s unique to your brand (for example, “Life is better with friends” instead of just “community”). When your values are unique and feel like you, your brand has a soul. Brands with soul stick around.
+
+Next question: “How do you want your clients to feel?” For Ali, that might be comfortable, heard, valued, important, empowered—like they’re the priority.
+
+Now let’s talk about brand archetypes—it’s one of those things big agencies charge a fortune to define, but I’ve put it straight into this GPT builder. There are 12 classic archetypes (the Rebel, the Hero, the Sage, the Caregiver, etc.). Which one fits your brand? You can often choose a blend of two.
+
+Client: Caregiver and Sage.
+
+Christo: Exactly what I was thinking based on how you described your business. Some may have a bit of “Magician” or “Hero” in there too, but for you, Caregiver and Sage give a really grounded, trustworthy feel. 
+
+Next, the tone of voice: What vibe do you want your writing to have? For Ali, it might be: smart, warm, trustworthy, nurturing, a sprinkling of wise—plus, a sense of fun and playfulness, but not over the top.
+
+Now, communication style for things like social media: Do you like short & punchy, or rich storytelling? Emojis? No emojis? 
+
+Client: More short and punchy. Not much storytelling. And we’re not supposed to use emojis—it’s not deemed professional, given regulations around clinical and medical communication.
+
+Christo: Good point. No emojis, avoid em dashes (they’re overused and a giveaway for AI-generated content), and keep the tone conversational. Minimal exclamation marks. And what does NOT fit your brand voice? Anything salesy, overly corporate, mentioning medical treatments directly (like certain brand names or procedures), or anything faddish—stick to timeless content.
+
+Now, can you write a tagline/sentence that nails your brand’s essence, or do you want help? 
+
+ChatGPT suggested: “We’re here to empower you with honest, expert skincare where you feel heard, cared for, and never sold to.” I’d tweak it—not “never sold to,” as that draws attention to the negative. Maybe: “We’re here to empower you with honest skincare so you feel heard, cared for, and have the knowledge to make the best decisions for yourself.”
+
+Let’s also look at a real example: The post that had the most engagement was something authentic and vulnerable—talking about self-care after a tough year. People connect with that openness, not just polished “everything’s perfect” business talk. Vulnerable shares are a powerful differentiator.
+
+You’ve now completed your brand strategy in about 45 minutes—much faster than traditional agency work. Next, I’ll show you where to paste the summary from the GPT builder. 
+
+1. Copy the summary text you get at the end.
+2. In ChatGPT, go to Explore GPTs, then click “Create” at the top right.
+3. Add a name (e.g., “Ali Brand Voice”) and paste the brand summary in. In the description, put “You are my copywriter.”
+4. Set access — “Anyone with the link can use.”
+5. Save it and share with your team—now anyone creating content can use it and stay on-brand.
+
+If anyone can’t find the Create button, make sure you have the paid (Plus) version—it’s needed for custom GPTs, and it will show “Plus” next to your name at the bottom. 
+
+Custom GPT creation currently works on desktop browsers, not on the phone app, so log in from your computer browser. I generally keep mine open all day to use as-needed, and you’ll probably do the same.
+
+Really well done today—just finish those last steps and you’ll have your first custom GPT in a matter of days. That puts you well ahead of most in your industry. We’ll keep building on it in future sessions.
+
+The recording will be posted in the members’ area. If you get lost, support can send you a little screen share to show where to find everything. 
+
+Next week, we’ll continue at the same lunchtime slot. 
+
+Well done, everyone.

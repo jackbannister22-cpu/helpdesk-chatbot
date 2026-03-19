@@ -1,0 +1,74 @@
+Question: How can Sharon increase repeat business and justify her high hourly rates for coaching and tutoring?
+Answer: Sharon can shift from purely hourly, in-person lessons to a hybrid model: providing some face-to-face sessions while delivering additional value through online resources, courses, and trainings that don't require her direct time for every session. This allows her to charge more and reduce face-to-face hours. Structuring offerings into programs (beginner, intermediate, advanced), creating video content, and using those videos both as course material and for marketing/social media all help. Clarifying the value proposition and using testimonials can further justify higher pricing and encourage client retention.
+Key Insight: By packaging her services and leveraging online resources, Sharon can scale her business, maintain high price points, and increase recurring revenue without being as tied to in-person, hourly work.
+
+---
+
+Question: How should Sharon structure her service offerings and marketing to attract more clients and reduce confusion?
+Answer: Sharon should clearly separate her different services—skateboard coaching and personal tutoring—so customers instantly understand what she offers. Avoid listing all 40 services together, as it creates confusion; instead, present each major offering with a short, specific paragraph or headline. Identify her ideal and most common clients to further focus her marketing, for example by target audience, niche, or the specific problem she solves.
+Key Insight: The clearer and more specific Sharon is in her marketing, the easier it is for clients to self-select and for her to charge premium prices within a focused niche.
+
+---
+
+Question: What is the best way for Sharon to clarify and document her individual services for customers?
+Answer: Sharon should create a high-level document or web page that explains each core service separately, with a focus on the most popular or ideal offerings. Pinned posts or lists aren't enough; short, clear headlines and introductory paragraphs make her business easier to understand. This clarity should extend to her website, social media bios, and main marketing materials.
+Key Insight: Clear documentation and differentiation of services make it easier for clients to comprehend and choose, improving conversion rates and supporting higher pricing.
+
+---
+
+Question: How can Sharon quickly increase cash flow while building long-term resources?
+Answer: Sharon can run a time-limited promotion (e.g., “first five clients at 50% off for the next two weeks”) and send it to past or current clients, paired with an offer of a couple of free sessions for testimonials. This helps bring in immediate revenue and builds social proof, which in turn fuels ongoing business while she develops her longer-term online resources and programs.
+Key Insight: Using focused promos and leveraging testimonials can quickly stimulate cash flow, all while long-term assets are under development.
+
+---
+
+Question: How should Sharon update her social media and Google Business profiles for better results?
+Answer: Sharon should ensure her social media banners include her branding, logo, and a tagline or clear hook. She should overlay snippets from testimonials for added credibility. On Google Business, she should update all business photos and product/service lists, and make sure information is current, even if the interface is confusing. For Instagram and other platforms, posting demonstration or teaching videos (“teach to sell” approach) will attract leads and build authority.
+Key Insight: Consistent branding and authority-building content across all online platforms make Sharon’s business more discoverable and trustworthy.
+
+---
+
+Question: What digital tools can help Sharon move waivers, contracts, and onboarding online?
+Answer: Sharon can use tools like JotForm, which offers signature fields, tick boxes, and payment options, or SignWell for digital contracts. These streamline client onboarding and automatically capture emails, which can then be added to her database for follow-up marketing.
+Key Insight: Digital onboarding saves time, improves data capture, and increases professionalism.
+
+---
+
+Question: What steps should Sharon focus on immediately to move her business forward?
+Answer: Sharon should:
+1. Clarify and structure her offerings into clear, separate products or programs.
+2. Begin filming video instruction for her courses, creating both marketing and paid materials.
+3. Update all online profiles for clarity and branding.
+4. Launch a short-term promo to increase cash flow and gather testimonials.
+5. Move to digital forms/waivers for easier client management.
+Key Insight: Systematically clarifying products, creating reusable teaching content, and improving client experience will set the foundation for scale and higher earnings.
+
+---
+
+Question: How should Kathy approach updating website SEO for kids party entertainment?
+Answer: Kathy should update existing relevant pages with keywords like “kids party entertainment” and “kids party entertainers,” especially on service and about/team pages. She can add a keyword-rich paragraph before booking buttons and include mini-content blocks like “about our entertainers.” Checking schema settings in Rank Math and using Google’s rich results tool ensures SEO is technically sound.
+Key Insight: Specific, keyword-focused updates to core pages and schema settings increase search engine performance and help customers find the right information faster.
+
+---
+
+Question: Should Kathy create new pages for each SEO keyword or update existing ones?
+Answer: She should update existing, relevant pages with targeted keywords rather than creating multiple new pages for slight keyword variations. This consolidates authority and improves user experience.
+Key Insight: Strengthening existing pages with targeted keywords is more effective than creating a proliferation of similar pages.
+
+---
+
+Question: How should Kathy structure testimonials and content in her email automation?
+Answer: Kathy should include one or two unique testimonials in each email of her sequence to build social proof without overloading the reader. Each testimonial should be different to keep content fresh and credible. Reducing the time gap between emails also keeps prospective customers engaged.
+Key Insight: Frequent, focused emails with unique testimonials and a clear call-to-action boost conversions from automated marketing.
+
+---
+
+Question: What is the best way for Helen to approach blogs and newsletters for SEO and branding?
+Answer: Helen should ensure all blog photos match her website’s branding (fonts, color schemes, layout). She can name image files with SEO keywords before uploading, and also include those keywords in title and alt text. Internal links within blog articles can point to other blog posts or cornerstone service pages to strengthen SEO; service/product pages should avoid too many outgoing links to keep visitors focused on buying.
+Key Insight: Consistency in branding, strategic image naming, and smart internal linking all work together to boost SEO and reinforce brand identity.
+
+---
+
+Question: What instructions should Helen give her website/SEO person regarding blog posts?
+Answer: Helen should send them the preferred URL slug, image naming conventions (with relevant keywords), and instructions for where and how to use internal links in each blog article. This ensures everything is implemented correctly for SEO and branding.
+Key Insight: Clear delegation and instructions to website partners accelerates results and avoids technical missteps.

@@ -1,0 +1,55 @@
+Question: What factors could be causing a low show-up rate for an online event, despite good registration numbers?
+Answer: Starting event promotion too early can cause people to register and then forget about the event by the time it occurs. It's generally ideal to promote the event within a two-week window before it happens to maximize registrations and show-up rates. You should also check for consistency in messaging between your ads, registration page, and pre-event emails. Any disconnect between what’s promised and what’s delivered in follow-up emails can lower attendance. Finally, the show-up rate can be influenced by how the Zoom link is distributed—delays or confusion can cause people to miss the event.
+Key Insight: Event timing, message alignment, and immediate access to joining details are critical levers for improving show-up rates.
+
+---
+
+Question: Is it better to delay including the Zoom link in confirmation emails or send it immediately upon registration?
+Answer: Always provide the Zoom link as soon as possible. If someone registers but doesn’t get the Zoom link right away, they may miss later emails, resulting in no access to the session. The best practice is to attach an ICS (calendar invite) file, containing the Zoom link, directly to your confirmation email. Create the event in your calendar, invite yourself, extract the ICS file, and send it as part of the confirmation so attendees can add it directly to their calendar.
+Key Insight: Immediate, frictionless access to the Zoom link, especially via a calendar invite, significantly increases attendance rates.
+
+---
+
+Question: How important is it for the brand voice and email messaging to remain consistent throughout the registration and email sequence?
+Answer: Consistency in tone and message is critical. Avoid introducing language in emails that wasn’t used in your sales page or ads (e.g., phrases like "I’m bad with money" if that’s not in your original messaging). This can come across as off-putting or patronizing. Similarly, ensure your brand's voice (like “hey lovely”) matches the market’s expectations—especially in sensitive industries like finance where professionalism is important for trust.
+Key Insight: Brand voice and message alignment throughout the customer journey builds trust and resonance, reducing drop-offs between registration and attendance.
+
+---
+
+Question: How can post-event email sequences be optimized to drive course sales effectively?
+Answer: When promoting a special offer (like 50% off a course), always mention the discounted and regular price directly (e.g., “now $497, usually $997”), to make the value obvious without extra clicks. In the after-event sequence, start with 1-2 emails mentioning both the replay and the special offer, then shift to purely promotional emails. For event attendees, only mention the recording once—they don’t need multiple reminders. Time your reminder emails so they land a few hours before the urgency window (like the evening before cutoff), ensuring people see them in time.
+Key Insight: Clear, direct value presentation and intentional timing of post-event emails boost the perceived value and drive conversions.
+
+---
+
+Question: What should be considered when using Eventbrite Ads versus Meta (Facebook/Instagram) Ads for event registrations?
+Answer: Eventbrite Ads are simple to set up (choose event, objective, budget, and location—no psychographic targeting). Leads from Eventbrite are typically cheaper, but show-up and conversion rates to higher-ticket offers are lower than Meta leads. Don’t set your targeting too broad—focus on your primary market (e.g., just Australia) before expanding. Use about a week of ads before the event.
+Key Insight: While Eventbrite delivers cheap leads, Meta Ads are generally higher quality for downstream conversions. Local targeting is key for relevant attendance.
+
+---
+
+Question: Should I run a large, resource-intensive event (like Gay Ski Week) if it has a history of only breaking even and I’m already behind on setup?
+Answer: If the event hasn’t shown consistent profitability or driven significant cross-sales to your core offerings, and setup is already behind, it’s usually better to focus on proven events and profitable new offers. Consider a stripped-back “lite” version only if it truly reduces your time and financial risk, and doesn’t distract from key revenue drivers. Keep options open to revisit a smaller event in the future to maintain stakeholder engagement, but don’t let it tie up resources now.
+Key Insight: Prioritize time and resources on proven, profitable events. Only experiment with new/legacy events if risk is minimal and core revenue isn’t jeopardized.
+
+---
+
+Question: How should primary lesson options (e.g., kids vs. adults) be displayed on a surf school homepage for best conversions?
+Answer: Put your main pathways—kids and adults lessons—side by side and clearly visible above the fold (without scrolling). Use two large, unmissable calls to action (buttons) so visitors can immediately proceed to their desired lesson type. Don’t let design minimalism obscure your conversion flow. Pull testimonials and gift voucher CTAs up the page, making them easy to find, especially during gift-giving seasons. Ensure testimonials are prominent and add images/icons for quick recognition.
+Key Insight: Make the user journey to core products obvious and frictionless—clarity and easy access trump minimalism for homepage design in conversion-focused businesses.
+
+---
+
+Question: How can AI chatbots and lesson selection on a booking website improve customer experience?
+Answer: People rarely read all the lesson descriptions, so an AI-powered chatbot that asks questions and funnels users to their best-fit product reduces confusion, shortens decision time, and increases bookings. Including a brief “what does stoke mean?” explainer helps newcomers understand your brand language. Use human-focused and instructional imagery in addition to aspirational shots to increase relatability.
+Key Insight: Proactive guidance and clear explanations reduce friction and improve booking rates, especially for first-time or uncertain buyers.
+
+---
+
+Question: What makes for an effective LinkedIn banner and how should trust signals be included?
+Answer: Choose a clean, on-brand design that’s visually clear and matches your overall message. Avoid banners that are too dark or use generic stock photos unless they specifically reinforce your brand’s positioning (for example, a techy/AI look if you’re emphasizing AI). If you add a testimonial for credibility, make it short and visually unobtrusive—preferably italics and quotes. Don’t let text crowd or clutter the banner; prioritize readability and impact.
+Key Insight: Clarity, brand alignment, and subtlety in trust signals make LinkedIn banners both credible and professional.
+
+---
+
+(End of structured knowledge blocks based on your rules.)

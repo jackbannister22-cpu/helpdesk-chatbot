@@ -1,0 +1,153 @@
+Christo: Let's get straight into it. Tina, I received some questions from you—some of which we've already covered last week, so let's look at which ones we need to address today. The digital marketing one is one to focus on. To recap, your question is around having no social media presence—LinkedIn, Facebook—and you're wondering whether you should wait until we reach those sections in the program. Also, online marketing like SEO, Google Ads—you want to know what you can do to improve your rankings, and whether you should be watching the SEO sessions in the portal.
+
+Tina: Yes, that's correct. My concern is, if I wait until mid-year when we start the SEO section, am I wasting months? SEO takes a long time to get moving. Is there something I should be doing now or should I hold off?
+
+Christo: For a local business, as we've discussed before, Google Reviews are important. That’s one thing to start with as part of your digital strategy. 
+
+Tina: We're working on getting more reviews at the moment.
+
+Christo: Great, keep focusing there. Now, for social media and SEO: you’re currently doing nothing on social media, correct?
+
+Tina: Nothing.
+
+Christo: Your concern is valid—you don't want to just start for the sake of starting, but want to do it properly.
+
+Tina: Exactly. Some of the followers we have on Facebook are from years ago and aren’t our target market anymore.
+
+Christo: Remind us of your target market, because that will define which channel you use and what you’ll do on them.
+
+Tina: Our target market is definitely commercial, not residential. The issue is the website designer keeps pushing for a split, but the 50% commercial clients we have are long-term, like councils, aged care, supermarkets, retail chains… It’s a lot of industrial, government and commercial work. I want to hit a market where we aren’t just bidding on price. But I’m confused right now about whether we should niche down further. It feels overwhelming—too many areas, too much advice.
+
+Christo: Let’s start with just one focus so you’re not overwhelmed. Let’s go down the commercial route until it’s systemized and optimized. Now, within those businesses, who in your target companies actually picks up the phone to book you? Is it the business owner, franchisee, or a manager?
+
+Tina: We haven’t advertised in years because of staffing—couldn’t take on more work. The customers we have, we’ve had for decades. Now profits and overheads mean we need to grow and increase marketing.
+
+Christo: You’re describing the Valley of Death. For new commercial business, is it the purchasing department, the operations manager, or…?
+
+Tina: I believe it’s the purchasing department, but in reality, I don’t have direct contact with them. I’d need to research it.
+
+Christo: That’s completely fine, but important to nail down so we can target. Let’s focus on commercial—just LinkedIn for now, for the next three months. Don’t worry about other social channels. You already have a profile. Now you need to find out exactly WHO in these organizations you want to target—speak to your existing clients, your team, and learn what titles your buyers have.
+
+Tina: Okay.
+
+Christo: So, your immediate action steps today are: (1) Focus only on LinkedIn for now. Update your profile and banner with commercial positioning and your new logo. Make it clear what you do and who you serve. (2) Identify specific people (not just departments) within your client targets—could be maintenance supervisor, state manager, etc. Find their titles.
+
+Tina: For the larger ones like supermarkets, I think it’s maintenance supervisors and then state managers.
+
+Christo: Great, connect with those people on LinkedIn and start building relationships. That’s your full social strategy for now. Now, about SEO: 
+
+We all need to start doing GEO too—generative engine optimization. This is about showing up in the large language models. When someone goes into ChatGPT and asks, “Who is the best security/locksmith in this area?” you want to come up. So the second task is to watch the SEO masterclass in the member portal—specifically, “How to Rank on Google Search.”
+
+Tina: Got it. I’ll watch that.
+
+Christo: So your actions—focus on LinkedIn, get the right banner and commercial positioning, find and connect with your true target audience, and watch the SEO masterclass. And keep working on getting Google Reviews. 
+
+Tina: With LinkedIn, if I connect with people and have no posts, does that look odd?
+
+Christo: No. When people connect with me, I usually just look at the title. Most people don’t look for posts—they look for relevance and potential value.
+
+Tina: Okay.
+
+Christo: Just use the search bar, find people in those job positions, and connect.
+
+Tina: Thank you.
+
+Sarah: I recommend the masterclasses on Google search and local set up—great for local businesses, reviews, and getting everything to work together.
+
+Christo: That’s right. Having proof of trusted commercial clients helps your positioning too. Make sure that’s visible on your website.
+
+Tina: The new website doesn’t feel commercial enough. I’m having issues with the current company understanding what I want, so I’ll do it myself in WordPress.
+
+Christo: Honestly, don’t spend your own time learning WordPress. Use a reliable freelancer—give them an exact list of changes (e.g., header text, more bullet points), and let them implement. Focus your time on connecting and growing the business, not tweaking websites.
+
+Tina: Good advice.
+
+Helen: I want to comment to Tina—collaborating with competitors isn’t a bad thing. You never know when you’ll need each other or have complimentary business.
+
+Tina: True, I just never thought about connecting with competitors before.
+
+Helen: They might even become part of your team one day.
+
+Tina: I suppose focusing on quality over quantity is where my head is at.
+
+Christo: That’s valid, but it’s fine to have broader connections for collaboration and opportunity.
+
+Helen: My question—what makes a good newsletter? What should or shouldn’t be in it? I’m confused by mixed opinions online.
+
+Christo: First, think of it as connecting with your database. If you got a newsletter from Helen, what kind of content would you want to read? Here are my guidelines: open with a personal, conversational introduction, as if writing to a friend. Don’t make it pitchy or too salesy upfront. Then offer valuable content relevant to your customers.
+
+Helen: The template my CRM person built has a main section and then a part for targeting different audiences—glass, framing, printing.
+
+Sarah: Poll your audience to find out what they’d like to hear about: discounts, education, design tips, cleaning tips, project highlights.
+
+Helen: Should the newsletter be an education channel or is that more for blogs?
+
+Christo: Share your blog content via the newsletter. In your newsletter, you can have quick design tips, highlight latest products, and then link to the blog for more details. 
+
+Helen: Good idea.
+
+Sarah: Offer tips on usage, cleaning, lighting, etc.—practical advice relevant to your products.
+
+Christo: So structure: Personalized intro, design tips (lead with value), quick highlights of new products, projects you’re working on, and a call to action. If you have blogs, link to the best one for the month. If not, start adding them to your site for SEO.
+
+Helen: Should I have blocks of blogs ready for this?
+
+Christo: One good blog is enough to start. Add them for SEO, then highlight in your newsletter. 
+
+Sarah: I love seeing actual projects too—photos or stories.
+
+Helen: I have a few to share there.
+
+Christo: At the end, include your CTA (e.g., come to the showroom, contact us). If you have special promotions (e.g., Valentine's Day framing suggestions), make that a section—be playful, add a deadline or discount if you wish. Add a clear subject line. Use tools like ChatGPT to help with headline ideas, but pick the tone that feels natural to you.
+
+Helen: Thank you, that really helps make it actionable.
+
+Christo: Keep it easy and short. Once a month is sufficient. Use photos, real examples, and always lead with value.
+
+Helen: And can I use the newsletter to directly promote a seasonal campaign, like Valentine’s Day ideas?
+
+Christo: Yes, add that as a heading or section. If you have a product photo, include it, and a clear deadline for ordering.
+
+Helen: Perfect, thank you.
+
+Christo: Be playful—suggest alternatives to traditional gifts, highlight the benefit, and set order/discount deadlines.
+
+Helen: My next plan is to highlight the new printer and offer a special to first customers.
+
+Christo: Excellent plan—monthly offers or feature announcements work well.
+
+Claire: On blogs—are we moving away from them towards resource/authority pages, or just making them shorter form?
+
+Christo: Doesn’t matter what you call it—Google and LLMs just need content. It can be a “blog,” “resources,” or “authority” page. The format isn’t critical—it’s the presence and quality of content that matters.
+
+Claire: I’ve just overhauled the backend of my site for SEO—meta, slugs, descriptions, alt text, etc.
+
+Christo: You’re on the right track. Three steps: (1) foundational tech setup (on-page SEO, naming, meta, plugins), (2) content (blogs, authority pages, whatever you call them), and (3) backlinks—links to your site from reputable sources. We’ll soon have access to a new tool for backlink building and will share that with you all.
+
+Amelia: Are blogs still important if your market (e.g., young women’s clothing) won’t read them?
+
+Christo: Yes. Even if your specific audience doesn’t read blogs, content helps with SEO and showing up in large language models (LLMs) like ChatGPT and Gemini. Also, LinkedIn articles help with LLMs, so you can re-use your blog content there for extra reach.
+
+Tina: Sorry, you keep saying LLM—what is that?
+
+Christo: Large Language Model—AI tools like ChatGPT, Gemini. They scrape and synthesize everything online. When someone asks for the best provider in a specific area, ChatGPT pulls from all the articles, blogs, and mentions across the web. Content helps you appear in those recommendations.
+
+Tina: So wording and strategy in content matters.
+
+Christo: Exactly. The key, as I was reminded by an SEO and GEO specialist I recorded a podcast with this morning: Do cool things in your business, then talk about it—honestly and often. That's what gets you found.
+
+Claire: Is there a trick to balancing quality content and backlink acquisition?
+
+Christo: Don’t chase hacky tactics, just keep doing interesting things and write about them. The rest will come.
+
+Now, two quick AI tools for those wanting to experiment: I use Manus (a ChatGPT alternative that’s more strategic with prompts) to help me construct exactly the right brief for tools like Lovable, which can auto-build landing pages or apps. Manus helps clarify all requirements by asking you questions, and you then put that detailed prompt into Lovable to actually create the thing. You can use Lovable's free plan for prototyping, but need a paid plan to publish.
+
+Sarah: Lovable limits daily questions right?
+
+Christo: Yes, Lovable has a limit. That’s why Manus is helpful for prepping a complete prompt before using up your quota on Lovable. But for most of you, don’t get distracted by the apps and AI tools yet—focus on the foundational stuff first, unless you want to have some fun experimenting.
+
+Sarah: The AI training—will that run again?
+
+Christo: Yes, we’ll keep running the AI Bunch program multiple times. If you join now, you get access to future reruns as well. If you want access to this round, I’ll give you a members’ code for a discounted rate. Let me know if you want it.
+
+Christo: Excellent work, everyone. Focus on the next action steps—LinkedIn for commercial, reviews for SEO, one piece at a time. See you in the next session.
